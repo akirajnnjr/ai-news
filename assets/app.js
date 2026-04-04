@@ -24,9 +24,8 @@ const CATEGORY_TAG_MAP = {
 // 狀態
 let state = {
   allNews: [],
-  selectedDate: null,    // null = today
+  selectedDate: null,
   selectedCat: 'all',
-  selectedSlot: 'all',   // 'all' | 'morning' | 'afternoon'
   lastUpdated: '',
 };
 
@@ -94,7 +93,6 @@ function getFilteredNews() {
   return state.allNews.filter(n => {
     if (n.date !== state.selectedDate) return false;
     if (state.selectedCat !== 'all' && n.mapped_category !== state.selectedCat) return false;
-    if (state.selectedSlot !== 'all' && n.time_slot !== state.selectedSlot) return false;
     return true;
   });
 }
@@ -213,13 +211,6 @@ function selectCat(cat) {
   renderNewsList();
 }
 
-function selectSlot(slot) {
-  state.selectedSlot = slot;
-  document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.slot === slot);
-  });
-  renderNewsList();
-}
 
 // ============================
 // Start

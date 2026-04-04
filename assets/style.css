@@ -237,42 +237,7 @@ body {
   max-width: 900px;
 }
 
-/* Time Slot Tabs */
-.tab-bar {
-  display: flex;
-  gap: 4px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 4px;
-  margin-bottom: 24px;
-  width: fit-content;
-}
 
-.tab-btn {
-  padding: 8px 20px;
-  border-radius: 7px;
-  cursor: pointer;
-  font-size: 0.875rem;
-  font-weight: 500;
-  transition: all var(--transition);
-  border: none;
-  background: transparent;
-  color: var(--text-secondary);
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.tab-btn:hover { color: var(--text-primary); }
-
-.tab-btn.active {
-  background: var(--bg-card);
-  color: var(--text-primary);
-  box-shadow: 0 1px 6px rgba(0,0,0,0.3);
-}
-
-.tab-icon { font-size: 1rem; }
 
 /* Stats bar */
 .stats-bar {
