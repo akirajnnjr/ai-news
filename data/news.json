@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-04-04T09:18:38.077005+08:00",
-  "total": 813,
+  "last_updated": "2026-04-04T16:00:30.439001+08:00",
+  "total": 814,
   "news": [
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "published": "2026-04-04T01:31:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "Exclusive",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "id": "502b81695f3cca8806a065e3f28682c7",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-04"
+    },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
