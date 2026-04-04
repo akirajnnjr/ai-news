@@ -21,6 +21,12 @@ const CATEGORY_TAG_MAP = {
   'AI Application': 'tag-application',
 };
 
+// 翻譯設定
+const USER_LANG = (navigator.language || 'en').toLowerCase();  // e.g. zh-TW, ja, ko
+const NEED_TRANSLATION = !USER_LANG.startsWith('en');          // 若瀏覽器語言非英語才翻譯
+const MYMEMORY_ENDPOINT = 'https://api.mymemory.translated.net/get';
+const translationCache = new Map();  // key: "text|lang", value: translatedText
+
 // 狀態
 let state = {
   allNews: [],
@@ -76,7 +82,8 @@ function formatDate(dateStr) {
   if (dateStr === today) return '今天';
   if (dateStr === yesterday) return '昨天';
   const d = new Date(dateStr + 'T12:00:00');
-  return d.toLocaleDateString('zh-TW', { month: 'long', day: 'numeric' });
+  // 加入年份
+  return d.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 
 function formatTime(isoStr) {
@@ -109,6 +116,7 @@ function renderAll() {
   renderDateList();
   renderCatList();
   renderNewsList();
+  translateVisible();
 }
 
 function renderHeader() {
@@ -168,9 +176,11 @@ function renderNewsList() {
     const tagClass = CATEGORY_TAG_MAP[n.mapped_category] || 'tag-application';
     const origTags = (n.original_categories || []).slice(0, 4)
       .map(t => `<span class="orig-tag">${escHtml(t)}</span>`).join('');
+    const transId = 'trans-' + n.id;
 
     return `
-      <a class="news-card" href="${escHtml(n.url)}" target="_blank" rel="noopener">
+      <a class="news-card" href="${escHtml(n.url)}" target="_blank" rel="noopener"
+         data-news-id="${escHtml(n.id)}">
         <div class="card-header">
           <div class="card-title">${escHtml(n.title)}</div>
         </div>
@@ -183,6 +193,7 @@ function renderNewsList() {
           <span class="card-sep">·</span>
           <span class="card-time">${formatTime(n.published)}</span>
         </div>
+        ${NEED_TRANSLATION ? `<div class="card-translation" id="${transId}">Translating...</div>` : ''}
       </a>`;
   }).join('');
 }
@@ -203,12 +214,74 @@ function selectDate(date) {
   state.selectedDate = date;
   renderDateList();
   renderNewsList();
+  translateVisible();
 }
 
 function selectCat(cat) {
   state.selectedCat = cat;
   renderCatList();
   renderNewsList();
+  translateVisible();
+}
+
+// ============================
+// Translation
+// ============================
+async function translateText(text, targetLang) {
+  if (!text) return '';
+  const cacheKey = targetLang + '|' + text;
+  if (translationCache.has(cacheKey)) return translationCache.get(cacheKey);
+
+  try {
+    const url = `${MYMEMORY_ENDPOINT}?q=${encodeURIComponent(text)}&langpair=en|${encodeURIComponent(targetLang)}`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    const translated = data?.responseData?.translatedText || text;
+    // MyMemory 有時回傳 MYMEMORY WARNING 開頭的錯誤訊息
+    if (translated.startsWith('MYMEMORY WARNING')) return text;
+    translationCache.set(cacheKey, translated);
+    return translated;
+  } catch {
+    return text;
+  }
+}
+
+async function translateCard(newsItem) {
+  if (!NEED_TRANSLATION) return;
+  const el = document.getElementById('trans-' + newsItem.id);
+  if (!el) return;
+
+  // 翻譯標題（必要）+ 摘要（前150字）
+  const titlePromise = translateText(newsItem.title, USER_LANG);
+  const summaryText = (newsItem.summary || '').slice(0, 200);
+  const summaryPromise = summaryText ? translateText(summaryText, USER_LANG) : Promise.resolve('');
+
+  const [title, summary] = await Promise.all([titlePromise, summaryPromise]);
+
+  if (!el) return;  // 可能在結果回來前已換頁
+  if (title && title !== newsItem.title) {
+    el.innerHTML = `<span class="trans-title">${escHtml(title)}</span>` +
+      (summary && summary !== summaryText ? `<span class="trans-summary">${escHtml(summary)}</span>` : '');
+    el.style.display = 'block';
+  } else {
+    el.style.display = 'none'; // 翻譯結果與原文相同時隱藏
+  }
+}
+
+function translateVisible() {
+  if (!NEED_TRANSLATION) return;
+  const filtered = getFilteredNews();
+  // 使用並行發送，但限制同時最多 5 個請求，避免被 rate limit
+  const BATCH = 5;
+  let index = 0;
+  function nextBatch() {
+    const batch = filtered.slice(index, index + BATCH);
+    if (batch.length === 0) return;
+    index += BATCH;
+    Promise.all(batch.map(n => translateCard(n))).then(nextBatch);
+  }
+  nextBatch();
 }
 
 async function refreshNews() {
