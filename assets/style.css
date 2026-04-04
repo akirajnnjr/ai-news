@@ -98,7 +98,52 @@ body {
   color: var(--text-muted);
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
+}
+
+.header-btn {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 4px 12px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color var(--transition), border-color var(--transition), background var(--transition);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  white-space: nowrap;
+}
+
+.header-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--border-bright);
+  background: var(--bg-hover);
+}
+
+.header-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.header-btn-outline {
+  border-color: rgba(88, 166, 255, 0.3);
+  color: var(--accent-blue);
+}
+
+.header-btn-outline:hover {
+  background: rgba(88, 166, 255, 0.1);
+  border-color: var(--accent-blue);
+  color: var(--accent-blue);
+}
+
+.header-sep {
+  color: var(--border);
+  font-size: 1rem;
+  line-height: 1;
 }
 
 .status-dot {

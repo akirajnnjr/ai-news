@@ -211,6 +211,36 @@ function selectCat(cat) {
   renderNewsList();
 }
 
+async function refreshNews() {
+  const btn = document.getElementById('refresh-btn');
+  const icon = document.getElementById('refresh-icon');
+  if (btn.disabled) return;
+
+  btn.disabled = true;
+  icon.style.display = 'inline-block';
+  icon.style.animation = 'spin 0.8s linear infinite';
+
+  try {
+    const res = await fetch(NEWS_URL + '?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    state.allNews = data.news || [];
+    state.lastUpdated = data.last_updated || '';
+
+    const dates = getUniqueDates();
+    // 保持選中的日期，若不存在則回到最新
+    if (!dates.includes(state.selectedDate)) {
+      state.selectedDate = dates[0] || getTodayStr();
+    }
+    renderAll();
+  } catch (err) {
+    console.error('Refresh failed:', err);
+  } finally {
+    btn.disabled = false;
+    icon.style.animation = '';
+  }
+}
+
 
 // ============================
 // Start
