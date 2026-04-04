@@ -7,6 +7,7 @@
   <title>AI News Hub</title>
   <meta name="description" content="每日自動聚合 AI 最新新聞，分類涵蓋 LLM、AI 公司、AI 服務及 AI 技術應用。">
   <link rel="stylesheet" href="assets/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
 </head>
 
 <body>
@@ -20,6 +21,12 @@
         AI News Hub
       </a>
       <div class="header-meta">
+        <!-- View Toggle -->
+        <div class="view-toggle">
+          <button class="view-btn active" id="btn-news" onclick="switchView('news')">News</button>
+          <button class="view-btn" id="btn-stats" onclick="switchView('stats')">Stats</button>
+        </div>
+        <span class="header-sep">|</span>
         <button class="header-btn" id="refresh-btn" onclick="refreshNews()" title="重新載入 news.json">
           <span id="refresh-icon">&#8635;</span> Refresh
         </button>
@@ -37,47 +44,72 @@
     <!-- Sidebar -->
     <aside class="sidebar">
 
-      <div class="sidebar-section">
-        <div class="sidebar-label">日期</div>
-        <ul class="date-list" id="date-list">
-          <li class="date-item"><span>載入中...</span></li>
-        </ul>
+      <!-- News sidebar -->
+      <div id="sidebar-news">
+        <div class="sidebar-section">
+          <div class="sidebar-label">日期</div>
+          <ul class="date-list" id="date-list">
+            <li class="date-item"><span>載入中...</span></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">分類</div>
+          <ul class="cat-list" id="cat-list">
+            <li class="cat-item"><span>載入中...</span></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">來源管理</div>
+          <div style="font-size:0.78rem; color:var(--text-muted); line-height:1.6; padding:0 4px;">
+            編輯 <code style="color:var(--accent-blue); font-size:0.76rem;">data/sources.json</code>
+            新增或停用 RSS 來源（設定 <code style="color:var(--accent-purple); font-size:0.76rem;">enabled: false</code> 即可暫停）
+          </div>
+        </div>
       </div>
 
-      <div class="sidebar-section">
-        <div class="sidebar-label">分類</div>
-        <ul class="cat-list" id="cat-list">
-          <li class="cat-item"><span>載入中...</span></li>
-        </ul>
-      </div>
+      <!-- Stats sidebar -->
+      <div id="sidebar-stats" style="display:none;">
+        <div class="sidebar-section">
+          <div class="sidebar-label">篩選年份</div>
+          <ul class="date-list" id="year-list"></ul>
+        </div>
 
-      <div class="sidebar-section">
-        <div class="sidebar-label">來源管理</div>
-        <div style="font-size:0.78rem; color:var(--text-muted); line-height:1.6; padding:0 4px;">
-          編輯 <code style="color:var(--accent-blue); font-size:0.76rem;">data/sources.json</code>
-          新增或停用 RSS 來源（設定 <code style="color:var(--accent-purple); font-size:0.76rem;">enabled: false</code> 即可暫停）
+        <div class="sidebar-section">
+          <div class="sidebar-label">分類說明</div>
+          <div class="chart-legend">
+            <div class="legend-item"><span class="legend-dot" style="background:var(--cat-llm)"></span>LLM</div>
+            <div class="legend-item"><span class="legend-dot" style="background:var(--cat-company)"></span>AI Company</div>
+            <div class="legend-item"><span class="legend-dot" style="background:var(--cat-service)"></span>AI Service</div>
+            <div class="legend-item"><span class="legend-dot" style="background:var(--cat-application)"></span>AI Application</div>
+          </div>
         </div>
       </div>
 
     </aside>
 
-    <!-- Main Content -->
-    <main class="main-content">
-
-
-      <!-- Stats -->
+    <!-- Main Content: News View -->
+    <main class="main-content" id="view-news">
       <div class="stats-bar">
         共 <strong id="stats-count">—</strong> 篇新聞
       </div>
-
-      <!-- News List -->
       <div class="news-list" id="news-list">
         <div class="loading">
           <div class="spinner"></div>
           <div>載入新聞中...</div>
         </div>
       </div>
+    </main>
 
+    <!-- Main Content: Stats View -->
+    <main class="main-content" id="view-stats" style="display:none;">
+      <div class="stats-bar">
+        <strong id="chart-title">各分類每日文章數量</strong>
+      </div>
+      <div class="chart-container">
+        <canvas id="stats-chart"></canvas>
+      </div>
     </main>
 
   </div>

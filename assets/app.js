@@ -316,6 +316,160 @@ async function refreshNews() {
 
 
 // ============================
+// Stats / Chart
+// ============================
+const CAT_COLORS = {
+  'LLM':            '#bc8cff',
+  'AI Company':     '#58a6ff',
+  'AI Service':     '#3fb950',
+  'AI Application': '#f0883e',
+};
+const CHART_CATS = ['LLM', 'AI Company', 'AI Service', 'AI Application'];
+
+let chartInstance = null;
+let chartState = {
+  selectedYear: null,
+};
+
+function switchView(view) {
+  const isStats = view === 'stats';
+  document.getElementById('view-news').style.display   = isStats ? 'none' : 'block';
+  document.getElementById('view-stats').style.display  = isStats ? 'block' : 'none';
+  document.getElementById('sidebar-news').style.display = isStats ? 'none' : 'block';
+  document.getElementById('sidebar-stats').style.display = isStats ? 'block' : 'none';
+  document.getElementById('btn-news').classList.toggle('active', !isStats);
+  document.getElementById('btn-stats').classList.toggle('active', isStats);
+  if (isStats) {
+    renderYearList();
+    renderChart();
+  }
+}
+
+function getAvailableYears() {
+  const years = [...new Set(state.allNews.map(n => (n.date || '').slice(0, 4)).filter(Boolean))];
+  return years.sort((a, b) => b.localeCompare(a));
+}
+
+function renderYearList() {
+  const years = getAvailableYears();
+  if (!chartState.selectedYear || !years.includes(chartState.selectedYear)) {
+    chartState.selectedYear = years[0] || String(new Date().getFullYear());
+  }
+  const container = document.getElementById('year-list');
+  container.innerHTML = years.map(y => `
+    <li class="date-item ${y === chartState.selectedYear ? 'active' : ''}"
+        onclick="selectYear('${y}')">
+      <span>${y}</span>
+      <span class="date-count">${state.allNews.filter(n => n.date && n.date.startsWith(y)).length}</span>
+    </li>
+  `).join('');
+}
+
+function selectYear(year) {
+  chartState.selectedYear = year;
+  renderYearList();
+  renderChart();
+}
+
+function buildChartData(year) {
+  // 取得所選年份所有日期
+  const news = state.allNews.filter(n => n.date && n.date.startsWith(year));
+  const dates = [...new Set(news.map(n => n.date))].sort();
+
+  const datasets = CHART_CATS.map(cat => {
+    const data = dates.map(date =>
+      news.filter(n => n.date === date && n.mapped_category === cat).length
+    );
+    return {
+      label: cat,
+      data,
+      borderColor: CAT_COLORS[cat],
+      backgroundColor: CAT_COLORS[cat] + '22',
+      pointBackgroundColor: CAT_COLORS[cat],
+      pointRadius: dates.length > 60 ? 2 : 4,
+      pointHoverRadius: 6,
+      borderWidth: 2,
+      tension: 0.35,
+      fill: false,
+    };
+  });
+
+  return { labels: dates, datasets };
+}
+
+function renderChart() {
+  const year = chartState.selectedYear;
+  if (!year) return;
+
+  const titleEl = document.getElementById('chart-title');
+  if (titleEl) titleEl.textContent = `${year}年各分類每日文章數量`;
+
+  const { labels, datasets } = buildChartData(year);
+  const canvas = document.getElementById('stats-chart');
+  if (!canvas) return;
+
+  if (chartInstance) {
+    chartInstance.destroy();
+    chartInstance = null;
+  }
+
+  chartInstance = new Chart(canvas, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: {
+          display: true,
+          position: 'top',
+          labels: {
+            color: '#8b949e',
+            usePointStyle: true,
+            pointStyleWidth: 10,
+            padding: 20,
+            font: { size: 12, family: 'Inter, sans-serif' },
+          },
+        },
+        tooltip: {
+          backgroundColor: '#1c2333',
+          borderColor: '#30363d',
+          borderWidth: 1,
+          titleColor: '#e6edf3',
+          bodyColor: '#8b949e',
+          padding: 12,
+          callbacks: {
+            title: items => items[0]?.label || '',
+            label: item => ` ${item.dataset.label}: ${item.raw} 篇`,
+          },
+        },
+      },
+      scales: {
+        x: {
+          ticks: {
+            color: '#6e7681',
+            maxTicksLimit: 12,
+            maxRotation: 45,
+            font: { size: 11 },
+          },
+          grid: { color: '#21293d' },
+        },
+        y: {
+          beginAtZero: true,
+          ticks: {
+            color: '#6e7681',
+            stepSize: 1,
+            font: { size: 11 },
+          },
+          grid: { color: '#21293d' },
+        },
+      },
+    },
+  });
+}
+
+// ============================
 // Start
 // ============================
 document.addEventListener('DOMContentLoaded', init);
