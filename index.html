@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News Hub</title>
+  <meta name="description" content="每日自動聚合 AI 最新新聞，分類涵蓋 LLM、AI 公司、AI 服務及 AI 技術應用。">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="app-wrapper">
+
+  <!-- Header -->
+  <header class="header">
+    <a class="header-logo" href="#">
+      <span class="logo-icon">🤖</span>
+      AI News Hub
+    </a>
+    <div class="header-meta">
+      <span class="status-dot"></span>
+      <span id="last-updated">載入中...</span>
+    </div>
+  </header>
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">日期</div>
+      <ul class="date-list" id="date-list">
+        <li class="date-item"><span>載入中...</span></li>
+      </ul>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">分類</div>
+      <ul class="cat-list" id="cat-list">
+        <li class="cat-item"><span>載入中...</span></li>
+      </ul>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">來源管理</div>
+      <div style="font-size:0.78rem; color:var(--text-muted); line-height:1.6; padding:0 4px;">
+        編輯 <code style="color:var(--accent-blue); font-size:0.76rem;">data/sources.json</code>
+        新增或停用 RSS 來源（設定 <code style="color:var(--accent-purple); font-size:0.76rem;">enabled: false</code> 即可暫停）
+      </div>
+    </div>
+
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+
+    <!-- Time Slot Tabs -->
+    <div class="tab-bar">
+      <button class="tab-btn active" data-slot="all" onclick="selectSlot('all')">
+        <span class="tab-icon">📰</span> 全部
+      </button>
+      <button class="tab-btn" data-slot="morning" onclick="selectSlot('morning')">
+        <span class="tab-icon">🌅</span> 上午
+      </button>
+      <button class="tab-btn" data-slot="afternoon" onclick="selectSlot('afternoon')">
+        <span class="tab-icon">🌇</span> 下午
+      </button>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats-bar">
+      共 <strong id="stats-count">—</strong> 篇新聞
+    </div>
+
+    <!-- News List -->
+    <div class="news-list" id="news-list">
+      <div class="loading">
+        <div class="spinner"></div>
+        <div>載入新聞中...</div>
+      </div>
+    </div>
+
+  </main>
+
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
