@@ -1,7 +1,60 @@
 {
-  "last_updated": "2026-04-05T13:56:23.461896+08:00",
-  "total": 815,
+  "last_updated": "2026-04-06T14:18:23.227892+08:00",
+  "total": 818,
   "news": [
+    {
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "published": "2026-04-05T18:51:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Copilot",
+        "Microsoft"
+      ],
+      "id": "197955630132d561006e1c59a871ab99",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "published": "2026-04-05T15:40:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "Equity podcast"
+      ],
+      "id": "c436a0a63b94d56da769fcd7b7aec5e1",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "published": "2026-04-05T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Hardware",
+        "AI",
+        "Japan",
+        "Salesforce Ventures",
+        "Global Brain",
+        "woven capital",
+        "physical ai"
+      ],
+      "id": "3cae30a0b52c777876cd3c03fe546aad",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-05"
+    },
     {
       "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
       "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
