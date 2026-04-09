@@ -1,7 +1,261 @@
 {
-  "last_updated": "2026-04-08T17:50:46.793400+08:00",
-  "total": 844,
+  "last_updated": "2026-04-09T14:00:04.159293+08:00",
+  "total": 858,
   "news": [
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+      "published": "2026-04-08T20:49:11+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "Security",
+        "critical infrastructure",
+        "hacking",
+        "PLCs",
+        "Programmable logic controllers"
+      ],
+      "id": "30fd578ec9af8e49f88afb243a1df409",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Thousands of consumer routers hacked by Russia's military",
+      "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+      "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
+      "published": "2026-04-08T11:00:08+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "Security",
+        "credentials",
+        "DNS",
+        "hacking",
+        "routers"
+      ],
+      "id": "85340373c7b1138c95944c79c8ddd059",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "published": "2026-04-08T21:05:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI agents",
+        "ai automation",
+        "consumer AI",
+        "Exclusive",
+        "Poke"
+      ],
+      "id": "561854044d742db233cb2bd6cfa97b59",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "published": "2026-04-08T20:09:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "AWS",
+        "OpenAI",
+        "Anthropic",
+        "Matt Garman"
+      ],
+      "id": "cc2ebcc5f43f1a0275b6d0a8fad4d147",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "published": "2026-04-08T18:23:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "ChatGPT",
+        "streaming service",
+        "tubi"
+      ],
+      "id": "4e33cbdc8061e046d212bdd1a3dedbec",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "published": "2026-04-08T16:01:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "remoteaccesssoftware",
+        "Astropad",
+        "AI agents",
+        "remote desktop"
+      ],
+      "id": "bc940f4b0e88a9006d127d59533510fd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "published": "2026-04-08T15:23:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "online child safety",
+        "OpenAI"
+      ],
+      "id": "cc07171a4719a9b3f9d7dc801e5237a7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "published": "2026-04-08T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "ACM",
+        "AGI",
+        "Databricks"
+      ],
+      "id": "2245a2e54fade02bd662246028a9c61b",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "summary": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.",
+      "published": "2026-04-08T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fintech",
+        "Fundraising",
+        "Robotics",
+        "Security",
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "56d32e1206fd165c24977e091991f579",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+      "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "published": "2026-04-08T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Enterprise",
+        "AI",
+        "Apps",
+        "Atlassian",
+        "confluence",
+        "JIRA",
+        "AI agents",
+        "artificial intelligence"
+      ],
+      "id": "39ee9b67d4f42deeecd2f98594e2d065",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began&#8230;",
+      "published": "2026-04-08T14:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "App",
+        "artificial intelligence",
+        "Opinion",
+        "Subscriber-Only Stories"
+      ],
+      "id": "10e4e36408bea9b7fe9ea854db2e0ab9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable&#160; As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization technology that supplies water in the region.&#160;&#160;President&#8230;",
+      "published": "2026-04-08T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7017c143939d14c61335b284d945bb89",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "summary": "",
+      "published": "2026-04-08T14:27:42+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "33b06a63756721c27b623dc1e15c659e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "summary": "",
+      "published": "2026-04-08T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "36a2eccf90d1666aea9c6976c28c2e40",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-08"
+    },
     {
       "title": "Training mRNA Language Models Across 25 Species for $165",
       "url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
