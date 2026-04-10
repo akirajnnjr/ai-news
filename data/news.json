@@ -1,7 +1,271 @@
 {
-  "last_updated": "2026-04-09T14:00:04.159293+08:00",
-  "total": 858,
+  "last_updated": "2026-04-10T14:19:11.110838+08:00",
+  "total": 873,
   "news": [
+    {
+      "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+      "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+      "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
+      "published": "2026-04-09T19:44:31+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "acquisitions",
+        "Broadcom",
+        "mergers",
+        "vmware"
+      ],
+      "id": "b9e31970d4663860dd4c367dabbd45db",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+      "published": "2026-04-09T21:29:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "id": "2380ccb72e9cdcb157d5b01988d6b7db",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+      "published": "2026-04-09T20:11:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "d3ff1111cec4c4d159b7752b79e984e6",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "After data breach, $10B-valued startup Mercor is having a month",
+      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+      "published": "2026-04-09T19:33:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "Delve",
+        "Mercor",
+        "LiteLLM"
+      ],
+      "id": "8967692d887914274bcee313e35f0c9b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+      "published": "2026-04-09T19:10:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "meta ai",
+        "muse spark"
+      ],
+      "id": "1980b507f93b36b4e475bab0b4af032b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+      "published": "2026-04-09T18:50:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "cybersecurity",
+        "Anthropic",
+        "Mythos"
+      ],
+      "id": "04de243c816aaf56c461d61797a84895",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Google and Intel deepen AI infrastructure partnership",
+      "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+      "published": "2026-04-09T18:27:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Enterprise",
+        "Hardware",
+        "AI",
+        "ai infrastructure",
+        "cpus",
+        "google cloud",
+        "GPUS",
+        "In Brief",
+        "Intel",
+        "IPUs"
+      ],
+      "id": "5fcaf69abc30aff8459a08229c4033ee",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+      "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+      "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.",
+      "published": "2026-04-09T17:20:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Bret Taylor",
+        "AI agents",
+        "Sierra Ai"
+      ],
+      "id": "c4edc5c6d7613107a76b3f889af04d7b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+      "published": "2026-04-09T14:27:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Amazon",
+        "Andy Jassy",
+        "AWS",
+        "CAPEX",
+        "OpenAI"
+      ],
+      "id": "398acbe76d9d21a6942f0f7d37ddbb44",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+      "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
+      "published": "2026-04-09T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Hardware",
+        "Media & Entertainment",
+        "Robotics",
+        "Space",
+        "Startups",
+        "Transportation",
+        "Venture",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "eff249352d6a78524f3f617e9348bc35",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?&#160;The&#160;AstroTurf&#160;wars&#160;are&#160;far&#160;from&#160;over.&#160; In 2001,&#160;Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The&#8230;",
+      "published": "2026-04-09T12:25:10+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "a9fdea374238d94cf78a9f8e15693efb",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
+      "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
+      "summary": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more than an acre of synthetic turf roughly the color of the felt on a pool table, almost digital in its saturation.&#8230;",
+      "published": "2026-04-09T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "50a626fabbfa2c50c9c57a4b46bd09d5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Desalination technology, by the numbers",
+      "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
+      "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the Middle East. But just how much some countries rely on desalination,&#8230;",
+      "published": "2026-04-09T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "The Spark"
+      ],
+      "id": "7c3b4f90455449dcbfc2330df96a2607",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "url": "https://huggingface.co/blog/waypoint-1-5",
+      "summary": "",
+      "published": "2026-04-09T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "cb929f08664bb38779487350b89beb1f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "summary": "",
+      "published": "2026-04-09T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "aeed5283fa2292a239084f82e2ac66b8",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-09"
+    },
     {
       "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
       "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
