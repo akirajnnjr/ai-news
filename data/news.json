@@ -1,7 +1,133 @@
 {
-  "last_updated": "2026-04-10T14:19:11.110838+08:00",
-  "total": 873,
+  "last_updated": "2026-04-11T13:19:02.624022+08:00",
+  "total": 880,
   "news": [
+    {
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "published": "2026-04-10T20:27:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "openclaw",
+        "Peter Steinberger"
+      ],
+      "id": "82b94a279d39e47bc1a2ca093c081709",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "published": "2026-04-10T16:41:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai psychosis",
+        "ChatGPT",
+        "Exclusive",
+        "gpt-4o",
+        "jay edelson",
+        "OpenAI",
+        "openai lawsuit"
+      ],
+      "id": "ff1eb47daf7efd254a692846c4e79f28",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+      "published": "2026-04-10T16:38:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Media & Entertainment",
+        "AI",
+        "Robotics"
+      ],
+      "id": "359299c0225cdfee47c616d9dfc0df25",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
+      "published": "2026-04-10T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Enterprise",
+        "Startups",
+        "Transportation",
+        "Space",
+        "Climate",
+        "Fintech",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "41818e7c705b1f4fa15ae42489c9ea6b",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+      "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+      "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in&#8230;",
+      "published": "2026-04-10T14:04:20+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "The Checkup"
+      ],
+      "id": "9067ba49caa22d2516f17d6c72411a7a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &#160; A spacecraft has crash-landed on a hostile planet. The only survivors&#8230;",
+      "published": "2026-04-10T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c06200ad741c86ae0a539e35d3f94d5c",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Constellations",
+      "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.&#160; Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which&#8230;",
+      "published": "2026-04-10T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "e3e78db82abf885a808e88822406cc20",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-10"
+    },
     {
       "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
       "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
