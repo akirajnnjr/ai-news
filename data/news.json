@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-11T13:19:02.624022+08:00",
-  "total": 880,
+  "last_updated": "2026-04-12T14:10:41.168794+08:00",
+  "total": 881,
   "news": [
+    {
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "published": "2026-04-11T17:18:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "0d1c21e4793a5742fe3a466c3212d3d1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-12"
+    },
     {
       "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
       "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
