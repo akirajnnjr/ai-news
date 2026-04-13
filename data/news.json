@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-04-13T15:26:22.483754+08:00",
-  "total": 886,
+  "last_updated": "2026-04-13T19:04:48.941243+08:00",
+  "total": 888,
   "news": [
+    {
+      "title": "Job titles of the future: Wildlife first responder",
+      "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild&#8230;",
+      "published": "2026-04-13T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "id": "48766101f442eea00eb433081fa449cf",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "You have no choice in reading this article—maybe",
+      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;",
+      "published": "2026-04-13T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "8646a0bd77d03b9786e95d307cee7406",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-13"
+    },
     {
       "title": "The largest orbital compute cluster is open for business",
       "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
