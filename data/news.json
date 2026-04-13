@@ -1,7 +1,94 @@
 {
-  "last_updated": "2026-04-12T14:10:41.168794+08:00",
-  "total": 881,
+  "last_updated": "2026-04-13T15:26:22.483754+08:00",
+  "total": 886,
   "news": [
+    {
+      "title": "The largest orbital compute cluster is open for business",
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+      "published": "2026-04-13T07:01:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Space",
+        "AI"
+      ],
+      "id": "f35db54e5f9fb9ffabf048d329cc8848",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "published": "2026-04-12T21:14:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "jerome powell",
+        "Scott Bessent",
+        "Anthropic"
+      ],
+      "id": "0edae4e8a7e03a8133497d5b10c5a09a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "published": "2026-04-12T19:58:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Gadgets",
+        "AI",
+        "Hardware",
+        "Apple",
+        "SMART Glasses"
+      ],
+      "id": "77a7f187225947df02603d247ab7b6fc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "2026-04-12T15:07:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "evergreens",
+        "artificial intelligence",
+        "Glossary"
+      ],
+      "id": "977748756a7cc94001493b62a4785084",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-12"
+    },
+    {
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "published": "2026-04-12T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "ChatGPT",
+        "claude code",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "72ce90ad289d93c53c3e59dfede65527",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-04-12"
+    },
     {
       "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
       "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
