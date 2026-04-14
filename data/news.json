@@ -1,7 +1,129 @@
 {
-  "last_updated": "2026-04-13T19:04:48.941243+08:00",
-  "total": 888,
+  "last_updated": "2026-04-14T14:19:03.296222+08:00",
+  "total": 895,
   "news": [
+    {
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "published": "2026-04-14T00:23:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "Startups",
+        "TC",
+        "acquisition",
+        "OpenAI"
+      ],
+      "id": "d79fd99fd6a0200c13d941d9e425ec22",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+      "published": "2026-04-13T19:05:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "ai agent",
+        "Copilot",
+        "Microsoft",
+        "openclaw"
+      ],
+      "id": "67a5aaba5823bfde7eacbc63a8cd2fa8",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "published": "2026-04-13T18:55:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "sam altman",
+        "stanford ai report",
+        "public sentiment"
+      ],
+      "id": "5ddf6c5a06b174d7df312d3393112d9f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+      "published": "2026-04-13T15:22:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Venture",
+        "AI",
+        "agents",
+        "hosting",
+        "IPO",
+        "Vercel"
+      ],
+      "id": "48f40a99a5e29febee07fadce31e5ccb",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Why opinion on AI is so divided",
+      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after&#8230;",
+      "published": "2026-04-13T15:48:28+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "444cfbde04fd8ca1f40ff7ca30f71fca",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Want to understand the current state of AI? Check out these charts.",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;",
+      "published": "2026-04-13T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "384794bf0465095fda8c6cf8630f24b8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in his early twenties suggesting&#8230;",
+      "published": "2026-04-13T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "4f4253e909d3b257090e0c509042e341",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-13"
+    },
     {
       "title": "Job titles of the future: Wildlife first responder",
       "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
