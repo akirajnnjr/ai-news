@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-14T14:19:03.296222+08:00",
-  "total": 895,
+  "last_updated": "2026-04-14T18:43:18.877335+08:00",
+  "total": 896,
   "news": [
+    {
+      "title": "The problem with thinking you’re part Neanderthal",
+      "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry&#8230;",
+      "published": "2026-04-14T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "83de39ec496a7b1cfd012bbf297c1067",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-14"
+    },
     {
       "title": "OpenAI has bought AI personal finance startup Hiro",
       "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
