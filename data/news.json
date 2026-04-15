@@ -1,7 +1,216 @@
 {
-  "last_updated": "2026-04-14T18:43:18.877335+08:00",
-  "total": 896,
+  "last_updated": "2026-04-15T14:20:14.609622+08:00",
+  "total": 908,
   "news": [
+    {
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+      "published": "2026-04-15T02:31:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "iconiq capital",
+        "OpenAI"
+      ],
+      "id": "d9d61aaf0a79bb91a5afdc071705dddd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+      "published": "2026-04-14T18:09:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "jack clark",
+        "Mythos",
+        "national security"
+      ],
+      "id": "4126c0f474b7e5ceb10c491b3ad5c3e2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+      "published": "2026-04-14T17:13:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "BCI",
+        "Exclusive",
+        "Max Hodak",
+        "Science Corporation"
+      ],
+      "id": "0acbd69258fa7304351db1b58bab4089",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+      "published": "2026-04-14T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Chrome",
+        "Google",
+        "gemini",
+        "AI prompts",
+        "chrome skills"
+      ],
+      "id": "3f6d57e3ecee7ede1bbada4cb1654759",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+      "published": "2026-04-14T15:30:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "Replit",
+        "StrictlyVC",
+        "TDK Ventures"
+      ],
+      "id": "1f90a2ae46f2256f8e0e3f77b40f9b79",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+      "published": "2026-04-14T14:48:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "AI",
+        "Apps",
+        "gemini",
+        "Google"
+      ],
+      "id": "82dedecec62df4ee332c51ea685bc8a4",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "published": "2026-04-14T14:22:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "AI",
+        "Apps",
+        "Apple",
+        "developers",
+        "iOS",
+        "app store",
+        "vibe coding"
+      ],
+      "id": "0549ac3468658a2cfbc9a0aa8d290e2f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Building trust in the AI era with privacy-led UX",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.&#8230;",
+      "published": "2026-04-15T06:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "c3bd0794096f6828f3e35040d9aeb7d8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Redefining the future of software engineering",
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such&#8230;",
+      "published": "2026-04-14T18:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "459633ee1619f12765f49de0c2fc8369",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.&#160; If&#160;you’re&#160;following AI news,&#160;you’re&#160;probably getting&#160;whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI&#160;can’t&#160;even&#8230;",
+      "published": "2026-04-14T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "a5a096728c6df4adcdfcad5d8095826c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters&#8230;",
+      "published": "2026-04-14T12:04:47+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Space",
+        "App",
+        "MIT Technology Review Explains"
+      ],
+      "id": "a859eeda831f7a44e92589f64c196037",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;",
+      "published": "2026-04-14T11:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI10 2026",
+        "App"
+      ],
+      "id": "9d31d8ec9b7574d429e36abc04b522a1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-14"
+    },
     {
       "title": "The problem with thinking you’re part Neanderthal",
       "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
