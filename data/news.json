@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-04-15T14:20:14.609622+08:00",
-  "total": 908,
+  "last_updated": "2026-04-15T18:43:07.361764+08:00",
+  "total": 910,
   "news": [
+    {
+      "title": "No one’s sure if synthetic mirror life will kill us all",
+      "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a compelling contender: making “mirror” bacteria. Should they come to be,&#8230;",
+      "published": "2026-04-15T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "5aee00996294360cd39df12597c17e92",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "url": "https://huggingface.co/blog/Hcompany/holotab",
+      "summary": "",
+      "published": "2026-04-15T09:25:20+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "1baee0e5b280085d16971b5078a43426",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
     {
       "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
       "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
