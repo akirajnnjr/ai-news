@@ -1,7 +1,288 @@
 {
-  "last_updated": "2026-04-15T18:43:07.361764+08:00",
-  "total": 910,
+  "last_updated": "2026-04-16T14:23:09.369841+08:00",
+  "total": 926,
   "news": [
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "published": "2026-04-15T19:28:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "agentic ai",
+        "agents",
+        "OpenAI"
+      ],
+      "id": "1c1d8c15e6a35d9b9587158f8136b18a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      "published": "2026-04-15T18:55:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Exclusive",
+        "marketing-technology",
+        "Hightouch"
+      ],
+      "id": "696d03a555e17c595f25ce683bce1afe",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+      "published": "2026-04-15T18:51:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "hiring",
+        "Jobs",
+        "LinkedIn"
+      ],
+      "id": "327e18da25bb3f742702aadf91235cfd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "published": "2026-04-15T18:38:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Fundraising",
+        "Startups",
+        "EdTech",
+        "Education",
+        "funding round",
+        "Gizmo",
+        "learning",
+        "Shine Capital"
+      ],
+      "id": "989e1532dcc0eeef71dbb7c94ceca85e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+      "published": "2026-04-15T18:33:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "objection ai",
+        "Aron D'Souza",
+        "Exclusive",
+        "Peter Thiel"
+      ],
+      "id": "bcc8348eb152bc228c73fc5316b9fe74",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "published": "2026-04-15T18:22:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google",
+        "In Brief",
+        "mac"
+      ],
+      "id": "eef2e4d9c99836215d8a4ce341169052",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "The musician-turned-biotech-founder waiting to fundraise",
+      "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercialization plan, and philanthropy&#160;doesn&#8217;t&#160;move science through clinical trials or get you a license on university IP. Now,&#160;he&#8217;s&#160;bootstrapping a cancer drug platform targetin",
+      "published": "2026-04-15T17:58:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "Startups",
+        "ai music",
+        "Aloe Blacc",
+        "biotech",
+        "cancer research",
+        "drug discovery",
+        "music industry",
+        "pancreatic cancer"
+      ],
+      "id": "18f5f5ff318b37a78356bfb0ef9561cc",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+      "published": "2026-04-15T17:24:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "emergent",
+        "ai agent",
+        "openclaw",
+        "Wingman"
+      ],
+      "id": "7cb080d8a0d73a2e7cafda6afe4a35ef",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+      "published": "2026-04-15T14:24:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "allbirds",
+        "WTF"
+      ],
+      "id": "328256d716fe40cb56f977f131f4088d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+      "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+      "published": "2026-04-15T13:06:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai strategy",
+        "ai tokens",
+        "Reid Hoffman",
+        "tokenmaxxing"
+      ],
+      "id": "08cd2e3f25eb17410eca30f6d7e04b57",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
+      "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "summary": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
+      "published": "2026-04-15T13:01:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Adobe",
+        "Creative Cloud",
+        "AI assistant",
+        "Adobe Firefly"
+      ],
+      "id": "672ec059ea931602c33375ce2c65ae61",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+      "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "summary": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
+      "published": "2026-04-15T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "venrock",
+        "agents",
+        "Gitar"
+      ],
+      "id": "b905ab9bd6bba54759387b82a3a89d0c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "This startup is betting tokenmaxxing will create the next compute giant",
+      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "summary": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
+      "published": "2026-04-15T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive",
+        "Parasail"
+      ],
+      "id": "7239db9693c3caf0bd6de875bb9d2cde",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?&#160; Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel&#8230;",
+      "published": "2026-04-15T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "223f0246c0dab79581132c20f305ffab",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+      "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a picture of a 30-something Asian man. Next, the app requests to open the camera for a video “liveness” check. The&#8230;",
+      "published": "2026-04-15T11:26:12+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Business",
+        "App"
+      ],
+      "id": "48e8499be6e01787b1c5c384c201c222",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "summary": "",
+      "published": "2026-04-15T12:07:25+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "7bef1b60a69de9e084ad67d0a65eb0f1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-15"
+    },
     {
       "title": "No one’s sure if synthetic mirror life will kill us all",
       "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
