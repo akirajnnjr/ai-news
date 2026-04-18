@@ -1,7 +1,274 @@
 {
-  "last_updated": "2026-04-17T14:22:57.561613+08:00",
-  "total": 951,
+  "last_updated": "2026-04-18T13:51:45.269440+08:00",
+  "total": 966,
   "news": [
+    {
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "published": "2026-04-17T21:28:35+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "cryptocurrency exchange",
+        "cyberattack",
+        "Grinex",
+        "russian hacking"
+      ],
+      "id": "a3394d6c1dfb49d336caf8b7204bcfdb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
+      "published": "2026-04-17T11:00:50+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Features",
+        "Security",
+        "cryptography",
+        "post quantum cryptography",
+        "quantum computing"
+      ],
+      "id": "618086ae599f808f13f8fe2e33af20f0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "published": "2026-04-17T22:34:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "DocuSign",
+        "sam altman",
+        "Tinder",
+        "World",
+        "Worldcoin",
+        "zoom"
+      ],
+      "id": "bcf8911a707f2b8368ae24b312eb58f0",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "published": "2026-04-17T20:38:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "bill peebles",
+        "Kevin Weil",
+        "OpenAI",
+        "OpenAI For Science",
+        "sora"
+      ],
+      "id": "2b4064f2417f7cee0454d15bbb6b5cb1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "published": "2026-04-17T19:17:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "ai coding",
+        "Andreessen Horowitz",
+        "cursor",
+        "Exclusive",
+        "Thrive"
+      ],
+      "id": "18d30f5d748d768fe492fd4dee730c47",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+      "published": "2026-04-17T18:42:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "developers",
+        "tokenmaxxing"
+      ],
+      "id": "573fe90601e9be2845baf37916a90eec",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+      "published": "2026-04-17T15:57:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "allbirds",
+        "Anthropic",
+        "Anthropic OpenAI",
+        "Claude",
+        "Equity podcast",
+        "fluidstack",
+        "Mythos",
+        "OpenAI",
+        "Roundup",
+        "tokenmaxxing",
+        "Uber"
+      ],
+      "id": "51926208cdc84bd2b42c5276bc14acd5",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+      "published": "2026-04-17T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Enterprise",
+        "Anthropic",
+        "Claude",
+        "claude design",
+        "design"
+      ],
+      "id": "9ec149dfbc1dd78e6821f2d9f63115a7",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+      "published": "2026-04-17T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "acquisition",
+        "AI data center",
+        "ai infrastructure",
+        "allbirds",
+        "Equity Video",
+        "hiro",
+        "Mythos",
+        "openai anthropic",
+        "podcast",
+        "tokenmaxxing",
+        "wayve"
+      ],
+      "id": "360444e845a58be6051f47fc701d6768",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Pie Day 2026",
+      "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
+      "published": "2026-04-17T14:07:41+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "MIT Alumni News"
+      ],
+      "id": "7d6b96dd099f3896c0a50943b39a39ea",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving&#8230;",
+      "published": "2026-04-17T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "d6c4b0ae6bd940014bcd47e4c35aa3aa",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "The case for fixing everything",
+      "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+      "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us&#8230;",
+      "published": "2026-04-17T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "538b46a49af4c86a37e6b51c68980e2c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "How robots learn: A brief, contemporary history",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;",
+      "published": "2026-04-17T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "b9386d2065847ff1f7bf748dc86c3731",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+      "summary": "",
+      "published": "2026-04-17T16:17:55+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9e4606ca1dffd90b243adec7dc4d6b2a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "url": "https://huggingface.co/blog/ecom-rlve",
+      "summary": "",
+      "published": "2026-04-16T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "b1aed3d6044fca1461247e9eb09e6c47",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-16"
+    },
     {
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
       "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
