@@ -1,7 +1,86 @@
 {
-  "last_updated": "2026-04-19T14:17:06.307556+08:00",
-  "total": 970,
+  "last_updated": "2026-04-20T15:27:33.017862+08:00",
+  "total": 974,
   "news": [
+    {
+      "title": "OpenAI’s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "published": "2026-04-19T21:24:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Equity podcast",
+        "OpenAI"
+      ],
+      "id": "e0862fe090921b310024dd1fd83f769f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "published": "2026-04-19T19:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "No Priors",
+        "Sarah Guo",
+        "Elad Gil"
+      ],
+      "id": "e0ab883c55c68ab93b5ced18cefb5aec",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "published": "2026-04-19T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Security",
+        "Alexander Karp",
+        "Eliot Higgins",
+        "Palantir"
+      ],
+      "id": "07e3823e19995e790e54a55bb8f0baef",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-04-19T16:01:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Transportation",
+        "AI",
+        "Rivian",
+        "techcrunch mobility",
+        "jeff bezos",
+        "Waymo",
+        "Loop",
+        "eclipse",
+        "Uber",
+        "Tesla",
+        "slate"
+      ],
+      "id": "3217ffdbbdca38d58876c6ff94068f0d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-20"
+    },
     {
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
