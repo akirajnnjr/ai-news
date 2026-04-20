@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-04-20T15:27:33.017862+08:00",
-  "total": 974,
+  "last_updated": "2026-04-20T19:06:24.001394+08:00",
+  "total": 976,
   "news": [
+    {
+      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
+      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
+      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma&#8230;",
+      "published": "2026-04-20T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "337000087609f83f0e35372de9ee4b71",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with&#8230;",
+      "published": "2026-04-20T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "c85e7467381d75e8a63865a56ff32e38",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-20"
+    },
     {
       "title": "OpenAI’s existential questions",
       "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
