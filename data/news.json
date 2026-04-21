@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-04-20T19:06:24.001394+08:00",
-  "total": 976,
+  "last_updated": "2026-04-21T14:23:24.306246+08:00",
+  "total": 983,
   "news": [
+    {
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "published": "2026-04-20T23:10:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Amazon",
+        "Anthropic",
+        "AWS",
+        "data center",
+        "In Brief"
+      ],
+      "id": "ad8b96a4b1a537c2e3d5984b29698f8f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "published": "2026-04-20T22:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Chrome",
+        "Google",
+        "gemini",
+        "In Brief"
+      ],
+      "id": "22ed5bdd3a5dd42d899e8d8b9757aeef",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "It’s not just one thing — it’s another thing",
+      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+      "published": "2026-04-20T19:37:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "Generative AI",
+        "social media"
+      ],
+      "id": "5ce42f9f60d626218e5774ef8a291ecd",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "published": "2026-04-20T16:06:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "cybersecurity",
+        "NSA",
+        "dod",
+        "Anthropic",
+        "In Brief",
+        "Mythos"
+      ],
+      "id": "9c57fea75aaec5a79026164fdf667314",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+      "published": "2026-04-20T15:30:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "fermi",
+        "In Brief",
+        "nuclear"
+      ],
+      "id": "23195d5f10b1ae4cb67fe30448b62da1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should&#8230;",
+      "published": "2026-04-20T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "f2c49cd52da16c717fd82f1d0a802872",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+      "summary": "",
+      "published": "2026-04-21T00:40:10+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "35c281ef269a11903436b5514060a8c7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-21"
+    },
     {
       "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
       "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
