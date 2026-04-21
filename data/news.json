@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-04-21T14:23:24.306246+08:00",
-  "total": 983,
+  "last_updated": "2026-04-21T18:50:05.403481+08:00",
+  "total": 985,
   "news": [
+    {
+      "title": "Digging for clues about the North Pole’s past",
+      "url": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
+      "summary": "In the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Knies&#8230;",
+      "published": "2026-04-21T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "id": "c3606941bb3e673cb2dad5f21ed5f480",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "summary": "",
+      "published": "2026-04-21T10:09:58+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "200ccf22b4732b199020e3e33ca2c538",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-04-21"
+    },
     {
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
       "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
