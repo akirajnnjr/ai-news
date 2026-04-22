@@ -1,7 +1,82 @@
 {
-  "last_updated": "2026-04-22T14:23:04.506496+08:00",
-  "total": 1009,
+  "last_updated": "2026-04-22T18:47:05.542676+08:00",
+  "total": 1014,
   "news": [
+    {
+      "title": "AI needs a strong data fabric to deliver business value",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
+      "published": "2026-04-22T10:05:06+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "e48afa0ae3092212b83969d6f91dd241",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "3 things Michelle Kim is into right now",
+      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to&#8230;",
+      "published": "2026-04-22T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "b895130947b3a63a2feee97ce4b4f955",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "One town’s scheme to get rid of its geese",
+      "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part of a&#8230;",
+      "published": "2026-04-22T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "3015e411455ca3b987ba37a8af13671f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "There is no nature anymore",
+      "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the&#8230;",
+      "published": "2026-04-22T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "2b392b39fba64e8e2fb6c7baede14756",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Los Angeles is finally going underground",
+      "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+      "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a&#8230;",
+      "published": "2026-04-22T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Policy",
+        "App"
+      ],
+      "id": "1b8bb1c5acaa9120677cdf6ff07063e3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-22"
+    },
     {
       "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
       "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
