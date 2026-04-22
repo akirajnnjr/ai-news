@@ -1,7 +1,410 @@
 {
-  "last_updated": "2026-04-21T18:50:05.403481+08:00",
-  "total": 985,
+  "last_updated": "2026-04-22T14:23:04.506496+08:00",
+  "total": 1009,
   "news": [
+    {
+      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+      "summary": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+      "published": "2026-04-21T12:35:20+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "aes-128",
+        "grover's algorithm",
+        "quantum conputing"
+      ],
+      "id": "0de95885fa38367b2a2751f570066cf1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "published": "2026-04-21T23:45:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI training",
+        "In Brief",
+        "Meta"
+      ],
+      "id": "b23181db2bbe925f0cb7cc8f7e6b78bd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "published": "2026-04-21T23:26:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "cybersecurity",
+        "Mythos"
+      ],
+      "id": "cd78e201d885e1e8f06616b9a13f45f2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+      "published": "2026-04-21T22:58:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "cursor",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "id": "b55747f6d2e594ecee80d06d37fdb7ee",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "published": "2026-04-21T20:23:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Apple",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "id": "a521d11c49f0dc899bf24dc2db5d68ce",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "published": "2026-04-21T19:11:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI agents",
+        "AI Lab",
+        "researchers"
+      ],
+      "id": "6c61749c78a4f6a6f255e970d547c16b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+      "published": "2026-04-21T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "image generation",
+        "OpenAI"
+      ],
+      "id": "0c88065d42e62cd1b0992d4c0f4adafc",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+      "published": "2026-04-21T18:51:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "Mythos",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "fdde9ca62ffca4b667469e3c06877a72",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+      "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+      "published": "2026-04-21T17:11:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "OKCupid",
+        "facial recognition",
+        "Match Group",
+        "Clarifai",
+        "AI training"
+      ],
+      "id": "f17ab9e9e10930af712a5f684f8bdf85",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+      "published": "2026-04-21T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gaming",
+        "Startups",
+        "ai gaming",
+        "Generative AI",
+        "latitude",
+        "RPG"
+      ],
+      "id": "92ce862f803639087a8db84982a0b9f9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+      "published": "2026-04-21T15:24:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Bond",
+        "social media"
+      ],
+      "id": "d3cb509cceb0e69841b928c068872271",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "YouTube expands its AI likeness detection technology to celebrities",
+      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+      "published": "2026-04-21T15:02:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "YouTube",
+        "Hollywood",
+        "Celebs",
+        "likeness",
+        "deepfake"
+      ],
+      "id": "2d537bc7c412ca08dd154bdca2a73553",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "GRAI believes AI can make music more social, not replace artists",
+      "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+      "published": "2026-04-21T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Startups",
+        "Inovo",
+        "Khosla Ventures",
+        "Music",
+        "Remix",
+        "social apps"
+      ],
+      "id": "1c1798db541e742b4e5ad978ab2a6d95",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about&#8230;",
+      "published": "2026-04-21T22:09:25+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "e84c955a8ab02e6e53e7d4d9f96ba574",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "The new word in home construction could be “plastics”",
+      "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "0dc6595334dce3f488091f6098f823df",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "A natural protein may protect the GI tract from infection",
+      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract.&#160; Intelectin-2 binds to a sugar&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "4df7f721afea6f01b8678be6d58bc4ac",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "This tool could show how consciousness works",
+      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "3348e376f438c320a5750928a6e22b82",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Early life may have breathed oxygen earlier than believed",
+      "url": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+      "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "07a913fb74e4379463d45a0f2ac52a06",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Analog computing from waste heat",
+      "url": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+      "summary": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded not as binary 1s and 0s&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "3922ea011390ad6b6b70e2c6d5e03f97",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Get ready for hotter, muggier, stormier summers",
+      "url": "https://www.technologyreview.com/2026/04/21/1134873/get-ready-for-hotter-muggier-stormier-summers/",
+      "summary": "A long stretch of humid heat followed by a powerful thunderstorm is a familiar weather pattern in the tropics, but it’s also becoming more common in midlatitude regions such as the US Midwest. A recent study by two MIT scientists identifies a key atmospheric condition that determines how hot, humid, and stormy such a region&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "fdf7cb73263dc701e1467d36ffce720a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Recent books from the MIT community",
+      "url": "https://www.technologyreview.com/2026/04/21/1134879/recent-books-from-the-mit-community-28/",
+      "summary": "Priority Technologies: Ensuring US Security and Shared ProsperityEdited by Elisabeth B. Reynolds, professor of the practice of urban studies and planning and former executive director of the MIT Task Force on the Work of the Future MIT PRESS, 2026, $24.95 The Shape of Wonder: How Scientists Think, Work, and LiveBy Alan Lightman, professor of the practice&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "MIT Alumni News"
+      ],
+      "id": "b84e8f94d6d361f50c104adec1886bf0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "AI at MIT",
+      "url": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/",
+      "summary": "At&#160;MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whether she’d have gone all in on artificial intelligence had it not been for the covid pandemic. She had joined the faculty&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "d18fefd2213f97cb316668a1a37123ee",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Inventor recalls eye imaging breakthrough",
+      "url": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
+      "summary": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.&#160; OCT is a noninvasive technique used&#8230;",
+      "published": "2026-04-21T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "8c2dfa3181844a27a802b64afd3f14f9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "summary": "",
+      "published": "2026-04-21T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "3027bbe1d0f39e0b5d0d56bf6d765287",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-21"
+    },
     {
       "title": "Digging for clues about the North Pole’s past",
       "url": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
