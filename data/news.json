@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-23T14:28:00.270218+08:00",
-  "total": 1031,
+  "last_updated": "2026-04-23T18:54:00.783650+08:00",
+  "total": 1032,
   "news": [
+    {
+      "title": "Will fusion power get cheap? Don’t count on it.",
+      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in&#8230;",
+      "published": "2026-04-23T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "The Spark"
+      ],
+      "id": "00dceef7c5a609639bbc8fccc38f8b2e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-23"
+    },
     {
       "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
       "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
