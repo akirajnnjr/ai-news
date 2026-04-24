@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-04-24T14:29:19.850146+08:00",
-  "total": 1042,
+  "last_updated": "2026-04-24T18:51:22.361353+08:00",
+  "total": 1044,
   "news": [
+    {
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A&#8230;",
+      "published": "2026-04-24T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "The Checkup"
+      ],
+      "id": "e34779fe70d8eaa183edfbe2ec64d69c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "summary": "",
+      "published": "2026-04-23T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "66bd8767c347e7cfc472c5571e9d7c46",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-23"
+    },
     {
       "title": "In a first, a ransomware family is confirmed to be quantum-safe",
       "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
