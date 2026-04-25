@@ -1,7 +1,270 @@
 {
-  "last_updated": "2026-04-24T18:51:22.361353+08:00",
-  "total": 1044,
+  "last_updated": "2026-04-25T14:05:25.415111+08:00",
+  "total": 1058,
   "news": [
+    {
+      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+      "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+      "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+      "published": "2026-04-24T19:00:39+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "cname records",
+        "domain hijacking",
+        "porn",
+        "universities"
+      ],
+      "id": "632dd6a22f8e8f9f2f0252a498faec02",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "published": "2026-04-24T20:52:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "9eee8ea8304ce19f80abfa9373b2eec7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "published": "2026-04-24T19:49:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Venture",
+        "comfyui",
+        "Craft Ventures",
+        "Creators",
+        "Video"
+      ],
+      "id": "cfe7bb1f35cf450508a7fb9d2d50001c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "published": "2026-04-24T18:00:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Anthropic",
+        "anthropic investment",
+        "chips",
+        "compute",
+        "Google",
+        "google cloud"
+      ],
+      "id": "1b3680d029f50bd7300bccb929e674a8",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystem than the one Cook spent decades shaping. The App [&#8230;]",
+      "published": "2026-04-24T17:45:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Anthropic",
+        "Apple",
+        "Elon Musk",
+        "Equity podcast",
+        "Fintech",
+        "IPO",
+        "SpaceX",
+        "Tim Cook"
+      ],
+      "id": "858c1c84c8ccf2670d29a59216a37871",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "published": "2026-04-24T16:42:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Apple",
+        "local AI",
+        "mac mini",
+        "Mac Studio",
+        "openclaw"
+      ],
+      "id": "6d67a039dbfbaea8a8d121bc6476b201",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
+      "published": "2026-04-24T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Venture",
+        "AI",
+        "Fundraising",
+        "Uber",
+        "StrictlyVC",
+        "StrictlyVC San Francisco"
+      ],
+      "id": "527b1cada7c974638f7d9260a565a8b0",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "Tim Cook is stepping down. What happens to Apple now?",
+      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once [&#8230;]",
+      "published": "2026-04-24T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Anthropic",
+        "Apple",
+        "Elon Musk",
+        "Fintech",
+        "IPO",
+        "SpaceX",
+        "Tim Cook"
+      ],
+      "id": "285abb5d0699fb2e619fde87283e7886",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+      "published": "2026-04-24T13:41:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai dictation",
+        "In Brief",
+        "nothing",
+        "Superwhisper",
+        "Wispr flow"
+      ],
+      "id": "015813f8cb4e3b889870c0b0296f62d4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+      "published": "2026-04-24T13:30:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "deepseek",
+        "Deepseek V4",
+        "open source ai"
+      ],
+      "id": "b188ee617d05cd05c2e50b9923338235",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "published": "2026-04-24T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Hardware",
+        "TC",
+        "Amazon",
+        "AWS",
+        "CPU",
+        "GPU",
+        "Graviton",
+        "Meta",
+        "trainium"
+      ],
+      "id": "9085fc03c2965f6c06a973654d46a849",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
+      "published": "2026-04-24T21:40:58+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "f01b2e7af40313c97a3ba36760eff5c3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of&#8230;",
+      "published": "2026-04-24T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "292e0d01a29bb253c1f4de7192b17c90",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "summary": "",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "807d3648751f932d947e436a25dfd535",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-24"
+    },
     {
       "title": "Health-care AI is here. We don’t know if it actually helps patients.",
       "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
