@@ -1,7 +1,115 @@
 {
-  "last_updated": "2026-04-25T14:05:25.415111+08:00",
-  "total": 1058,
+  "last_updated": "2026-04-26T14:29:05.818081+08:00",
+  "total": 1064,
   "news": [
+    {
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "published": "2026-04-25T21:43:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Anthropic",
+        "project deal"
+      ],
+      "id": "260990045df48dc8db9f77f1b850a0cf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "Maine’s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "published": "2026-04-25T20:57:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy"
+      ],
+      "id": "dcebb3f5f8873f24af76ee7b70cbf88a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "published": "2026-04-25T17:17:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Jesse Van Rootselaar",
+        "OpenAI",
+        "sam altman",
+        "tumbler ridge"
+      ],
+      "id": "b2e84456bff34915a8e36e4509bbf64a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "published": "2026-04-25T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Aleph Alpha",
+        "Cohere",
+        "digital sovereignty"
+      ],
+      "id": "2f0121649aa2a518e2e753e9118b546a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+      "published": "2026-04-25T15:03:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Media & Entertainment",
+        "AI",
+        "Robotics",
+        "Startup Battlefield 200",
+        "SusHi Tech Tokyo"
+      ],
+      "id": "44b8124a3e83b97d83c287eb929c66dd",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+      "published": "2026-04-25T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Hardware",
+        "AI",
+        "Gadgets",
+        "Robotics",
+        "Apple",
+        "John Ternus",
+        "evergreens",
+        "CEO succession"
+      ],
+      "id": "ddb92a5e6dcbd496392bb26fe5eb4a4e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-25"
+    },
     {
       "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
       "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
