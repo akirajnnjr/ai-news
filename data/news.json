@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-04-27T15:56:49.978792+08:00",
-  "total": 1065,
+  "last_updated": "2026-04-27T20:06:22.394599+08:00",
+  "total": 1066,
   "news": [
+    {
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "published": "2026-04-27T10:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Space",
+        "AI"
+      ],
+      "id": "1b64ebc14276ac1dd116445672ef88b4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-27"
+    },
     {
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
       "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
