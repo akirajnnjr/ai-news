@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-04-26T14:29:05.818081+08:00",
-  "total": 1064,
+  "last_updated": "2026-04-27T15:56:49.978792+08:00",
+  "total": 1065,
   "news": [
+    {
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "published": "2026-04-26T15:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Venture",
+        "AI",
+        "Anthropic",
+        "storm duncan"
+      ],
+      "id": "17968030620c8f59d6bd47bc365f0fb1",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-26"
+    },
     {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
