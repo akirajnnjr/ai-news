@@ -1,7 +1,203 @@
 {
-  "last_updated": "2026-04-27T20:06:22.394599+08:00",
-  "total": 1066,
+  "last_updated": "2026-04-28T15:56:12.588483+08:00",
+  "total": 1078,
   "news": [
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
+      "published": "2026-04-27T21:04:03+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "GitHub",
+        "Open source software"
+      ],
+      "id": "4c25e1aa082db61ca058811026ec97f8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+      "published": "2026-04-27T17:40:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Amazon",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "id": "cd10cd32bf8a97f79401fee6bed1ff62",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "published": "2026-04-27T17:24:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "DeepMind",
+        "ineffable intelligence",
+        "lightspeed",
+        "reinforcement learning",
+        "Sequoia Capital"
+      ],
+      "id": "7b2e4a2048b54c3f22b509307175103a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+      "published": "2026-04-27T16:13:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "ai apps",
+        "signull labs",
+        "Skye"
+      ],
+      "id": "82d5d55d2c746c8e7e5622ee599fa360",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "published": "2026-04-27T13:16:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "China",
+        "manus",
+        "Mergers and Acquisitions",
+        "Meta"
+      ],
+      "id": "705b1c5bdea9d5b9dfa9ecc5ee18b075",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
+      "published": "2026-04-27T13:08:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "MediaTek",
+        "OpenAI",
+        "Qualcomm",
+        "smartphone"
+      ],
+      "id": "d26cae5cca28f1ed50d6e1ecaa186c53",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;",
+      "published": "2026-04-27T22:52:57+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "370be1499991180dc10bdcd637a9667e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "The missing step between hype and profit",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But&#8230;",
+      "published": "2026-04-27T16:13:41+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "c4880d927b46ee02ac56a66d3ec70f94",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "Rebuilding the data stack for AI",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;",
+      "published": "2026-04-27T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "a47d3e3f135fcb900e2f92a66da42f38",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;",
+      "published": "2026-04-27T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "cbbc45a71bea379b5d096ef89ab232bc",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "summary": "",
+      "published": "2026-04-28T00:28:13+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c1219940c582f6d4263018792f710d98",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "summary": "",
+      "published": "2026-04-27T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "100e890294240151866bab9a3a8b7382",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-27"
+    },
     {
       "title": "Meta inks deal for solar power at night, beamed from space",
       "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
