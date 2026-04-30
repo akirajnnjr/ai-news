@@ -1,7 +1,342 @@
 {
-  "last_updated": "2026-04-29T19:20:20.098945+08:00",
-  "total": 1091,
+  "last_updated": "2026-04-30T15:53:48.313202+08:00",
+  "total": 1111,
   "news": [
+    {
+      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+      "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+      "summary": "Security firms find themselves especially exposed.",
+      "published": "2026-04-29T11:00:24+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "bitwarden",
+        "checkmarx",
+        "supply chain attacks"
+      ],
+      "id": "dc28630cd03a7111697336be7f26f872",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "published": "2026-04-30T03:58:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "robots",
+        "Softbank"
+      ],
+      "id": "19231aeade95cde020309181fb36f9d9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Amazon’s cloud business is surging — and so is its capital spending",
+      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+      "published": "2026-04-30T00:14:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Amazon",
+        "Andy Jassy",
+        "AWS"
+      ],
+      "id": "ef01e2e76bd8e66c91810df82246586d",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "published": "2026-04-30T00:07:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Anthropic",
+        "Fundraise"
+      ],
+      "id": "72ba5d8b11befda8fb0b4e4e45a77f8e",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "On the stand, Elon Musk can’t escape his own tweets",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+      "published": "2026-04-29T23:58:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "2fd0f913074f1c0d6867e91c9b5c449c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Meta is still burning money on AR/VR",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "published": "2026-04-29T23:58:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Meta"
+      ],
+      "id": "88881a095ddd7ffa20801071e05d060d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+      "published": "2026-04-29T23:55:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "id": "a53ee15b652a09bea95cc5b07a449b9f",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+      "published": "2026-04-29T23:02:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "copilot ai",
+        "Microsoft"
+      ],
+      "id": "0ab605f52bd65743ea4538e555324e08",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+      "published": "2026-04-29T22:20:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Alphabet",
+        "Enterprise AI",
+        "google cloud"
+      ],
+      "id": "14fce012f39276178f8affa821dfbaf3",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "published": "2026-04-29T20:59:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "TC",
+        "earnings",
+        "Google",
+        "YouTube"
+      ],
+      "id": "c56e0d0e76fefd814b9a668e3a2cf6aa",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+      "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+      "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI.   The technology goes way beyond [&#8230;]",
+      "published": "2026-04-29T18:59:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "ai generated video",
+        "ai video",
+        "ceo",
+        "cofounder",
+        "cristobal valenzuela",
+        "Equity podcast",
+        "runway",
+        "VLM",
+        "world models"
+      ],
+      "id": "20eea33e540514e5c2d545353dd8154a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+      "published": "2026-04-29T18:33:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "ai agent",
+        "In Brief",
+        "parag agrawal",
+        "Parallel Web Systems"
+      ],
+      "id": "ddc6e0690928d435f344ad0ac640231e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+      "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+      "published": "2026-04-29T16:42:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google Photos"
+      ],
+      "id": "b7ff057f3fbb00910cb6ae6a9ae7ad7d",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "More Gemini features are coming to Google TV",
+      "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+      "published": "2026-04-29T16:40:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "gemini",
+        "Google",
+        "google nano",
+        "google tv",
+        "Veo"
+      ],
+      "id": "0a618e6c1c6cfbf124a4257fdeeaacba",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+      "published": "2026-04-29T13:10:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "defense technology",
+        "drones",
+        "Firestorm Labs"
+      ],
+      "id": "358b8403be54cfca8cb2c451bf7b71db",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "summary": "Think Discord chats, but with AI characters in addition to humans.",
+      "published": "2026-04-29T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Startups"
+      ],
+      "id": "590c28931c3d21d379d3d43bc92e244e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "The Download: storing nuclear waste and orchestrating agents",
+      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to&#8230;",
+      "published": "2026-04-29T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "f6e9fc2af9bf6963edcf483e4a43e645",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "summary": "",
+      "published": "2026-04-29T16:45:09+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "33ea9610c4d54b086ecbf19e38e47092",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "summary": "",
+      "published": "2026-04-29T15:01:48+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "59ef3aa9e68bf3fd0c96d21eb430f553",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "summary": "",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f6674537e2b81f6654df2c88c2d84b66",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-04-29"
+    },
     {
       "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
       "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
