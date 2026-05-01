@@ -1,7 +1,54 @@
 {
-  "last_updated": "2026-05-01T15:52:34.335085+08:00",
-  "total": 1128,
+  "last_updated": "2026-05-01T18:53:36.687417+08:00",
+  "total": 1131,
   "news": [
+    {
+      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will&#8230;",
+      "published": "2026-05-01T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Engineering",
+        "App"
+      ],
+      "id": "889806c7134e81160dd0c53adb18c95b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-01"
+    },
+    {
+      "title": "Trump’s mass firing just dealt another blow to American science",
+      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.&#8230;",
+      "published": "2026-05-01T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Policy",
+        "App",
+        "The Checkup"
+      ],
+      "id": "a8a9c980b7108e2106380a92a3066830",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-01"
+    },
+    {
+      "title": "A new US phone network for Christians aims to block porn and gender-related content",
+      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
+      "published": "2026-05-01T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence"
+      ],
+      "id": "e1f98a4ec6fc0041aa641f18e7513107",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-01"
+    },
     {
       "title": "The most severe Linux threat to surface in years catches the world flat-footed",
       "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
