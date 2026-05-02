@@ -1,7 +1,195 @@
 {
-  "last_updated": "2026-05-01T18:53:36.687417+08:00",
-  "total": 1131,
+  "last_updated": "2026-05-02T14:30:47.277327+08:00",
+  "total": 1141,
   "news": [
+    {
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+      "published": "2026-05-01T19:12:26+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "DDOS attack",
+        "distributed denial of service attack",
+        "Ubuntu"
+      ],
+      "id": "e1391b33613e89a42dae7b18fb577dc3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-02"
+    },
+    {
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+      "published": "2026-05-01T23:06:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "09c40943473503ee14d7625edc506886",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-02"
+    },
+    {
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "published": "2026-05-01T22:13:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "humanoid robots",
+        "Mergers and Acquisitions",
+        "Meta"
+      ],
+      "id": "0809bbe44568e64a729d0c8d218cdbc2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-02"
+    },
+    {
+      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+      "published": "2026-05-01T17:44:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Amazon earnings",
+        "BMW i Ventures",
+        "defense tech",
+        "earnings",
+        "Elon Musk",
+        "Equity podcast",
+        "google earnings",
+        "lawsuit",
+        "microsoft earnings",
+        "musk v altman",
+        "musk v openai",
+        "sam altman",
+        "Scout AI"
+      ],
+      "id": "f15b72a01048fe273d7afd7a39b83555",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-02"
+    },
+    {
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "published": "2026-05-01T16:02:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "AWS",
+        "Defense Department",
+        "Google",
+        "Microsoft",
+        "nvidia",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "id": "f9eee99f5f6567b6f2c84608ce0c388d",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-02"
+    },
+    {
+      "title": "Musk v. Altman is just getting started",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+      "published": "2026-05-01T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Acquisitions",
+        "ai infrastructure",
+        "Amazon",
+        "big tech earnings",
+        "Elon Musk",
+        "Google",
+        "Meta",
+        "Microsoft",
+        "military AI",
+        "OpenAI",
+        "sallie mae",
+        "sam altman",
+        "Scout AI"
+      ],
+      "id": "c993597b3fe50e108bdb7b5dd8ab1aef",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-01"
+    },
+    {
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+      "published": "2026-05-01T22:08:19+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "572f1821c4c2abd673cb7544f864b56a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-02"
+    },
+    {
+      "title": "Cyber-Insecurity in the AI Era",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+      "published": "2026-05-01T15:54:01+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "6100f49737ffff44ff99ce54bafe521c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-01"
+    },
+    {
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
+      "published": "2026-05-01T15:31:09+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "279ca32df23a7fa937f8f4b67740844e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-01"
+    },
+    {
+      "title": "The Download: a new Christian phone network, and debugging LLMs",
+      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks&#8230;",
+      "published": "2026-05-01T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "51238cf7a49dd763edf65217ed680524",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-01"
+    },
     {
       "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
       "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
