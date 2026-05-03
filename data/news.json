@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-05-02T14:30:47.277327+08:00",
-  "total": 1141,
+  "last_updated": "2026-05-03T15:29:38.733681+08:00",
+  "total": 1143,
   "news": [
+    {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "summary": "Bad news for Tilly Norwood.",
+      "published": "2026-05-02T21:54:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "academy awards",
+        "academy of motion picture arts and sciences"
+      ],
+      "id": "4ce3b826e9fa794a263bd68ad99e9cdb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-03"
+    },
+    {
+      "title": "The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "published": "2026-05-02T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "voice AI",
+        "Wispr flow",
+        "ai dictation"
+      ],
+      "id": "f620eec25f200adb48b6469c4b370820",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-03"
+    },
     {
       "title": "Ubuntu infrastructure has been down for more than a day",
       "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
