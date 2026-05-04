@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-05-03T15:29:38.733681+08:00",
-  "total": 1143,
+  "last_updated": "2026-05-04T16:43:54.278798+08:00",
+  "total": 1145,
   "news": [
+    {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "published": "2026-05-03T20:16:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "artisan",
+        "kc green"
+      ],
+      "id": "01b7165cd4b651b5889eda44d63f18a9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "published": "2026-05-03T18:00:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "beth israel",
+        "harvard medical school",
+        "OpenAI"
+      ],
+      "id": "452d5889b4ba66fa60e4c61295ff3347",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-04"
+    },
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
