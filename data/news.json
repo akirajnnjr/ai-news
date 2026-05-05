@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-05-05T09:55:49.986547+08:00",
-  "total": 1156,
+  "last_updated": "2026-05-05T15:51:28.178459+08:00",
+  "total": 1157,
   "news": [
+    {
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "published": "2026-05-05T03:31:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "chips",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "2d00a23fb9d0abc28d91bad5701fb6c1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-05"
+    },
     {
       "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
       "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
