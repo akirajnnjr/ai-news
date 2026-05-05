@@ -1,7 +1,218 @@
 {
-  "last_updated": "2026-05-04T16:43:54.278798+08:00",
-  "total": 1145,
+  "last_updated": "2026-05-05T09:55:49.986547+08:00",
+  "total": 1156,
   "news": [
+    {
+      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+      "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+      "published": "2026-05-04T17:57:46+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "eBay",
+        "Gamestop"
+      ],
+      "id": "5836d0d072575e3885aba5a41d47b2a1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "published": "2026-05-04T21:53:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "cerebras systems",
+        "IPO",
+        "OpenAI"
+      ],
+      "id": "bc98b10e8d5691400318dfc29fd6756c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "published": "2026-05-04T19:12:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "ChatGPT",
+        "gemini",
+        "image models",
+        "meta ai"
+      ],
+      "id": "a168596f139698972cc7e8c5284587a9",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "published": "2026-05-04T16:57:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "artificial general intelligence",
+        "Elon Musk",
+        "OpenAI"
+      ],
+      "id": "cde12b0c15be2493aec6ae3bf4c6b031",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "published": "2026-05-04T16:45:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "AI agents",
+        "Bret Taylor",
+        "sierra",
+        "Uber"
+      ],
+      "id": "791e2ed7efba7995e8ffbf39df336cbb",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+      "published": "2026-05-04T16:36:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Elon Musk",
+        "greg brockman",
+        "In Brief",
+        "OpenAI",
+        "openai lawsuit",
+        "sam altman"
+      ],
+      "id": "4507c485b2ba55db282eec0275975d0c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "published": "2026-05-04T15:59:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Blackstone",
+        "Goldman Sachs",
+        "OpenAI"
+      ],
+      "id": "2df0f916df05414019b94b4fbbadfe5c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "summary": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
+      "published": "2026-05-04T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Hardware",
+        "Media & Entertainment",
+        "Robotics",
+        "Security",
+        "Space",
+        "Startups",
+        "Transportation",
+        "Venture",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "c24cbbe56bff6ed97889b5fab62eaf98",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "published": "2026-05-04T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "DoorDash",
+        "food delivery",
+        "Restaurants"
+      ],
+      "id": "abf86860a8494a0b564eb18625c050f9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
+      "published": "2026-05-04T15:51:27+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "dcf3412565ed1a95fc3d08c0705a31fa",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "Tailoring AI solutions for health care needs",
+      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining&#8230;",
+      "published": "2026-05-04T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "sponsored"
+      ],
+      "id": "0ca39b12912826c5f89620b57d0d8e96",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-04"
+    },
     {
       "title": "‘This is fine’ creator says AI startup stole his art",
       "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
