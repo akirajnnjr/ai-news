@@ -1,7 +1,333 @@
 {
-  "last_updated": "2026-05-05T15:51:28.178459+08:00",
-  "total": 1157,
+  "last_updated": "2026-05-06T09:54:35.005527+08:00",
+  "total": 1174,
   "news": [
+    {
+      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+      "published": "2026-05-05T19:46:15+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "backdoors",
+        "daemon tools",
+        "supply chain attack"
+      ],
+      "id": "b9dc4e2fd76e93cae66811c44af4db86",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Why Reddit blocked my daily visit to its mobile website",
+      "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+      "summary": "Reddit REALLY wants you to use its app.",
+      "published": "2026-05-05T11:20:08+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "apps",
+        "mobile web",
+        "reddit"
+      ],
+      "id": "93c12d76db8c0e63b1903745fa6d1281",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "published": "2026-05-05T23:50:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "agentic ai",
+        "Mergers and Acquisitions",
+        "prior labs",
+        "sap",
+        "tabular data"
+      ],
+      "id": "412ad8a3329d117853b7488151b31500",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems.",
+      "published": "2026-05-05T22:57:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Startups",
+        "Greylock Partners",
+        "neo",
+        "science"
+      ],
+      "id": "adb40e368632cf585951fba72d0b2283",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "published": "2026-05-05T20:56:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "Apple",
+        "artificial intelligence",
+        "Google",
+        "In Brief",
+        "iOS 27"
+      ],
+      "id": "d9d36c1ef849679e2ff45180722b15f5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+      "published": "2026-05-05T20:06:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ASML",
+        "Christophe Fouquet",
+        "Jensen Huang",
+        "nvidia",
+        "TSMC"
+      ],
+      "id": "d15cde9337a4a35b350b752ee54b54d3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "published": "2026-05-05T17:46:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai companion",
+        "Character AI",
+        "character.ai",
+        "chatbot",
+        "Josh Shapiro",
+        "pennsylvania"
+      ],
+      "id": "7e9641e747631d6b62ee0bb60e0d3fc8",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "published": "2026-05-05T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "f2ffd9ae2c290fb9039f96223d8d41a5",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+      "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+      "published": "2026-05-05T15:49:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Fintech",
+        "PayPal",
+        "Venmo"
+      ],
+      "id": "8c525cdd8fbf1b0038f3c5cb062cff13",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
+      "published": "2026-05-05T15:31:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "ChatGPT",
+        "Etsy",
+        "Generative AI"
+      ],
+      "id": "50fa2a67f866a8493b4f3757b9d2a3da",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+      "published": "2026-05-05T14:27:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Facebook",
+        "Instagram",
+        "Meta"
+      ],
+      "id": "600ab37c0af8c7266467f25885ec9b95",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+      "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+      "published": "2026-05-05T14:20:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "BlackRock",
+        "ElevenLabs",
+        "Funding",
+        "nvidia",
+        "voice AI"
+      ],
+      "id": "1dd904ae7ba5c9f491ce730b404165b8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+      "published": "2026-05-05T14:07:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AG-UI",
+        "AI agents",
+        "copilotkit",
+        "generative ui",
+        "open source software"
+      ],
+      "id": "74750394a63731b89bce37c96a8ed784",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+      "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+      "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off.",
+      "published": "2026-05-05T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Transportation",
+        "Security",
+        "Space",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "4e030a9e5161aaa105b943f77fcb5c27",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+      "published": "2026-05-05T13:18:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Bhavish Aggarwal",
+        "Krutrim",
+        "Ola",
+        "Ola Electric"
+      ],
+      "id": "f7524164da4b3b14fe4870dcdfbcc9a5",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of&#8230;",
+      "published": "2026-05-05T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "798ce4a374ad7d39671098ba46a93ecf",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "A blueprint for using AI to strengthen democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;",
+      "published": "2026-05-05T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "App",
+        "artificial intelligence",
+        "democracy",
+        "governing"
+      ],
+      "id": "c9dd6bc7b13c902eb36028a43b6c9129",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-05"
+    },
     {
       "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
       "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
