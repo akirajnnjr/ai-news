@@ -1,7 +1,342 @@
 {
-  "last_updated": "2026-05-06T16:03:16.690726+08:00",
-  "total": 1176,
+  "last_updated": "2026-05-07T09:58:24.736083+08:00",
+  "total": 1194,
   "news": [
+    {
+      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+      "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+      "published": "2026-05-06T13:32:47+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Features",
+        "ANSI",
+        "bash",
+        "cli",
+        "command line",
+        "fish",
+        "fish shell",
+        "Terminal",
+        "text mode",
+        "TUI",
+        "Vim"
+      ],
+      "id": "10cb60b602cbbf4014909ccf0b42fbcd",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "published": "2026-05-06T21:57:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Barry Diller",
+        "sam altman"
+      ],
+      "id": "f05f5c0ef4e117bbdb783dcbf20385f4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "published": "2026-05-06T21:43:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Perplexity",
+        "Snap",
+        "Snapchat"
+      ],
+      "id": "f863a8c5b9b9f6664552999fa31e5858",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Is xAI a neocloud now?",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "published": "2026-05-06T21:32:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "data center",
+        "Elon Musk",
+        "neocloud",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "8b60001015ab4751ffbddac7015933d2",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "published": "2026-05-06T18:23:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "greg brockman",
+        "OpenAI",
+        "openai lawsuit"
+      ],
+      "id": "a1179bcb371222776ade7f5dba460392",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+      "published": "2026-05-06T17:23:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Elon Musk",
+        "In Brief",
+        "Intel",
+        "semiconductors",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "5f3d08023dce4a0e2485c3c980fc7998",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+      "published": "2026-05-06T17:20:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "China",
+        "deepseek",
+        "In Brief"
+      ],
+      "id": "e01057683be02ead1c0cbd6dae86e7dc",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "published": "2026-05-06T15:49:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai overviews",
+        "Google",
+        "Google Search",
+        "Reddit"
+      ],
+      "id": "dd166b06fec4ef2cde42a67e0a0ad3b3",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+      "published": "2026-05-06T15:46:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "foundational models",
+        "genesis",
+        "Genesis AI"
+      ],
+      "id": "bf34dca86f242ab3ede29b658c631ce3",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      "published": "2026-05-06T15:27:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "dating apps",
+        "Match Group"
+      ],
+      "id": "a51fcf83fd9616269d18c88687ddb5b1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "published": "2026-05-06T15:12:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "lawsuit",
+        "siri"
+      ],
+      "id": "f1f2f2bcb39920298fdace2c73f8862f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "summary": "Ethos says it is onboarding 35,000 experts per week.",
+      "published": "2026-05-06T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "a16z",
+        "ethos",
+        "expert networks",
+        "General Catalyst",
+        "voice AI"
+      ],
+      "id": "8c823fd236b2b04f64567fe911009b80",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+      "published": "2026-05-06T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Venture",
+        "AI",
+        "M&A",
+        "TechCrunch Disrupt",
+        "coinbase"
+      ],
+      "id": "679277fdbf99f9b3cce16f4be5029c78",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+      "published": "2026-05-06T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Transportation",
+        "Privacy",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "Media & Entertainment",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "38bf5010c83637c1b4b8e34a116a8cd6",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "AI boom pushes Samsung to $1T",
+      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "published": "2026-05-06T13:54:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "artificial intelligence",
+        "Samsung Electronics",
+        "south korea"
+      ],
+      "id": "e15d798706b229be7cfdea2244d59481",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "The Download: seafloor science and military chatbots",
+      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will&#8230;",
+      "published": "2026-05-06T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "5e162e5ffef46373fb3bd2d3ba5d5c1a",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "summary": "",
+      "published": "2026-05-06T19:06:55+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "11e756df6b84c8785d2c727dd85332d7",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "summary": "",
+      "published": "2026-05-06T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "6491f8c1211c605d0330a5cc4cb58401",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-06"
+    },
     {
       "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
       "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
