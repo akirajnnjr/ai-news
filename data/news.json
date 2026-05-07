@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-05-07T09:58:24.736083+08:00",
-  "total": 1194,
+  "last_updated": "2026-05-07T16:10:39.109955+08:00",
+  "total": 1195,
   "news": [
+    {
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+      "published": "2026-05-07T05:25:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "applied intuition",
+        "ASML",
+        "Christophe Fouquet",
+        "Dimitry Shevelenko",
+        "Eve Bodnia",
+        "Francis deSouza",
+        "google cloud",
+        "Logical Intelligence",
+        "Milken Institute",
+        "Qasar Younis"
+      ],
+      "id": "bd6c9177f3c7403118d845c8158d07a1",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
     {
       "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
       "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
