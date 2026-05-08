@@ -1,7 +1,355 @@
 {
-  "last_updated": "2026-05-07T16:10:39.109955+08:00",
-  "total": 1195,
+  "last_updated": "2026-05-08T10:04:35.329438+08:00",
+  "total": 1213,
   "news": [
+    {
+      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+      "published": "2026-05-07T19:18:16+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "firefox",
+        "Mythos",
+        "vulnerabilities"
+      ],
+      "id": "9fc187e8a48db24bd611482716399fb2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "published": "2026-05-07T22:24:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "gpt"
+      ],
+      "id": "8660dbc3b4d9793cfd195cde1a403cd8",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "published": "2026-05-07T21:02:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "a16z",
+        "pit",
+        "Voi"
+      ],
+      "id": "fd7638a89d317ab04353ffe8f77fc8cf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+      "published": "2026-05-07T20:20:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "78b9d253c0d2ad25d889f17eaa8d7748",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      "published": "2026-05-07T19:57:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Perplexity",
+        "perplexity computer"
+      ],
+      "id": "c158587de2a00b66bac03b9edac63304",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+      "published": "2026-05-07T19:21:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "OpenAI",
+        "openai lawsuit",
+        "sam altman"
+      ],
+      "id": "ae90c4caa5091a4346af33a3f24a6a6c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+      "published": "2026-05-07T19:06:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "dating apps",
+        "bumble"
+      ],
+      "id": "7e91dc3be4fb2397a589433cafc33073",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+      "published": "2026-05-07T16:05:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "cybersecurity",
+        "Firefox",
+        "Mozilla",
+        "Mythos"
+      ],
+      "id": "9a4e8f680d871e6daa51d24e3c69a00e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+      "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
+      "published": "2026-05-07T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Gadgets",
+        "Hardware",
+        "Startups",
+        "Startup Battlefield",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "954cf2aceca44a06d6c2c133f8007eaa",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+      "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+      "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
+      "published": "2026-05-07T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "508d989b4f44a998784057dc42a99f01",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+      "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+      "summary": "Self-driving has been &#8220;almost here&#8221; for over a decade. But somewhere between DARPA&#160;challenges&#160;and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora&#160;co-founder and&#160;CEO&#160;Chris Urmson’s story&#160;changed.&#160;The self-driving truck&#160;company&#160;started commercial driverless operations last April and is now scaling from a handful of trucks to hundreds this year.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;pod",
+      "published": "2026-05-07T14:24:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Transportation",
+        "Aurora Innovation",
+        "autonomous vehicles",
+        "Chris Urmson",
+        "Equity podcast",
+        "HumanX",
+        "physical ai",
+        "trucking",
+        "Waymo"
+      ],
+      "id": "cc60517660e8e11edebc902111ae72bb",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
+      "published": "2026-05-07T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Transportation",
+        "Security",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "f65d9694d784f202ebc31936eba23b70",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      "published": "2026-05-07T13:44:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "kimi",
+        "large language models",
+        "moonshot ai"
+      ],
+      "id": "c9be13e3a9fdb5450eaf69d9c39a7c4d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
+      "published": "2026-05-07T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "claude code",
+        "podcasts",
+        "Spotify"
+      ],
+      "id": "f55681ab9b61ff93abc5ab5f255ea8cb",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
+      "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+      "published": "2026-05-07T12:20:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "ai dj",
+        "In Brief",
+        "music streaming services",
+        "Spotify"
+      ],
+      "id": "545573325aebe9118f524cd1e8df1c2e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed&#8230;",
+      "published": "2026-05-07T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "9f2e6d7d9407f3e0ee8514c029aef8d0",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "The balcony solar boom is coming to the US",
+      "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for&#8230;",
+      "published": "2026-05-07T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "The Spark"
+      ],
+      "id": "393d7ed5281fa9b6b1a187212b1b59f2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "What’s next for IVF",
+      "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered&#8230;",
+      "published": "2026-05-07T09:04:50+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "What's Next in Tech"
+      ],
+      "id": "b04c89e19ac70ebe4b67b71cb8242469",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-07"
+    },
     {
       "title": "Five architects of the AI economy explain where the wheels are coming off",
       "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
