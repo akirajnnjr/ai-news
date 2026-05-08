@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-05-08T10:04:35.329438+08:00",
-  "total": 1213,
+  "last_updated": "2026-05-08T15:13:28.087432+08:00",
+  "total": 1214,
   "news": [
+    {
+      "title": "Why you can never get your doctor to call you back",
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+      "published": "2026-05-08T04:42:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "TC",
+        "Aileen Lee",
+        "Basata",
+        "Basis Set Ventures",
+        "cowboy ventures",
+        "Sofeon",
+        "Victoria Treyger"
+      ],
+      "id": "8b7e15d90cb9dcd98801a1026ad2383e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-08"
+    },
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
