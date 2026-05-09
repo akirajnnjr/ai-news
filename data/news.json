@@ -1,7 +1,221 @@
 {
-  "last_updated": "2026-05-08T15:13:28.087432+08:00",
-  "total": 1214,
+  "last_updated": "2026-05-09T09:58:28.448179+08:00",
+  "total": 1226,
   "news": [
+    {
+      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+      "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+      "summary": "Across the country, schools and colleges postpone year-end tests.",
+      "published": "2026-05-08T18:33:48+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "canvas",
+        "Cyberattacks",
+        "outages",
+        "ransomware",
+        "school"
+      ],
+      "id": "e6293921d1be0fc67667151ca7c94287",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "published": "2026-05-08T22:59:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Exclusive",
+        "Layoffs",
+        "oracle",
+        "severence"
+      ],
+      "id": "3db6af49a0c95a3a08ed49f0f7f4048b",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+      "published": "2026-05-08T20:02:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Hardware",
+        "TC",
+        "Apple",
+        "Elon Musk",
+        "In Brief",
+        "Intel",
+        "Lip-bu Tan"
+      ],
+      "id": "044227d1cd5b73cd8f2739f2c534208a",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "published": "2026-05-08T18:33:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "cloudflare",
+        "Layoffs"
+      ],
+      "id": "a0ebd83ccb77775435d50175c0d2784f",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq",
+      "published": "2026-05-08T15:46:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Anthropic",
+        "crypto",
+        "Enterprise AI",
+        "Equity podcast",
+        "OpenAI",
+        "prior labs",
+        "Roundup",
+        "sap",
+        "xAI"
+      ],
+      "id": "e14b174a0081b2283d4af75eb0ea26cb",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+      "published": "2026-05-08T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "795904b0717f6d09594a1862ad98575e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
+      "published": "2026-05-08T23:59:19+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "8e2b23460141d156564bb410a2639894",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+      "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship&#8230;",
+      "published": "2026-05-08T16:19:40+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "MIT Technology Review Explains"
+      ],
+      "id": "2c5dba8eca7800d59e80d2dc223964bb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "The Download: AI malaise and babymaking tech",
+      "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society? Will&#8230;",
+      "published": "2026-05-08T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "daa45aa176407c557d3c86d09108074c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Here’s how technology transformed babymaking",
+      "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+      "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming&#8230;",
+      "published": "2026-05-08T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "The Checkup"
+      ],
+      "id": "10d8c05fb61689cc9023d044441fc08c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "summary": "",
+      "published": "2026-05-08T17:41:05+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8cdd070f623585e676a43312ba15e517",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "url": "https://huggingface.co/blog/allenai/emo",
+      "summary": "",
+      "published": "2026-05-08T16:03:50+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "148aa0644a1a2f1ed15645e67ae6d977",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-09"
+    },
     {
       "title": "Why you can never get your doctor to call you back",
       "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
