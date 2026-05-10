@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-05-10T09:57:05.388575+08:00",
-  "total": 1229,
+  "last_updated": "2026-05-10T15:53:00.459397+08:00",
+  "total": 1230,
   "news": [
+    {
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "published": "2026-05-10T02:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "voice AI",
+        "Wispr flow"
+      ],
+      "id": "78ff151ea44fac2b61c01fc5090f6cbf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-10"
+    },
     {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
