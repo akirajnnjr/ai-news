@@ -1,7 +1,69 @@
 {
-  "last_updated": "2026-05-10T15:53:00.459397+08:00",
-  "total": 1230,
+  "last_updated": "2026-05-11T10:07:39.412066+08:00",
+  "total": 1234,
   "news": [
+    {
+      "title": "Get ready for the whisper-filled office of the future",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?",
+      "published": "2026-05-10T21:15:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Edward Kim",
+        "Gusto",
+        "mollie amkraut mueller",
+        "tanay kothari",
+        "Wispr"
+      ],
+      "id": "8297c2208a183540463d8fa8d3101376",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "published": "2026-05-10T20:40:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "id": "224cbba90f0ce490f6167ea1d36b79ec",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "published": "2026-05-10T15:34:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "3a87370c284e32f23fcaad1f41ae762d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "summary": "",
+      "published": "2026-05-10T18:44:11+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "760b0834b2e879b73b62a81c9270cd28",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-11"
+    },
     {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
