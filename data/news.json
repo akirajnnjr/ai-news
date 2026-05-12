@@ -1,7 +1,187 @@
 {
-  "last_updated": "2026-05-11T10:07:39.412066+08:00",
-  "total": 1234,
+  "last_updated": "2026-05-12T10:03:24.675141+08:00",
+  "total": 1245,
   "news": [
+    {
+      "title": "Linux bitten by second severe vulnerability in as many weeks",
+      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "summary": "Production-version patches are coming online and should be installed pronto.",
+      "published": "2026-05-11T22:28:19+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "exploits",
+        "Linux",
+        "vulnerabilities"
+      ],
+      "id": "46cae081f0398d3ba8a39d6744c807ad",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "published": "2026-05-12T00:09:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "IPO",
+        "retail investors",
+        "Robinhood"
+      ],
+      "id": "7a7c4cf1151cbf20eb8d667139bb0fc6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+      "published": "2026-05-11T23:04:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Transportation",
+        "GM",
+        "Layoffs"
+      ],
+      "id": "a8dd42f86055d1accb32d2d5f5ac0e82",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+      "published": "2026-05-11T17:02:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "aggregation",
+        "Digg",
+        "News",
+        "Startups"
+      ],
+      "id": "0b86095285b9bb80c0283b4872163396",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+      "published": "2026-05-11T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Aetherflux",
+        "baiju bhatt",
+        "Cowboy Space Company",
+        "data centers"
+      ],
+      "id": "8b55c4119673e9f59f160a7275cbe99a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&#8230;",
+      "published": "2026-05-11T17:35:12+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "18e29f063a54f641fe30454b95d54edd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;",
+      "published": "2026-05-11T13:33:06+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "14c481f9151ab45891dbcf9c1db9196a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Innovation abounds in device charging",
+      "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+      "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a slew of technological advances. These&#8230;",
+      "published": "2026-05-11T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "sponsored"
+      ],
+      "id": "bfe32a1591134df1b333577d9db31776",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Implementing advanced AI technologies in finance",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;",
+      "published": "2026-05-11T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "cff19a85c0961b9d15b5bbcf1f7294c8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+      "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have&#8230;",
+      "published": "2026-05-11T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "0f665aa2e806f1cbd030a1afa1f416d7",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "summary": "",
+      "published": "2026-05-11T23:18:26+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "3bee7290591a4075e78bf158dc6c227f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-12"
+    },
     {
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
