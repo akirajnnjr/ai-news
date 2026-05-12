@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-05-12T10:03:24.675141+08:00",
-  "total": 1245,
+  "last_updated": "2026-05-12T16:20:24.726726+08:00",
+  "total": 1246,
   "news": [
+    {
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "published": "2026-05-12T04:52:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "interaction models",
+        "Mira Murati",
+        "Thinking Machines Lab"
+      ],
+      "id": "d3b5b5ad95107e44d216d88b50cc9509",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-12"
+    },
     {
       "title": "Linux bitten by second severe vulnerability in as many weeks",
       "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
