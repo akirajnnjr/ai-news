@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-05-14T10:11:38.275892+08:00",
-  "total": 1275,
+  "last_updated": "2026-05-14T16:24:45.954255+08:00",
+  "total": 1277,
   "news": [
+    {
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+      "published": "2026-05-14T06:05:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Campbell Brown",
+        "Forum AI",
+        "Lerer Hippeau"
+      ],
+      "id": "ebebd918aa4460054cb0db8b38663641",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+      "published": "2026-05-14T05:24:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Clio",
+        "legal tech"
+      ],
+      "id": "fb356e6d297c12d328c6cc2c97a771e6",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
     {
       "title": "Notion just turned its workspace into a hub for AI agents",
       "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
