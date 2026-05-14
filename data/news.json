@@ -1,7 +1,278 @@
 {
-  "last_updated": "2026-05-13T10:09:19.660292+08:00",
-  "total": 1260,
+  "last_updated": "2026-05-14T10:11:38.275892+08:00",
+  "total": 1275,
   "news": [
+    {
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "published": "2026-05-13T21:45:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "AI agents",
+        "Notion"
+      ],
+      "id": "e4edfbe33d59952de03b0707d1c257da",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "published": "2026-05-13T19:49:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "air pollution",
+        "data centers",
+        "Elon Musk",
+        "natural gas",
+        "xAI"
+      ],
+      "id": "29058bb3c4c10fbae90d395869b9a124",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "published": "2026-05-13T19:28:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "agents",
+        "Anthropic",
+        "Cat Wu",
+        "Claude",
+        "claude code"
+      ],
+      "id": "b5a2360916db74f1b1460b3860fa1efc",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Who trusts Sam Altman?",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "summary": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
+      "published": "2026-05-13T16:31:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "59bb1c7fc307e353b8db66d453d82531",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "published": "2026-05-13T16:22:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gaming",
+        "ai labs",
+        "data vendor",
+        "video games",
+        "world models"
+      ],
+      "id": "f0c8a6dd55dea94aa024b237e09dbb57",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
+      "published": "2026-05-13T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "SMBs"
+      ],
+      "id": "33994bb3261cb6a0117d514e822bf9aa",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+      "published": "2026-05-13T14:59:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "alexa plus",
+        "Amazon",
+        "Rufus"
+      ],
+      "id": "0dcc1ace4e1dde1a06f41ddf89f98a61",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+      "published": "2026-05-13T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Transportation",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "597e24732e983d453e00e87c05aea12e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+      "published": "2026-05-13T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "OpenAI",
+        "Ramp"
+      ],
+      "id": "a1cf4478c84db74041839635018c1905",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "WhatsApp adds an incognito mode in Meta AI chats",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+      "published": "2026-05-13T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "meta ai",
+        "WhatsApp"
+      ],
+      "id": "cca0dcac360041763ab92a9ac024fd3f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+      "published": "2026-05-13T13:27:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "AI assistant",
+        "poppy"
+      ],
+      "id": "2711944a20158d55c29aa0c57a9d364c",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+      "published": "2026-05-13T12:11:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Adaption",
+        "fine tuning",
+        "Sara Hooker",
+        "self-training"
+      ],
+      "id": "a2db175c26fd6f2aed318927b02f49da",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a&#8230;",
+      "published": "2026-05-13T18:09:03+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence"
+      ],
+      "id": "110d107a61de5d250b1eb01c4459b15e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+      "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a&#8230;",
+      "published": "2026-05-13T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7643edf29e2e721f739f5d160a505b73",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "A plan to make drugs in orbit is going commercial",
+      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
+      "summary": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing. The idea of building things in outer space for use on Earth has so far been explored&#8230;",
+      "published": "2026-05-13T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "ff9141dfe0eb54e5046a4b5ce822305b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-13"
+    },
     {
       "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
       "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
