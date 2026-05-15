@@ -1,7 +1,347 @@
 {
-  "last_updated": "2026-05-14T16:24:45.954255+08:00",
-  "total": 1277,
+  "last_updated": "2026-05-15T10:09:24.461983+08:00",
+  "total": 1297,
   "news": [
+    {
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "published": "2026-05-14T18:32:01+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "BitLocker",
+        "disk encryption",
+        "microsoft",
+        "vulnerabilities"
+      ],
+      "id": "c4acbc0e0fe80859d20759668fa012d7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+      "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+      "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+      "published": "2026-05-14T16:47:43+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "AI and jobs",
+        "Cisco",
+        "layoffs"
+      ],
+      "id": "867c8b9af7a5668e8d0f089b0ee10133",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "summary": "Here's what the biggest tech court case of the year is all about.",
+      "published": "2026-05-14T22:47:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "17ff85e16a36ebb4aeeedef170ed05fd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "published": "2026-05-14T21:30:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "SpaceX",
+        "spacexai",
+        "xAI"
+      ],
+      "id": "a798c83d7c0e1b424f75ec8c69bcd399",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "OpenAI says Codex is coming to your phone",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "published": "2026-05-14T20:58:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "ChatGPT",
+        "codex",
+        "OpenAI"
+      ],
+      "id": "5cc6e708b103168586a5ee9992ac2c2b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "What happens when AI starts building itself?",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "published": "2026-05-14T19:57:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "greycroft",
+        "GV",
+        "recursive superintelligence",
+        "Richard Socher"
+      ],
+      "id": "baafa407a6f861d18c998d82e769ad24",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+      "published": "2026-05-14T19:12:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "jony ive",
+        "lawsuit",
+        "OpenAI"
+      ],
+      "id": "3a7e43483526cfd42792c93faa2a9420",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "published": "2026-05-14T19:05:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "ai tokens",
+        "Claude",
+        "claude code",
+        "tokenmaxxing"
+      ],
+      "id": "2c05eee6a56720bc284fb3ea2ddf094c",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+      "published": "2026-05-14T16:30:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Cerebras",
+        "IPO"
+      ],
+      "id": "73e7f5e113964d7bed2583159fbd1556",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "published": "2026-05-14T15:20:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "Venture",
+        "accounting",
+        "bench",
+        "Khosla Ventures",
+        "synthetic"
+      ],
+      "id": "6cc7aedcf8cca19cc2d28f0672533087",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "published": "2026-05-14T14:01:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "chuck robbins",
+        "Cisco",
+        "cybersecurity",
+        "In Brief",
+        "Layoffs"
+      ],
+      "id": "0ebe629cf260efa4b012a92b96738eec",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+      "published": "2026-05-14T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "Startup Battlefield",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "b11eb5e475b0460b57a947437de7442f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+      "published": "2026-05-14T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "AI data",
+        "Nava Ventures",
+        "Wirestock"
+      ],
+      "id": "701532e0c3d27d3f3e45553cf5258b4c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Data readiness for agentic AI in financial services",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;",
+      "published": "2026-05-14T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "7db00b81e7f61859665fc7117f7e5e2a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;",
+      "published": "2026-05-14T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "f187631eef2ea89bedb66dfdd269bbf3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted&#8230;",
+      "published": "2026-05-14T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "9a693d8973ad88a496be9d7d5b46e31a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "The Tesla Semi could be a big deal for electric trucking",
+      "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+      "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the truck in late 2017. And now we’ve got final battery specs, official prices, and big news about&#8230;",
+      "published": "2026-05-14T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "The Spark"
+      ],
+      "id": "8f6d6ef7d4c00dfac0b0dfca45a7657a",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "The shock of seeing your body used in deepfake porn",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;",
+      "published": "2026-05-14T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "The Big Story"
+      ],
+      "id": "7ca2e14624de6d4e4e005042536df733",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "summary": "",
+      "published": "2026-05-14T18:55:01+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "3d30727982c4bbdd0de1072137ae3dda",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Unlocking asynchronicity in continuous batching",
+      "url": "https://huggingface.co/blog/continuous_async",
+      "summary": "",
+      "published": "2026-05-14T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c2fad0632e5454ac92b1f94877242614",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-14"
+    },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
       "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
