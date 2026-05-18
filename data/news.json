@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-05-17T10:04:46.151801+08:00",
-  "total": 1309,
+  "last_updated": "2026-05-18T10:26:54.493670+08:00",
+  "total": 1313,
   "news": [
+    {
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "published": "2026-05-17T20:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "siri",
+        "gemini"
+      ],
+      "id": "5ffbcd2eae2ef6026bf5949e0141ffb1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "published": "2026-05-17T19:46:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "OpenAI"
+      ],
+      "id": "0687ec213c6dc1c0fdbe8cdd30aa3819",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "published": "2026-05-17T16:32:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "commencement speeches",
+        "Eric Schmidt",
+        "gloria caulfield"
+      ],
+      "id": "f4e20e1053eac63f6170077c2f404a6d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2026-05-17T16:05:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Transportation",
+        "AI",
+        "General Motors",
+        "Rivian",
+        "RJ Scaringe",
+        "Rapido",
+        "techcrunch mobility",
+        "mind robotics"
+      ],
+      "id": "481cbcf6e999de300390526254cffb49",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-18"
+    },
     {
       "title": "The haves and have nots of the AI gold rush",
       "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
