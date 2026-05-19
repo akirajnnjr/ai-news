@@ -1,7 +1,212 @@
 {
-  "last_updated": "2026-05-18T10:26:54.493670+08:00",
-  "total": 1313,
+  "last_updated": "2026-05-19T10:15:01.476055+08:00",
+  "total": 1326,
   "news": [
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "published": "2026-05-18T21:29:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Eric Schmidt",
+        "Google",
+        "SandboxAQ"
+      ],
+      "id": "d8859cfa6328132ab539eff087a26d94",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "published": "2026-05-18T19:27:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Stainless"
+      ],
+      "id": "d023da2950a3e14fa36a22e06b9c23e3",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "published": "2026-05-18T17:34:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "greg brockman",
+        "Microsoft",
+        "OpenAI trial",
+        "sam altman"
+      ],
+      "id": "f568df07558fd44a6b9450cd161905f8",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "published": "2026-05-18T14:56:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "alexa plus",
+        "alexa+",
+        "Amazon",
+        "Generative AI",
+        "podcasts"
+      ],
+      "id": "3a9b0386203c7693e0b542121e8009b7",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+      "published": "2026-05-18T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Startups",
+        "ai glasses",
+        "LetinAR",
+        "optics",
+        "optics technology",
+        "SMART Glasses"
+      ],
+      "id": "ed128b31ae1c9421f3313eb5e961cea4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
+      "published": "2026-05-19T00:53:10+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "9b154231c9e453fc1dbd76411eb5c152",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "What to expect from Google this week",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;",
+      "published": "2026-05-18T17:35:43+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "824e77ca4c6bbf8ef3b26811e784b0d9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "The Signals That Matter – MIT Insider’s Panel",
+      "url": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+      "summary": "",
+      "published": "2026-05-18T16:57:44+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [],
+      "id": "9e44d638b21d9b8d3e9b02b21ad8d404",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental&#8230;",
+      "published": "2026-05-18T16:01:39+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence"
+      ],
+      "id": "981e2ce3b8c47834018ee03b49ae1414",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,&#8230;",
+      "published": "2026-05-18T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "a6efc725652055a361295d82f92b86de",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "summary": "",
+      "published": "2026-05-18T16:00:21+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "5fe33294ceaa3342cb8f731f4806277e",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "summary": "",
+      "published": "2026-05-18T15:12:46+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "210dad3ca6f9520d86b9b3030fd33260",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "summary": "",
+      "published": "2026-05-18T14:12:58+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "184fb5875c90997999830d8946f4b80f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-18"
+    },
     {
       "title": "Apple’s Siri revamp could include auto-deleting chats",
       "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
