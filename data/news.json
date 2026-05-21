@@ -1,7 +1,338 @@
 {
-  "last_updated": "2026-05-20T10:14:37.373423+08:00",
-  "total": 1353,
+  "last_updated": "2026-05-21T10:14:12.944985+08:00",
+  "total": 1371,
   "news": [
+    {
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+      "published": "2026-05-20T19:10:36+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "chromium",
+        "exploits",
+        "vulnerabilities"
+      ],
+      "id": "1f7b0324d248637920fbd6f847742edd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "published": "2026-05-21T00:28:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "cpus",
+        "nvidia"
+      ],
+      "id": "f5f013421de13127034c8ae6d69b2055",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "published": "2026-05-21T00:21:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "OpenAI"
+      ],
+      "id": "e6eed5941e8db84f4c887dbf7c04a767",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "published": "2026-05-20T22:30:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Startups",
+        "Clouted",
+        "Marketing",
+        "slow ventures",
+        "social media"
+      ],
+      "id": "6b0b9cf6e7e3ac2165fd1babe18ecfbc",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "published": "2026-05-20T22:26:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "Grok",
+        "SpaceX",
+        "spacex ipo",
+        "X"
+      ],
+      "id": "1dd7071627fcd1796487517dea8a3c3a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+      "published": "2026-05-20T22:03:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "earnings",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "701a8a6a4c04484ed891cdce1ee9a88d",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+      "published": "2026-05-20T21:55:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "air pollution",
+        "data centers",
+        "Elon Musk",
+        "natural gas",
+        "SpaceX",
+        "spacex ipo",
+        "spacexai",
+        "xAI"
+      ],
+      "id": "42a4a62f5a1df1578bc933dd44829b20",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+      "published": "2026-05-20T21:29:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "colossus",
+        "data centers",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "8ad8deb316081a848527e6a09ec0d5e2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+      "published": "2026-05-20T20:28:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "erdos problems",
+        "OpenAI",
+        "reasoning models"
+      ],
+      "id": "5e513af90e20f1c75ab5ea91673dec3c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+      "published": "2026-05-20T19:47:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "andrew ng",
+        "google brain",
+        "IrisGo"
+      ],
+      "id": "4f3ec8edc1c281b12fdf720d00172e30",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "published": "2026-05-20T17:24:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Elon Musk",
+        "In Brief",
+        "IPOs",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "8ee8f9a64ecd6635c36597e1f18caad4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "AI search startups are blowing up",
+      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+      "published": "2026-05-20T15:04:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI search",
+        "Exa Labs",
+        "In Brief",
+        "Parallel Web Systems"
+      ],
+      "id": "a8b9af8f050e441794ba0fe088e3bbdb",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+      "published": "2026-05-20T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "audio creation",
+        "Music",
+        "Stability AI"
+      ],
+      "id": "17cdb3afa6c1cf9df8f8b8feb4e96b74",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
+      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
+      "published": "2026-05-20T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Venture"
+      ],
+      "id": "37fda0a7ea482e5e329ba375c365f36d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
+      "published": "2026-05-20T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI agents",
+        "NanoClaw",
+        "openclaw",
+        "Valley Capital Partners"
+      ],
+      "id": "2cbd3e3624d2d11f7b0a3c7d9e01688e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
+      "published": "2026-05-20T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI assistant",
+        "design",
+        "Figma"
+      ],
+      "id": "7fa0875ec0c9b04b126b1212bd03570e",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
+      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could&#8230;",
+      "published": "2026-05-20T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "a835a1c19b5494e11657382d2544400e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "The Download: fully artificial chicken eggs and why Musk lost",
+      "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg. Instead, these chickens were&#8230;",
+      "published": "2026-05-20T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "5f48f1a129a3bef54b79964797a20e20",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-20"
+    },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
