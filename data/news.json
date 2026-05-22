@@ -1,7 +1,309 @@
 {
-  "last_updated": "2026-05-21T10:14:12.944985+08:00",
-  "total": 1371,
+  "last_updated": "2026-05-22T10:27:41.965494+08:00",
+  "total": 1388,
   "news": [
+    {
+      "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+      "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
+      "published": "2026-05-21T13:48:38+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Tech",
+        "D-Wave",
+        "GlobalFoundries",
+        "ibm",
+        "quantum computing",
+        "syndication"
+      ],
+      "id": "c47218addf4ffdaa4d6ae09b76ce57cc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "published": "2026-05-21T19:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Spotify",
+        "ai music",
+        "universal music group"
+      ],
+      "id": "00d321dd1852239765eca2705a20b518",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "published": "2026-05-21T19:19:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "evergreen",
+        "Google"
+      ],
+      "id": "7d8088891c85f1e3890d84436ea38e73",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "published": "2026-05-21T17:30:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "ai executive order",
+        "Trump"
+      ],
+      "id": "90bacf183f612e68a9c785acb6ac5b6c",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "published": "2026-05-21T15:27:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI audio",
+        "ai generated content",
+        "Spotify"
+      ],
+      "id": "ecf87ae7aac72550a4739e5be98e0605",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Spotify takes on Google’s NotebookLM with its new app",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+      "published": "2026-05-21T15:27:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI generated podcasts",
+        "podcasts",
+        "Spotify"
+      ],
+      "id": "d559b8767d3c7b6edd0821b9745fe4ec",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "published": "2026-05-21T15:27:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "audiobooks",
+        "ElevenLabs",
+        "Spotify"
+      ],
+      "id": "2c78b51995394988bc086454a544f072",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "published": "2026-05-21T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Fundraising",
+        "calm",
+        "mental health apps",
+        "The Path",
+        "Tony Robbins"
+      ],
+      "id": "7b8293e95bcb26f088b310b57bb4e879",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+      "published": "2026-05-21T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "AI assistants",
+        "AI hardware",
+        "hark"
+      ],
+      "id": "65ea913ba782f03927a088dd3bc6b800",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+      "published": "2026-05-21T13:52:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI agents",
+        "android halo",
+        "gemini",
+        "Google",
+        "google io 2026",
+        "spark"
+      ],
+      "id": "2dc9bf4077b0baa1065a3480c98547f6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+      "published": "2026-05-21T13:38:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Aluminum",
+        "AMP Robotics",
+        "Exclusive",
+        "recycling",
+        "Sortera"
+      ],
+      "id": "e4a7cf7dbbba256d977f819a8e375ae2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;",
+      "published": "2026-05-21T20:41:05+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "artificial intelligence",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "bf40a95dd6a6174b2ccadebb2adf4f12",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Scaling creativity in the age of AI",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;",
+      "published": "2026-05-21T19:16:43+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "13fdcf243334537649ba0c66a3355d20",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written&#8230;",
+      "published": "2026-05-21T14:30:45+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "e46b93e1759f0c30da27443a742530bb",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,&#8230;",
+      "published": "2026-05-21T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c779fe0349e7606686d8b4b3ec93b443",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Climate tech companies are pivoting to critical minerals",
+      "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+      "summary": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Suddenly, it feels like every climate tech company has a story&#8230;",
+      "published": "2026-05-21T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "The Spark"
+      ],
+      "id": "cb1833640a275b8bcc53eb2b408ed08a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Tech researchers are suing the Trump administration over the future of online safety",
+      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online.&#160; Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court.&#160;&#8230;",
+      "published": "2026-05-21T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Policy",
+        "America Undone",
+        "App",
+        "Summary"
+      ],
+      "id": "d754d150bb652ad61cae4e1c545eb089",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-21"
+    },
     {
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
