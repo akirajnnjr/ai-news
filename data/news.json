@@ -1,7 +1,266 @@
 {
-  "last_updated": "2026-05-22T10:27:41.965494+08:00",
-  "total": 1388,
+  "last_updated": "2026-05-23T10:04:14.428033+08:00",
+  "total": 1402,
   "news": [
+    {
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+      "published": "2026-05-22T18:13:05+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "Security",
+        "cryptography",
+        "encryption",
+        "meta",
+        "whatsapp"
+      ],
+      "id": "e24de95badde44a300b4bbb74d3d0025",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+      "published": "2026-05-22T10:30:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "GitHub",
+        "malware",
+        "open source",
+        "syndication",
+        "teampcp"
+      ],
+      "id": "682b115b447c8111bd547ca9f6ec0995",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "published": "2026-05-22T23:03:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Transportation",
+        "crash",
+        "flight",
+        "In Brief",
+        "NTSB"
+      ],
+      "id": "fd275f98564370a19d9262a1cb9e8acf",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "published": "2026-05-22T21:02:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai icons",
+        "Android",
+        "disco ball",
+        "Google",
+        "icons",
+        "PIXEL",
+        "Spotify"
+      ],
+      "id": "d4ba36838dce5e468e4e8faa0f833bc0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "published": "2026-05-22T20:40:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "annual recurring revenue",
+        "Exclusive",
+        "Valuations"
+      ],
+      "id": "6c669bd48f01884ea1da6cc606e170d9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+      "published": "2026-05-22T18:17:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI search",
+        "AI SearchEquity Podcast",
+        "Anthropic",
+        "Elon Musk",
+        "google io 2026",
+        "Nano Claw",
+        "OpenAI",
+        "spacex ipo",
+        "Stainless"
+      ],
+      "id": "daf1eb7380df31d2cb86f390fd6fd3cf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "You can no longer Google the word ‘disregard’",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "published": "2026-05-22T16:16:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI summaries",
+        "Google",
+        "Google Search",
+        "In Brief"
+      ],
+      "id": "7e9de1698fc8e7e7ccb7ec1647b1e376",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "published": "2026-05-22T15:37:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Android XR",
+        "android xr glasses",
+        "gemini glasses",
+        "Google",
+        "google glasses",
+        "google io 2026"
+      ],
+      "id": "3db5dbae3cb28860fe8234eb25214495",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+      "published": "2026-05-22T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "AI SearchEquity Podcast",
+        "Anthropic",
+        "Elon Musk",
+        "Equity Video",
+        "Nano Claw",
+        "OpenAI",
+        "spacex ipo",
+        "Stainless"
+      ],
+      "id": "50ff72bb6a1d8d5d88590f2c74b21bbd",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code&#8230;",
+      "published": "2026-05-22T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "043b8de6089f729d175e86c5deedb94c",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
+      "published": "2026-05-22T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "81495904716a0995b0b3c19774fadd4d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+      "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers have said that competitors will only be taking substances that&#8230;",
+      "published": "2026-05-22T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "49d5d24ea872079880ef8f9faff97489",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "summary": "",
+      "published": "2026-05-23T00:02:03+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "503a5ba4d23d9b3ce6928d77fe64e054",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "summary": "",
+      "published": "2026-05-22T15:25:59+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "d58891a38c358eda2ff47dfe9d00e963",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-22"
+    },
     {
       "title": "US government takes $2 billion equity stake in nine quantum computing firms",
       "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
