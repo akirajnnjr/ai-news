@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-05-23T10:04:14.428033+08:00",
-  "total": 1402,
+  "last_updated": "2026-05-24T10:12:55.606131+08:00",
+  "total": 1404,
   "news": [
+    {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "published": "2026-05-23T15:08:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Transportation",
+        "AI",
+        "IBM",
+        "Apps",
+        "formula one",
+        "Exclusive",
+        "f1"
+      ],
+      "id": "32e0243942b6d1417c181e1fcc4f898a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "published": "2026-05-23T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Analysis",
+        "data centers",
+        "Elon Musk",
+        "Solar Power",
+        "SpaceX",
+        "Tesla",
+        "xAI"
+      ],
+      "id": "049609b07c31bd05026649f03f6acc92",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-23"
+    },
     {
       "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
       "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
