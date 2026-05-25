@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-05-24T10:12:55.606131+08:00",
-  "total": 1404,
+  "last_updated": "2026-05-25T10:31:44.827535+08:00",
+  "total": 1406,
   "news": [
+    {
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "summary": "We're in the transition period -- all of us.",
+      "published": "2026-05-24T21:39:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "a1acbef14ea22c9cc246a0a873845f28",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "published": "2026-05-24T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Amazon",
+        "AI hardware",
+        "Bee wearable"
+      ],
+      "id": "8907bc01316042624e01bea7e0d251ea",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-24"
+    },
     {
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
