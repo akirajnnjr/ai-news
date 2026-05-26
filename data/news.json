@@ -1,7 +1,124 @@
 {
-  "last_updated": "2026-05-25T10:31:44.827535+08:00",
-  "total": 1406,
+  "last_updated": "2026-05-26T10:11:50.865468+08:00",
+  "total": 1412,
   "news": [
+    {
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "published": "2026-05-25T12:00:15+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "foundry",
+        "funding",
+        "government",
+        "ibm",
+        "quantum computing",
+        "starups"
+      ],
+      "id": "a45594b61c86be493da8c8840a772aaa",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "published": "2026-05-25T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "layoff",
+        "ClickUp"
+      ],
+      "id": "abb22fea27634d54386cc823c3d53957",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "published": "2026-05-25T15:09:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai encyclical",
+        "Magnifica Humanitas",
+        "pope leo xiv",
+        "the vatican"
+      ],
+      "id": "96a0ae8f1cd7d1a95fae4afcf8295103",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "published": "2026-05-25T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "Startup Battlefield",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "78243e70169ed8753ae6ce8c7a5edbf9",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "published": "2026-05-25T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "218e902321e92704ad46ba67e2dc14ee",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "summary": "",
+      "published": "2026-05-25T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "37be5f050c299a11a44c4348bd73f06d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-25"
+    },
     {
       "title": "Everyone is navigating AI security in real time — even Google",
       "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
