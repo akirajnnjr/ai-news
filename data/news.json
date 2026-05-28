@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-05-28T10:05:49.857224+08:00",
-  "total": 1443,
+  "last_updated": "2026-05-28T17:40:53.201890+08:00",
+  "total": 1444,
   "news": [
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "published": "2026-05-28T07:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Hardware",
+        "AI",
+        "Gadgets",
+        "Vertu",
+        "Vertu Alphafold",
+        "Hermes Agent"
+      ],
+      "id": "b16689dc6815e82797fa0a7804d32aec",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
     {
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
       "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
