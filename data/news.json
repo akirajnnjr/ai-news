@@ -1,7 +1,391 @@
 {
-  "last_updated": "2026-05-28T17:40:53.201890+08:00",
-  "total": 1444,
+  "last_updated": "2026-05-29T10:10:08.591477+08:00",
+  "total": 1465,
   "news": [
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+      "published": "2026-05-28T20:29:53+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "AI agents",
+        "prompt injections",
+        "vibe coding"
+      ],
+      "id": "de4f4196e194f054041e4b028280e99f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "published": "2026-05-29T00:44:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "AI search",
+        "Glean",
+        "revenue"
+      ],
+      "id": "c87f159dd82a7abd6d8c61a876f1b211",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "The internet is being rebuilt for machines",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "published": "2026-05-28T21:24:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "agentic search",
+        "AI agents",
+        "AWS",
+        "aws opensearch serverless"
+      ],
+      "id": "7b1aab1a5e8dcc06952acfe139ea5c8b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+      "published": "2026-05-28T20:06:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "acquisition",
+        "Asana",
+        "Automation",
+        "Stack AI"
+      ],
+      "id": "0d22b3289c3be595dd9ed5f793c75ed3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+      "published": "2026-05-28T18:52:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Anthropic",
+        "Claude",
+        "OpenAI"
+      ],
+      "id": "fa304b3484d55541d4d824fdf43c7e7f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+      "published": "2026-05-28T18:32:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI futures",
+        "ai tokens",
+        "CME Group",
+        "commodities",
+        "Intercontinental Exchange"
+      ],
+      "id": "407517f5fdbefe68074368508f32edd8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+      "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
+      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
+      "published": "2026-05-28T17:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Startups",
+        "Venture",
+        "Ethan Thornton",
+        "Los Angeles",
+        "StrictlyVC",
+        "StrictlyVC LA"
+      ],
+      "id": "c7127ebb5741b14daac3c8d92be0ca0f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+      "published": "2026-05-28T17:00:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "agent swarms",
+        "Anthropic",
+        "Claude",
+        "Opus"
+      ],
+      "id": "9f1ac71754c52383b289223d318b0f65",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "published": "2026-05-28T15:36:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "compute",
+        "Elon Musk",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "aa6edfc162be69011a7eb47de4985c06",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+      "published": "2026-05-28T15:35:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI agents",
+        "ai apps",
+        "conversational AI",
+        "sesame"
+      ],
+      "id": "d39d7de0ab30510a07f38c46f8f980dd",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
+      "published": "2026-05-28T14:45:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "iOS 27",
+        "iPhone",
+        "siri"
+      ],
+      "id": "5ae8ee806afadc6b6b20d671b3a0df30",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "published": "2026-05-28T14:30:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Adaption",
+        "AGI",
+        "Andrej Karpathy",
+        "artificial intelligence",
+        "neolab",
+        "RSI"
+      ],
+      "id": "0ec483fbd67f1e91e587621fb78fb7ee",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+      "published": "2026-05-28T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Enterprise",
+        "Startups",
+        "AI",
+        "Databricks",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "7dac4f0cab351660171bf433fe479085",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "published": "2026-05-28T14:28:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "podcasts",
+        "YouTube"
+      ],
+      "id": "0c15b54208f1edd5a11cf191af90c254",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+      "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+      "published": "2026-05-28T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Robotics",
+        "Startups",
+        "Transportation",
+        "Venture",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "bb47c985da91baef130df6a085d5784e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "summary": "Visa said that over 1,000 employees have been using Replit for prototyping and development.",
+      "published": "2026-05-28T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "agentic payments",
+        "Replit",
+        "visa"
+      ],
+      "id": "ebb7ad590d91a23cf46f6b2ab5e2679b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "published": "2026-05-28T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive",
+        "General COmpute",
+        "SambaNova"
+      ],
+      "id": "178b4659516ee4a3498ded6a5b1a3864",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.&#160; The research was published today in Science, and a startup called Rock Zero is working to&#8230;",
+      "published": "2026-05-28T18:01:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "id": "5549a01e041a9a6b1b6ab9f8aec0f113",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
+      "published": "2026-05-28T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7e0a41b090860e5cef7c8e1111e8e75f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Climate tech companies are going public. What’s next?",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day&#8230;",
+      "published": "2026-05-28T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "The Spark"
+      ],
+      "id": "7ed1b16dcb9b27d19010b77d56388c59",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+      "published": "2026-05-28T09:51:11+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "AI Hype Index",
+        "App"
+      ],
+      "id": "2c6e5bbca2bc30ce63346a1a25bbc93b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-28"
+    },
     {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
       "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
