@@ -1,7 +1,305 @@
 {
-  "last_updated": "2026-05-29T10:10:08.591477+08:00",
-  "total": 1465,
+  "last_updated": "2026-05-30T10:05:54.030571+08:00",
+  "total": 1480,
   "news": [
+    {
+      "title": "Botnet of more than 17 million devices dismantled",
+      "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+      "published": "2026-05-29T18:46:33+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "botnets",
+        "crime",
+        "residential proxy networks"
+      ],
+      "id": "010519bf14cea83dc4f0452e1534501d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "published": "2026-05-29T22:14:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "developers",
+        "tokenmaxxing"
+      ],
+      "id": "62b1c27465337c25fe10546461e91d3a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "2026-05-29T18:49:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "artificial intelligence",
+        "evergreens",
+        "Glossary"
+      ],
+      "id": "75f84cfeffeb5543d81f4bfb16f11ddb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+      "published": "2026-05-29T17:57:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Aaron Levie",
+        "AI agents",
+        "AI layoffs",
+        "ai psychosis",
+        "Amazon competition",
+        "AWS",
+        "Equity",
+        "openrouter",
+        "Snowflake",
+        "Stord",
+        "Waymo robotaxi"
+      ],
+      "id": "4fd5861e26d9f83c696939809234eb31",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "published": "2026-05-29T17:27:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "AI chips",
+        "groq",
+        "In Brief",
+        "nvidia"
+      ],
+      "id": "fe0f51562a5624d35bae09df5b2ea163",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "published": "2026-05-29T16:13:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "AI agents",
+        "ai coding",
+        "cognition",
+        "Devin",
+        "scott wu"
+      ],
+      "id": "4b1d7fc08047e0c2f8f2ad020bb8c5bd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "published": "2026-05-29T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Enterprise",
+        "Fintech",
+        "Fundraising",
+        "Government & Policy",
+        "Hardware",
+        "Media & Entertainment",
+        "Robotics",
+        "Startups",
+        "Transportation",
+        "Venture",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "1b3d96b11fca0574c2b68d6af99e67b4",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "published": "2026-05-29T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Hardware",
+        "Robotics",
+        "Security",
+        "Startups",
+        "Transportation",
+        "Venture",
+        "TechCrunch Disrupt 2026"
+      ],
+      "id": "23be547c0da8932ab7c73b6be468d4e1",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+      "published": "2026-05-29T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Aaron Levie",
+        "AI agents",
+        "AI layoffs",
+        "ai psychosis",
+        "AWS",
+        "ClickUp",
+        "CPU",
+        "Equity podcast",
+        "openrouter",
+        "Snowflake",
+        "Stord",
+        "Waymo robotaxi"
+      ],
+      "id": "f49b9b132fe5fe9af04cf10a2972e6bc",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "published": "2026-05-29T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "AI detection",
+        "bird feeders"
+      ],
+      "id": "a205088c93838062d7303d566cdcaee9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "published": "2026-05-29T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "dram",
+        "memory chip shortage",
+        "memory chips",
+        "Samsung Electronics",
+        "SK Hynix",
+        "south korea",
+        "XCENA"
+      ],
+      "id": "95bb06f5125a94bb7c205d9add82364f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs&#8230;",
+      "published": "2026-05-29T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7fb6b43cfe6d4e77021e8809cffc8061",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses&#8230;",
+      "published": "2026-05-29T11:19:52+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "80a1eb6be6d0af368a4030657dfb7fc2",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
+      "published": "2026-05-29T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "App"
+      ],
+      "id": "f706a3b8d9c573702a3ba9d2074692f1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "summary": "",
+      "published": "2026-05-29T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "442e91c104b635b71ff2f2269b688f83",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-29"
+    },
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
       "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
