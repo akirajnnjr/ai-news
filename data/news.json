@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-05-30T10:05:54.030571+08:00",
-  "total": 1480,
+  "last_updated": "2026-05-31T10:32:04.900208+08:00",
+  "total": 1485,
   "news": [
+    {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "published": "2026-05-30T21:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Venture",
+        "AI",
+        "Government & Policy",
+        "Softbank"
+      ],
+      "id": "4f54dd187fdc6173ced9efb332a8bb3f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "published": "2026-05-30T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Microsoft"
+      ],
+      "id": "54225d41602ff9685d2bee0e0125ab62",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "published": "2026-05-30T15:59:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Meta"
+      ],
+      "id": "361533e64698724c96edb2ffafa970f6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "published": "2026-05-30T15:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "AI",
+        "Apps",
+        "Google",
+        "gemini",
+        "AI assistant",
+        "gemini ai",
+        "Gemini Spark"
+      ],
+      "id": "efe0c0c4c881fe14a51b4b2000a18156",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "published": "2026-05-30T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Apps",
+        "Browser",
+        "search engines",
+        "web browser",
+        "evergreens"
+      ],
+      "id": "4fd271260b0616f7aaf8975ffb4c5a66",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-05-30"
+    },
     {
       "title": "Botnet of more than 17 million devices dismantled",
       "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
