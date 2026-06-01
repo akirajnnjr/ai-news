@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-01T10:41:39.668056+08:00",
-  "total": 1487,
+  "last_updated": "2026-06-01T19:04:51.236667+08:00",
+  "total": 1488,
   "news": [
+    {
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "summary": "",
+      "published": "2026-06-01T04:44:55+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c07a24378dfe9d2a24cb041d16b8adde",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-01"
+    },
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
       "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
