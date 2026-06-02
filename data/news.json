@@ -1,7 +1,229 @@
 {
-  "last_updated": "2026-06-01T19:04:51.236667+08:00",
-  "total": 1488,
+  "last_updated": "2026-06-02T10:40:03.879794+08:00",
+  "total": 1501,
   "news": [
+    {
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+      "published": "2026-06-01T19:49:09+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "npm",
+        "red hat",
+        "supply chain attacks"
+      ],
+      "id": "4e02f586f031b476573fddb013953746",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+      "published": "2026-06-01T22:55:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Alphabet",
+        "compute",
+        "Google",
+        "In Brief"
+      ],
+      "id": "97fd2150ce7251e9086aadc78931195a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "published": "2026-06-01T21:35:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "TC",
+        "AI PC",
+        "cpus",
+        "Microsoft",
+        "nvidia"
+      ],
+      "id": "7a8f5bd4e5874c0c15979a651f86e480",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "published": "2026-06-01T20:03:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "lawsuits",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "7d21ec3ff9c005244c37bb5fcbd6bbb7",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "published": "2026-06-01T18:19:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "artificial intelligence",
+        "data centers",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "id": "1a40ff2a49b0f4cf23c945fc6f30ad36",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+      "published": "2026-06-01T16:36:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "IPO",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "id": "388c0763bb7e3a71aeabb5cc0a0624ac",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
+      "published": "2026-06-01T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive",
+        "Windborne Systems"
+      ],
+      "id": "2015d5b1d007d0ef802238dddf214c78",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "published": "2026-06-01T14:49:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Chrome",
+        "DuckDuckGo",
+        "Firefox",
+        "Google",
+        "Search"
+      ],
+      "id": "03e6e22cffa56b04818421277634e093",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "published": "2026-05-30T14:49:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Andreas Stavropoulos",
+        "Ben Blume",
+        "niko bonatsos",
+        "StrictlyVC Athens"
+      ],
+      "id": "1091c10f9199a98c09e6c2dee75c523f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "The Download: China’s brain implant ambitions",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October, Dong Hui decided to try holding a&#8230;",
+      "published": "2026-06-01T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "40a078879743341324435c89b6c096e3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.&#160; Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, he wrote&#8230;",
+      "published": "2026-06-01T09:09:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "China",
+        "Summary"
+      ],
+      "id": "dc7c3c3870de4c79f23cf6a4650629f9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "summary": "",
+      "published": "2026-06-01T15:45:17+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "3cf2c3be558d6990410d76836132cd7b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "summary": "",
+      "published": "2026-06-01T13:51:18+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "287852ed7fbc0e44db75712e78dfa477",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-06-01"
+    },
     {
       "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
       "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
