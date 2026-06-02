@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-02T10:40:03.879794+08:00",
-  "total": 1501,
+  "last_updated": "2026-06-02T17:58:21.974366+08:00",
+  "total": 1502,
   "news": [
+    {
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
+      "published": "2026-06-02T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "aritficial intelligence"
+      ],
+      "id": "e0ba9cd4bb87397dcb5903bf4fc8545b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-02"
+    },
     {
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
