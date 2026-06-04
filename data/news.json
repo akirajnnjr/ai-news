@@ -1,7 +1,232 @@
 {
-  "last_updated": "2026-06-03T18:29:30.828579+08:00",
-  "total": 1518,
+  "last_updated": "2026-06-04T10:43:01.840418+08:00",
+  "total": 1531,
   "news": [
+    {
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "published": "2026-06-03T19:53:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "2fa",
+        "dashlane",
+        "mfa",
+        "multi factor authentication",
+        "password managers",
+        "two-factor authentication"
+      ],
+      "id": "1bbdc9b8a9e9a9b14f0c4af8b2cce80e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "published": "2026-06-03T22:56:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Anthropic",
+        "google cloud",
+        "Lovable"
+      ],
+      "id": "1fe21f8da08e66ecb2c32dc07f5a500b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "published": "2026-06-03T19:38:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Alphabet",
+        "capital expenditures",
+        "Google",
+        "IPOs"
+      ],
+      "id": "ea4455262cfd96d82438fd160a7bf8f0",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "published": "2026-06-03T19:07:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Dreambeans",
+        "Google"
+      ],
+      "id": "51fe822e196e00e4861c24e12c6abce2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "published": "2026-06-03T15:50:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "AI search",
+        "Amazon",
+        "retail"
+      ],
+      "id": "d0737aada843c983b871e8a233822956",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "published": "2026-06-03T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "4DX Ventures",
+        "Africa",
+        "Middle East",
+        "voice AI"
+      ],
+      "id": "be5890923c6720c2283950b6ee2fcf9f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "published": "2026-06-03T14:58:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "TC",
+        "AI search",
+        "Google",
+        "media"
+      ],
+      "id": "f82a30b068b3240a6c738af5e108eb23",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+      "published": "2026-06-03T13:40:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "WhatsApp",
+        "whatsapp business"
+      ],
+      "id": "218e40b902853ae9f3ef232a19fec307",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
+      "published": "2026-06-03T13:02:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Advent",
+        "AI agents",
+        "Canada Pension Plan Investment Board",
+        "Coralogix"
+      ],
+      "id": "ad14f408dfde1d17d8aa4be5d8535ec7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "How virtual power plants could provide energy for data centers",
+      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;",
+      "published": "2026-06-03T16:51:38+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "75963495a8d1a4f551f5c674efe810e3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;",
+      "published": "2026-06-03T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "3f1f21c2a2d7433a71b73a7200bc9839",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "summary": "",
+      "published": "2026-06-03T12:55:11+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "6e68da9f855d88981917738ac905470f",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "summary": "",
+      "published": "2026-06-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "951093ddfc8673d11c32b359af42d6fe",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-03"
+    },
     {
       "title": "Holo3.1: Fast & Local Computer Use Agents",
       "url": "https://huggingface.co/blog/Hcompany/holo31",
