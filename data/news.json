@@ -1,7 +1,259 @@
 {
-  "last_updated": "2026-06-04T10:43:01.840418+08:00",
-  "total": 1531,
+  "last_updated": "2026-06-05T10:29:47.521968+08:00",
+  "total": 1546,
   "news": [
+    {
+      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+      "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+      "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+      "published": "2026-06-04T20:02:04+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "dashlane",
+        "password managers",
+        "password spraying"
+      ],
+      "id": "37f5994fb681d05f1e78827129d9b7c1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "published": "2026-06-04T22:43:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "id": "9c7d6c037dae31d8ffc977e20833ae28",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "published": "2026-06-04T22:29:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Airbnb",
+        "brian chesky",
+        "In Brief",
+        "sam altman"
+      ],
+      "id": "64d9b1101438f86f9546a4a79a8d9fd2",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+      "published": "2026-06-04T21:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Security",
+        "Space",
+        "Startups",
+        "Venture",
+        "StrictlyVC"
+      ],
+      "id": "87f245147ca4152b06249b0d26b07570",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
+      "published": "2026-06-04T19:33:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Social",
+        "data centers",
+        "Meta",
+        "Tents"
+      ],
+      "id": "292be7eaabe41f7277e3258eff4a6352",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+      "published": "2026-06-04T19:20:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai agent",
+        "Apple",
+        "Poke"
+      ],
+      "id": "8b644a7e5ea01c416e36f1fafba3a503",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+      "published": "2026-06-04T16:32:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Creators",
+        "Meta"
+      ],
+      "id": "36b17b2ca4f8c11f4a8903736839a3e6",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "published": "2026-06-04T16:31:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "siri",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "c0573bd77080ffbf1bea8ba6b649e177",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "published": "2026-06-04T15:05:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "Exclusive",
+        "hello robot"
+      ],
+      "id": "b7898e6f6a78cfb1f469ef3ffced4b59",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+      "published": "2026-06-04T14:05:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "apple store",
+        "developers",
+        "wwdc"
+      ],
+      "id": "2accf44358f0b9f18087ca7b576cc057",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by&#8230;",
+      "published": "2026-06-04T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "884dc455a13c7db8d94d09e8c57258f9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
+      "published": "2026-06-04T10:50:18+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "ce50fb25a5f89feeb1dc6e0280eac6b4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "summary": "",
+      "published": "2026-06-04T18:57:45+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "16b629a3fac6418f4b85a629f890938e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "summary": "",
+      "published": "2026-06-04T12:24:58+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "2bae54a2574f617ac45e424b41896d7b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "summary": "",
+      "published": "2026-06-04T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4da7ced3f30a41f2b21e0aea0ae59d1c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-04"
+    },
     {
       "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
       "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
