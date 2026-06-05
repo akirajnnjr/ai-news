@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-05T10:29:47.521968+08:00",
-  "total": 1546,
+  "last_updated": "2026-06-05T17:24:46.687851+08:00",
+  "total": 1548,
   "news": [
+    {
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "published": "2026-06-05T05:06:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "54bfebc8b596ed47c74fdf44318ae35a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early&#8230;",
+      "published": "2026-06-05T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "5ecdba611c11a74e06d9ec9333d86510",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-05"
+    },
     {
       "title": "Dashlane explains how attackers managed to download encrypted password vaults",
       "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
