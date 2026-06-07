@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-06-06T10:09:07.624997+08:00",
-  "total": 1558,
+  "last_updated": "2026-06-07T10:35:53.162849+08:00",
+  "total": 1563,
   "news": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "published": "2026-06-06T20:32:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "id": "c3048522c6f16c1514706ea974403cfe",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "published": "2026-06-06T18:13:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "siri",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "fa9b3f426447e528fbfbf0586790f26f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "published": "2026-06-06T17:42:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump",
+        "Sriram Krishnan"
+      ],
+      "id": "fc0aef7cf74aaa4ec415e3edc3962f05",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "published": "2026-06-06T16:17:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "ccfe51be44a803329ef4ec10991a2b6e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "summary": "",
+      "published": "2026-06-06T19:02:33+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "ec2b897e7367f94ad78cd8111c527e6a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-07"
+    },
     {
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
       "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
