@@ -1,7 +1,68 @@
 {
-  "last_updated": "2026-06-07T10:35:53.162849+08:00",
-  "total": 1563,
+  "last_updated": "2026-06-08T10:39:49.247475+08:00",
+  "total": 1567,
   "news": [
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "published": "2026-06-07T20:26:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Equity podcast",
+        "Microsoft"
+      ],
+      "id": "8230213787544c2f6c5915043c0b6b0c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "published": "2026-06-07T17:56:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Notion"
+      ],
+      "id": "c733bac7a8d46f3594f4dbcec3f5b963",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "published": "2026-06-07T16:23:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "893947abd01601107420705c411702be",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "summary": "",
+      "published": "2026-06-07T19:44:27+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "347aba1d7069d78bbed005a8d118a169",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-08"
+    },
     {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
