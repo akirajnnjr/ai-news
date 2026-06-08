@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-06-08T10:39:49.247475+08:00",
-  "total": 1567,
+  "last_updated": "2026-06-08T18:12:37.235509+08:00",
+  "total": 1568,
   "news": [
+    {
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a&#8230;",
+      "published": "2026-06-08T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Humans and technology",
+        "App"
+      ],
+      "id": "1b9b9c10c9785158341d1c091ddd577b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-08"
+    },
     {
       "title": "Is this the dawn of the Tokenpocalypse?",
       "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
