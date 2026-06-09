@@ -1,7 +1,375 @@
 {
-  "last_updated": "2026-06-08T18:12:37.235509+08:00",
-  "total": 1568,
+  "last_updated": "2026-06-09T10:06:09.990612+08:00",
+  "total": 1588,
   "news": [
+    {
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+      "published": "2026-06-08T18:34:23+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "GitHub",
+        "microsoft",
+        "worms"
+      ],
+      "id": "eeadef200858462d4b2a9ef76b4148c9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "published": "2026-06-09T01:56:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "siri ai",
+        "WWDC 2026"
+      ],
+      "id": "bf51653a4ab1aeabaa658be0eea3f348",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "published": "2026-06-09T00:45:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Mercor",
+        "Sequoia Partners",
+        "Valuations"
+      ],
+      "id": "d2fe95fff0640099f220e7b640be329a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "published": "2026-06-08T22:41:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "In Brief",
+        "Layoffs",
+        "sam altman",
+        "tools for humanity"
+      ],
+      "id": "6025772369b3897628b04775fef38c1c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "published": "2026-06-08T22:39:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "TC",
+        "apple intellignce",
+        "siri",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "66efa84f4702348dd54e214c492bb9e5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "published": "2026-06-08T21:29:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "IPO",
+        "OpenAI"
+      ],
+      "id": "060a84be34f2e2f2a71aa43e7be5c489",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "published": "2026-06-08T21:15:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "Apple",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "d5767efbb2bb2b392504597cff27d99f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "published": "2026-06-08T20:53:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "developers",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "bae85cd85745730c5290022e1a44b4e9",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "published": "2026-06-08T19:41:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "siri",
+        "wwdc"
+      ],
+      "id": "671e145932665bf7774c8d2d54430d1f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+      "published": "2026-06-08T18:48:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "Apple Intelligence",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "d35f80c9e14beeb0c22bcf63c06d5b31",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+      "published": "2026-06-08T18:45:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "Shortcuts",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "a6f495cb508bb46ea833a7dc8b92fdff",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+      "published": "2026-06-08T18:38:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "image playground",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "51afeca065de2a9ccfbd14a0a26a9d1c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+      "published": "2026-06-08T18:36:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "58daf599b0c7ec2de5be4311f7bb29bb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple gives Siri its own dedicated app",
+      "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "summary": "Siri is finally getting its own app.",
+      "published": "2026-06-08T18:33:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "siri",
+        "siri app",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "24d5e42dae97e6ee4b4089230f9be6d0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+      "published": "2026-06-08T18:23:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "TC",
+        "Apple",
+        "siri",
+        "siri in camera",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "ac4044be65cffe6c635c8dc7fe3e893a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+      "published": "2026-06-08T17:56:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "siri",
+        "siri ai",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "e7edd2779e953c9ab3e9f09a9a0a9bbb",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Amazon now lets you design custom merch using AI",
+      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "published": "2026-06-08T15:49:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Alexa",
+        "Amazon",
+        "commerce",
+        "e-commerce"
+      ],
+      "id": "813bc80dae06cc0df17c5009f4dfc73c",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "published": "2026-06-08T15:34:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "siri",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "301e267816612ec4d418508370f95706",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first&#8230;",
+      "published": "2026-06-08T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "84c1f92c0e01992339390e1e5ff55741",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "summary": "",
+      "published": "2026-06-08T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4cd526a0df04440c3659be16352a6ee9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-08"
+    },
     {
       "title": "Why this year’s World Cup ball may not fly as far",
       "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
