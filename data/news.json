@@ -1,7 +1,347 @@
 {
-  "last_updated": "2026-06-09T10:06:09.990612+08:00",
-  "total": 1588,
+  "last_updated": "2026-06-10T10:30:16.881809+08:00",
+  "total": 1609,
   "news": [
+    {
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "published": "2026-06-09T20:56:52+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "microsoft",
+        "nightmare eclipse",
+        "vulnerabilities"
+      ],
+      "id": "7d1f3e342dc6dbeb90ac1cf437572221",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "High-severity vulnerability in Linux caused by a single faulty character",
+      "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+      "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
+      "published": "2026-06-09T15:12:43+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "kernel",
+        "Linux",
+        "vulnerabilities"
+      ],
+      "id": "2e07c22bc74d1b06fe8f8fb005585d97",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "published": "2026-06-10T00:26:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "google ai",
+        "Google AI Plus"
+      ],
+      "id": "f5f16b778aa511b12529d9bb647b0a71",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "published": "2026-06-09T23:17:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Venture",
+        "anduril",
+        "Anthropic",
+        "playground global",
+        "SpaceX",
+        "SPV"
+      ],
+      "id": "e6f44b6ef7676ebe402d7d8f29a942fa",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "published": "2026-06-09T20:50:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "siri",
+        "WWDC 2026"
+      ],
+      "id": "41d61a583cc52d19b7b9c60525fe8ed3",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "published": "2026-06-09T20:37:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Fable 5",
+        "Mythos"
+      ],
+      "id": "344b80419ef88ce062dc8cffaba2c8af",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "published": "2026-06-09T18:56:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "ai models",
+        "Anthropic",
+        "Harvey",
+        "OpenAI"
+      ],
+      "id": "c47fbc8c5e7fcac1dae4a86afb211e64",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "published": "2026-06-09T18:04:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "siri",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "id": "b841cb395af67c43e9e3d068cde55d51",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "published": "2026-06-09T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "cybersecurity",
+        "Mythos"
+      ],
+      "id": "407d457f16b209198e24ebcff67f2066",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+      "published": "2026-06-09T16:09:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "big tech",
+        "FAANG",
+        "In Brief"
+      ],
+      "id": "da7fe1785fe9dcfed336ed1edf6af110",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
+      "published": "2026-06-09T13:47:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "lightspeed venture partners",
+        "legal tech"
+      ],
+      "id": "95ec654a1252464eb682d1941446b318",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+      "published": "2026-06-09T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Lovable",
+        "vibe coding"
+      ],
+      "id": "a7a6dc34963a5690882441e1f538282d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+      "published": "2026-06-09T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Exclusive",
+        "Orbital"
+      ],
+      "id": "adcc82140244bc689e786481a09a0ab1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a&#8230;",
+      "published": "2026-06-09T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "52b0b04605d70925ddc2e57ea55488e0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
+      "published": "2026-06-09T10:20:06+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "25761d5880ff6ebdde94be0752c26fa4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+      "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral &#8220;reprogramming&#8221; drug as part of a $101 million competition organized&#8230;",
+      "published": "2026-06-09T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "135288a63d8a6d9ade8e38969f6e7fbc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
+      "published": "2026-06-09T09:16:45+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "5a0f8f20efd8f70df4463004a2be0f18",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "summary": "",
+      "published": "2026-06-09T19:38:28+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "92ac31968c0bdfc8d4d549d882019d34",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "summary": "",
+      "published": "2026-06-09T15:56:23+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "2428838e44d497bea621608a3de894a4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "summary": "",
+      "published": "2026-06-09T10:46:19+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "6d8d3867b1f2d4e595578cf49ee8ce5e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "summary": "",
+      "published": "2026-06-09T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "eb3e2d9f46856d65b9abc15ed3f3dbbd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-09"
+    },
     {
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
       "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
