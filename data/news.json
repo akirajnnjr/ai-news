@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-06-10T10:30:16.881809+08:00",
-  "total": 1609,
+  "last_updated": "2026-06-10T17:37:02.090085+08:00",
+  "total": 1611,
   "news": [
+    {
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "published": "2026-06-10T07:05:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Meta",
+        "reliance",
+        "reliance industries"
+      ],
+      "id": "db7dea1c0ca67a20b1630e9c5888c98f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "The “steroid olympics” were a circus—and a window into our culture",
+      "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+      "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy&#160; of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for&#8230;",
+      "published": "2026-06-10T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Features and Investigations",
+        "The Big Story"
+      ],
+      "id": "ea2ec57ecc635089387c9d11517f2677",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
     {
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
