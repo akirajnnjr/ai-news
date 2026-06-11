@@ -1,7 +1,207 @@
 {
-  "last_updated": "2026-06-10T17:37:02.090085+08:00",
-  "total": 1611,
+  "last_updated": "2026-06-11T10:40:32.211185+08:00",
+  "total": 1622,
   "news": [
+    {
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "published": "2026-06-10T22:31:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai safety",
+        "devin kim",
+        "Grok",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "6de145b7312853038d9e43a175911fad",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "published": "2026-06-10T20:19:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Amazon",
+        "citigroup",
+        "In Brief"
+      ],
+      "id": "6bbed14085f20904db4bf800dd7568c8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "published": "2026-06-10T17:07:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai tokens",
+        "Ramp",
+        "ramp ai index"
+      ],
+      "id": "7282240d4a4e20a0e77d5bd645be7b68",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "How memory tools can make AI models worse",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "published": "2026-06-10T16:11:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai models",
+        "writer"
+      ],
+      "id": "9562e83254d95576494aa5fd755ce5f1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "published": "2026-06-10T15:41:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "ai safety",
+        "Anthropic",
+        "cybersecurity",
+        "fable",
+        "Mythos"
+      ],
+      "id": "778e7a00c5425e4633ffc5b25a3a9e7b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "published": "2026-06-10T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "AI coding agents",
+        "ai coding assistant"
+      ],
+      "id": "464bb12da8db3b6f8d41aaf387ac5874",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "published": "2026-06-10T14:48:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "IPO",
+        "SpaceX",
+        "orbital data centers"
+      ],
+      "id": "06540bab9f63241db5adee71fc88b693",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "published": "2026-06-10T14:31:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Startups",
+        "AI startups",
+        "Mergers and Acquisitions",
+        "warner music"
+      ],
+      "id": "dd830105df2eac28efd144946b1bde06",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "published": "2026-06-10T13:33:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Startups",
+        "AI agents",
+        "context graphs",
+        "Jedify",
+        "Norwest"
+      ],
+      "id": "761f8930559991ab5c072e80516493e4",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "published": "2026-06-10T13:07:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Transportation",
+        "autonomous vehicles",
+        "decart",
+        "Exclusive",
+        "oasis 3",
+        "world models"
+      ],
+      "id": "d1f0b3ef56917fd9c3ee120d30dcb694",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las&#8230;",
+      "published": "2026-06-10T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "1076dadb61ed57650370c0689f7d5489",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-10"
+    },
     {
       "title": "Meta signs first AI data center deal in India with Reliance",
       "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
