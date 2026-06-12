@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-06-12T10:35:33.226882+08:00",
-  "total": 1637,
+  "last_updated": "2026-06-12T17:53:04.299821+08:00",
+  "total": 1640,
   "news": [
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "published": "2026-06-12T04:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Avataar",
+        "India",
+        "india ai",
+        "Peak XV"
+      ],
+      "id": "302fed5dd219beadc025ae6ca950b008",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But&#8230;",
+      "published": "2026-06-12T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "3553f6a4a210a05f4f4ce95b398db7a4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Inside Interoception: The hidden sense of how you feel inside",
+      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is&#8230;",
+      "published": "2026-06-12T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "biotech",
+        "MIT Technology Review Explains"
+      ],
+      "id": "1930a634f4d7996f3dba2363c328ad80",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-12"
+    },
     {
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
