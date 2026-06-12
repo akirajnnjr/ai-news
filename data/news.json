@@ -1,7 +1,224 @@
 {
-  "last_updated": "2026-06-11T18:00:32.372056+08:00",
-  "total": 1624,
+  "last_updated": "2026-06-12T10:35:33.226882+08:00",
+  "total": 1637,
   "news": [
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "published": "2026-06-12T01:48:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "Automation",
+        "theker"
+      ],
+      "id": "857b01ba57340160fb4f7afdc440e1a7",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "published": "2026-06-12T01:04:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Hardware",
+        "jeff bezos",
+        "physical ai",
+        "Prometheus"
+      ],
+      "id": "3355a47c4da060e941171391a4ba1ba9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "published": "2026-06-11T20:33:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "SpaceX",
+        "spacex ipo"
+      ],
+      "id": "32f44ef46f2c22167eea07b0c358c992",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "published": "2026-06-11T19:58:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "IPO",
+        "secondary shares",
+        "SpaceX",
+        "SPV"
+      ],
+      "id": "dc391d966a6de364aeabaa2a8c9609be",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "published": "2026-06-11T16:36:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "ai music",
+        "Deezer",
+        "Generative AI"
+      ],
+      "id": "d008a461e5817c493730745ee82bf1a6",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "published": "2026-06-11T15:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "consumer AI",
+        "pool"
+      ],
+      "id": "57f419fe4ff714126e8221e0d8690541",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "published": "2026-06-11T14:23:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI chatbot",
+        "DoorDash"
+      ],
+      "id": "c265bd405c5c7299eb3d3d2e18935b9f",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the&#8230;",
+      "published": "2026-06-11T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "2e52d71156eaeb2867182cb316bb5734",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
+      "published": "2026-06-11T11:00:45+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "5fa3405179d5d881ff141378321e64ee",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Job titles of the future: Nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was increasingly concerned about&#8230;",
+      "published": "2026-06-11T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "id": "869cad8214121946a0ede9e1eda943b0",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Inside soccer’s data renaissance",
+      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were Jesse&#8230;",
+      "published": "2026-06-11T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "d64a6f7de63c716566f4a80add368541",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Why China is betting on big nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "summary": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Meanwhile, the US has built just two reactors in that&#8230;",
+      "published": "2026-06-11T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "d853c3a3418333e3773a04424b7c96f9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "summary": "",
+      "published": "2026-06-11T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9a812e42d024237f8677a46262918d7a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-11"
+    },
     {
       "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
       "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
