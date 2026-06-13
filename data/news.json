@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-06-13T10:28:52.364666+08:00",
-  "total": 1651,
+  "last_updated": "2026-06-13T16:44:01.377833+08:00",
+  "total": 1652,
   "news": [
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "published": "2026-06-13T04:14:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Startups",
+        "Andrew Yang",
+        "noble mobile",
+        "ubi"
+      ],
+      "id": "09924b25ccc2369a57f1ca044cd087c9",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-13"
+    },
     {
       "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
