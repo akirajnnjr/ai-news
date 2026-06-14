@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-06-13T16:44:01.377833+08:00",
-  "total": 1652,
+  "last_updated": "2026-06-14T10:40:07.516282+08:00",
+  "total": 1656,
   "news": [
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "published": "2026-06-14T00:03:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "China",
+        "manus",
+        "Manus AI",
+        "Meta"
+      ],
+      "id": "38c70bbff9aa3812a93087ff69b5c101",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "published": "2026-06-13T20:42:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "kpmg"
+      ],
+      "id": "2149290c64f5550b3e223a6ef57e986f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "published": "2026-06-13T19:11:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Security",
+        "Amazon",
+        "Andy Jassy",
+        "Anthropic",
+        "david sacks",
+        "Scott Bessent"
+      ],
+      "id": "0308281aa0fca48522ed64aae729d11b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "published": "2026-06-13T16:47:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "OpenAI"
+      ],
+      "id": "748265de56e10a9f7fbc5dc812f0083d",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-14"
+    },
     {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
