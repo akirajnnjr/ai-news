@@ -1,7 +1,255 @@
 {
-  "last_updated": "2026-06-15T19:40:29.585574+08:00",
-  "total": 1660,
+  "last_updated": "2026-06-16T10:46:43.048166+08:00",
+  "total": 1673,
   "news": [
+    {
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
+      "published": "2026-06-15T17:55:46+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "AMD",
+        "CPUs",
+        "processors",
+        "Transparent Secure Memory Encryption",
+        "tsme"
+      ],
+      "id": "67377d6541c6a4e9e379c8491ff1966f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "published": "2026-06-15T23:51:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Google",
+        "ICE",
+        "Israel",
+        "Sundar Pichai"
+      ],
+      "id": "ea8ad6c2bdaa3b9ecdc1dabf4749f9ff",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "published": "2026-06-15T21:50:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Security",
+        "Anthropic",
+        "cybersecurity",
+        "fable",
+        "Mythos",
+        "Trump Administration",
+        "us government"
+      ],
+      "id": "71ed2eea453218c8361228b1ec553146",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "published": "2026-06-15T18:30:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Facebook",
+        "Generative AI",
+        "Meta",
+        "Search"
+      ],
+      "id": "a3f67405a75385de5e9cf04623a16b9f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "published": "2026-06-15T18:30:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Transportation",
+        "Elon Musk",
+        "IPO",
+        "SpaceX",
+        "spacex ipo"
+      ],
+      "id": "d69d5c32ea58412c5ced5f030297f461",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+      "published": "2026-06-15T15:29:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "Claude",
+        "Claude Fable 5",
+        "Claude Mythos",
+        "Mythos"
+      ],
+      "id": "0a59211a2c978c48aa889293966aec35",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "published": "2026-06-15T14:34:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Agentforce",
+        "AI agents",
+        "Fin",
+        "In Brief",
+        "Mergers and Acquisitions",
+        "Salesforce"
+      ],
+      "id": "f85f662961de832fb6799ccbb248c16b",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "published": "2026-06-15T13:46:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Bessemer Venture Partners",
+        "HCLTech",
+        "Khosla Ventures",
+        "lightspeed",
+        "Sarvam"
+      ],
+      "id": "bfeca2ee1bfe36a7564a3dfc5a90006a",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "published": "2026-06-15T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Startups",
+        "AI agents",
+        "cyberstarts",
+        "NewCore"
+      ],
+      "id": "da4b5edf73d1134252a7504723ed332d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "published": "2026-06-15T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Exclusive",
+        "loft orbital",
+        "NASA",
+        "satellite tech",
+        "Satellites"
+      ],
+      "id": "e3d090f143fcc8b24bf8fdaf9eff2a71",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;",
+      "published": "2026-06-15T18:46:08+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "2e6677ef75d7b46a16b8f742baa82a96",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He&#8230;",
+      "published": "2026-06-15T15:12:28+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "5e6df51377acc525153e4faf3f176b94",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-conditioning isn’t going anywhere. That’s good for our health,&#8230;",
+      "published": "2026-06-15T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c432632d1b747e0c7b4f070ee749e6dc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-15"
+    },
     {
       "title": "The AI layoff wave is becoming a powder keg",
       "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
