@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-06-16T10:46:43.048166+08:00",
-  "total": 1673,
+  "last_updated": "2026-06-16T18:49:40.035314+08:00",
+  "total": 1675,
   "news": [
+    {
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "published": "2026-06-16T06:59:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "malaysia",
+        "Asia",
+        "respond"
+      ],
+      "id": "a399e347cca78be3448d1b7115ccfa79",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#8230;",
+      "published": "2026-06-16T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "a0c826c444f1f330f6990f154a876be5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
     {
       "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
       "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
