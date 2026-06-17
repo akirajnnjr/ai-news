@@ -1,7 +1,62 @@
 {
-  "last_updated": "2026-06-17T10:43:46.666850+08:00",
-  "total": 1690,
+  "last_updated": "2026-06-17T18:22:21.554063+08:00",
+  "total": 1694,
   "news": [
+    {
+      "title": "Entrepreneurs in Nairobi make the case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have helped. A couple of years ago, a panel cost about&#8230;",
+      "published": "2026-06-17T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "id": "db99221176034f87b19bd53768994aee",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth.&#8230;",
+      "published": "2026-06-17T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "8ee7ec35dcf568548c3913f7f7cd590c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "summary": "",
+      "published": "2026-06-17T10:18:05+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f8bb7a9443cc17c6a2f249875c6f3397",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "summary": "",
+      "published": "2026-06-17T09:01:25+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "d36e8bce9456b1d0e713f2b16e7f5e36",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
     {
       "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
       "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
