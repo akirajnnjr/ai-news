@@ -1,7 +1,280 @@
 {
-  "last_updated": "2026-06-16T18:49:40.035314+08:00",
-  "total": 1675,
+  "last_updated": "2026-06-17T10:43:46.666850+08:00",
+  "total": 1690,
   "news": [
+    {
+      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+      "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+      "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+      "published": "2026-06-16T22:11:15+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Broadcom",
+        "hewlett packard enterprise",
+        "vmware"
+      ],
+      "id": "f079545d0a19d73ad17be45dd2b084a7",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "published": "2026-06-16T11:15:46+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "copilot",
+        "LLMs",
+        "parameter to prompt injection"
+      ],
+      "id": "98586e1b1098d9229d98ae4514226b29",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "published": "2026-06-16T22:34:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fintech",
+        "Startups",
+        "TC",
+        "Anthropic",
+        "Fable 5",
+        "Mythos",
+        "Ramp"
+      ],
+      "id": "e9ed648d3b343bd6900f083589294e84",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "published": "2026-06-16T20:11:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "In Brief",
+        "IPO",
+        "SpaceX",
+        "spacex ipo"
+      ],
+      "id": "ff6d444e10ee179a5dcf83935eead96b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+      "published": "2026-06-16T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "android 17",
+        "Google",
+        "Pixel Drop"
+      ],
+      "id": "4a500f4a83d6cc6389b4d7823fd3c95f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "published": "2026-06-16T16:49:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "AI search",
+        "WordPress"
+      ],
+      "id": "78fc4b6ad1a2e4451be9e4c0b163452c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "published": "2026-06-16T15:53:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Transportation",
+        "Elon Musk",
+        "IPO",
+        "SpaceX",
+        "spacex ipo"
+      ],
+      "id": "d516edde44dfe468d9b78c5f72ca2247",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
+      "published": "2026-06-16T15:05:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "air pollution",
+        "data centers",
+        "lawsuit",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "2b4c89d3385f7506b8f57fde36c33822",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+      "published": "2026-06-16T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "AI note-taking",
+        "hardware",
+        "meetings",
+        "plaud"
+      ],
+      "id": "feb65f9e80a74f47290908649cebc9bb",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+      "published": "2026-06-16T14:50:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "Layoffs",
+        "Robinhood"
+      ],
+      "id": "f9c4e0583697c3a68e389093726f975d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+      "published": "2026-06-16T13:15:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Andreessen Horowitz",
+        "hallucinations",
+        "Probably"
+      ],
+      "id": "43eaf8173183b17c814d416d3f3f7111",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+      "published": "2026-06-16T11:21:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "artificial intelligence",
+        "cursor",
+        "Mergers and Acquisitions",
+        "SpaceX"
+      ],
+      "id": "6f60b1912e1f04e1a707695910e716e0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+      "published": "2026-06-16T10:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "gemini",
+        "OpenAI",
+        "sensor tower"
+      ],
+      "id": "752ebc9394a9d189c8546e72fc44352d",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to&#8230;",
+      "published": "2026-06-16T20:35:02+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Subscriber eBooks",
+        "Subscriber-Only Stories"
+      ],
+      "id": "89266766ba222357798ec709b6d2feb5",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost&#8230;",
+      "published": "2026-06-16T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "82251555c7f752cf05e0e434b0265940",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-16"
+    },
     {
       "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
       "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
