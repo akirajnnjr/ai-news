@@ -1,7 +1,447 @@
 {
-  "last_updated": "2026-06-17T18:22:21.554063+08:00",
-  "total": 1694,
+  "last_updated": "2026-06-18T10:40:13.179350+08:00",
+  "total": 1718,
   "news": [
+    {
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+      "published": "2026-06-17T19:54:31+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "breaches",
+        "firewalls",
+        "Fortinet",
+        "passwords"
+      ],
+      "id": "cfd72d92bffbea5c93afdf434916e4ce",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+      "published": "2026-06-17T19:43:13+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Broadcom",
+        "lawsuit",
+        "vmware"
+      ],
+      "id": "c767b5e1d46005e359603fe4da260d91",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "summary": "AI models with advanced hacking capabilities will soon be the norm.",
+      "published": "2026-06-17T17:50:46+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "Anthropic Claude",
+        "Mythos",
+        "Mythos 5",
+        "syndication"
+      ],
+      "id": "8b2d013a0637925947498d9158c53980",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+      "url": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+      "published": "2026-06-17T11:15:17+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "bootkits",
+        "secure boot",
+        "uefi"
+      ],
+      "id": "ba1da3c3a07bd408780ad22da392a75e",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "published": "2026-06-18T01:23:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "evergreen"
+      ],
+      "id": "e304a2af2a1bdfb5c5054cd187702fc1",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "published": "2026-06-17T20:32:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Venture",
+        "Elon Musk",
+        "roelof botha",
+        "SpaceX"
+      ],
+      "id": "3daf2dc5e48ce5c41afb98a5ad97014c",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "published": "2026-06-17T20:24:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "In Brief",
+        "SMART Glasses",
+        "Snap",
+        "specs"
+      ],
+      "id": "358e207ac3c718c864b49194f949d6f6",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+      "published": "2026-06-17T20:17:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Venture",
+        "AI",
+        "AI adoption",
+        "AI agents",
+        "AI IPO",
+        "anthropic ipo",
+        "Enterprise AI spend",
+        "Forward deployed engineers",
+        "NEA partner",
+        "OpenAI",
+        "tiffany luck",
+        "venture capital"
+      ],
+      "id": "3d1666c95475b5da28c4a10be952728b",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+      "published": "2026-06-17T19:01:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "fable",
+        "G7",
+        "Mythos"
+      ],
+      "id": "9ef08ab1d787692408f885c783237753",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "published": "2026-06-17T18:30:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Anthropic",
+        "carbon removal",
+        "frontier"
+      ],
+      "id": "1d907aaa2f0e6c751f8ab157f16956af",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Social media’s next evolution: user-controlled algorithms",
+      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+      "published": "2026-06-17T18:19:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Instagram",
+        "Meta",
+        "social media",
+        "TikTok"
+      ],
+      "id": "a459b814ba8d8665ce831fb48aea2a23",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+      "published": "2026-06-17T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "anthropic ipo",
+        "Equity podcast",
+        "nea",
+        "OpenAI IPO",
+        "personal agents",
+        "tiffany luck",
+        "tokenmaxxing"
+      ],
+      "id": "69f241dbd025c63cf5aa5a2204ea0622",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+      "published": "2026-06-17T17:43:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "In Brief",
+        "odyssey",
+        "world models"
+      ],
+      "id": "d84f6e5d3df2ce7f4376de0bc41c576b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+      "published": "2026-06-17T17:00:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "gemini",
+        "Grok"
+      ],
+      "id": "c450fcaeffa819ad28592061d2070a78",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+      "published": "2026-06-17T16:30:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Media & Entertainment",
+        "audio device",
+        "Google",
+        "google home",
+        "smart speaker"
+      ],
+      "id": "d9843e598aa8e1c64347542b5f78bac1",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+      "published": "2026-06-17T15:24:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "austin murray",
+        "iPod",
+        "joy howard",
+        "screen time",
+        "slowtech",
+        "social media",
+        "Tony Fadell"
+      ],
+      "id": "014d2e39f9c2da3b75c3e68b1b6c0c88",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "published": "2026-06-17T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "a16z",
+        "robots",
+        "Thrive Capital"
+      ],
+      "id": "44a4a592bcaa38faadd80ff265e631d2",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+      "published": "2026-06-17T14:15:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "formal verification",
+        "Khosla Ventures",
+        "reliability"
+      ],
+      "id": "eb0664d82863a41eb4197ad4d52612ea",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+      "published": "2026-06-17T12:38:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Canada Pension Plan Investment Board",
+        "CPP Investments",
+        "CtrlS"
+      ],
+      "id": "23dab7c5dbcf8e03b5ff4bc5b5d4c187",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+      "published": "2026-06-17T12:14:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI translation",
+        "DeepL",
+        "Mergers and Acquisitions",
+        "Mixhalo"
+      ],
+      "id": "3ee1e2948f78cb621ccef1b0dc914687",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+      "published": "2026-06-17T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "AI chatbot",
+        "Pinterest",
+        "shopping"
+      ],
+      "id": "ca1ffebd7c8912bdcdc772a675176d9f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "The Download: a reality check for geoengineering and the science of interoception",
+      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations&#8230;",
+      "published": "2026-06-17T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "049cb7f55b5d155beac038209db5dff6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "summary": "",
+      "published": "2026-06-17T15:26:44+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4630c466154f6b41fa5c87a30792c3f5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "summary": "",
+      "published": "2026-06-17T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4dd2073282fe2909ed95e946b463d0a0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-17"
+    },
     {
       "title": "Entrepreneurs in Nairobi make the case for going solar",
       "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
