@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-18T10:40:13.179350+08:00",
-  "total": 1718,
+  "last_updated": "2026-06-18T18:01:33.448241+08:00",
+  "total": 1719,
   "news": [
+    {
+      "title": "The search for dark matter has been blown wide open",
+      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted&#8230;",
+      "published": "2026-06-18T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Space",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "125b40f286ef830b3240cec6a0899bb2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-18"
+    },
     {
       "title": "Massive breach spills credentials for thousands of sensitive networks",
       "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
