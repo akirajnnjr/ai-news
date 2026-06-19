@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-06-19T10:56:39.493240+08:00",
-  "total": 1739,
+  "last_updated": "2026-06-19T18:08:43.037088+08:00",
+  "total": 1742,
   "news": [
+    {
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "published": "2026-06-19T07:59:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "bd33e41be4e55b0e86a45408c93b7aee",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot&#8230;",
+      "published": "2026-06-19T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture"
+      ],
+      "id": "3a1b32087c0f954bc72fefb1044a544d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;",
+      "published": "2026-06-19T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "183efb0ffed1b29049630a124b07b1bd",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-19"
+    },
     {
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
       "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
