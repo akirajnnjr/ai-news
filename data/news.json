@@ -1,7 +1,363 @@
 {
-  "last_updated": "2026-06-18T18:01:33.448241+08:00",
-  "total": 1719,
+  "last_updated": "2026-06-19T10:56:39.493240+08:00",
+  "total": 1739,
   "news": [
+    {
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+      "published": "2026-06-18T23:28:52+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "crypto stealer",
+        "cryptocurrency",
+        "malware",
+        "worm"
+      ],
+      "id": "95f3b8c0bab91423ef983efb511e9105",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+      "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+      "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+      "published": "2026-06-18T19:41:35+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Apple",
+        "Biz & IT",
+        "Security",
+        "apple",
+        "Beats Studio Buds",
+        "bluetooth",
+        "eavesdropping",
+        "vulnerabilities"
+      ],
+      "id": "a628c0f8d3b56418231325e4b786ddd2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+      "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+      "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+      "published": "2026-06-18T17:42:18+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Chinese",
+        "spacex",
+        "spacex ipo",
+        "syndication"
+      ],
+      "id": "c2ccfa8440be9d7c7199aff4c8a17943",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "published": "2026-06-19T00:51:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "CRV",
+        "Exclusive",
+        "Elastic",
+        "observability",
+        "DeductiveAI",
+        "AI SRE"
+      ],
+      "id": "f7db370cf36fed58abc1eb772e299147",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "published": "2026-06-18T21:20:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "AI inference"
+      ],
+      "id": "c7f03eb380cc18bdb5a7ff229e6e0026",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "published": "2026-06-18T20:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Dotmo",
+        "Snap",
+        "Snapchat"
+      ],
+      "id": "8fd795d8c6daa411fa9513867b681a5d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "published": "2026-06-18T19:59:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "dean ball",
+        "Noam Shazeer",
+        "OpenAI"
+      ],
+      "id": "2446e599d34ea93e2706cf4fb5157043",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+      "published": "2026-06-18T18:51:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "dating",
+        "Match Group"
+      ],
+      "id": "0a368702d05681162f151745f93e6f48",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+      "published": "2026-06-18T18:22:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "AI chips",
+        "Amazon",
+        "AWS",
+        "nvidia",
+        "trainium"
+      ],
+      "id": "5748f9c6e6a8fe094e97d1074528119a",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "published": "2026-06-18T17:49:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "data centers",
+        "electrical agrid",
+        "Trump Administration"
+      ],
+      "id": "f9dbd01a64e0201530f2b4092e525f63",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+      "published": "2026-06-18T17:16:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "austin murray",
+        "iPod",
+        "joy howard",
+        "screen time",
+        "slowtech",
+        "social media",
+        "Tony Fadell"
+      ],
+      "id": "66eed0f78485a4296104f0307003488f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "summary": "Karamo Brown, famous for his pep talks on Netflix&#8217;s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to help others do the same.&#160; Kē offers [&#8230;]",
+      "published": "2026-06-18T16:55:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "AI chatbot",
+        "digital clone",
+        "fitness app",
+        "nutrition apps",
+        "wellness apps"
+      ],
+      "id": "4dc1580b6ce7902127c9e3d1cbb88105",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+      "published": "2026-06-18T15:20:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "ai agent",
+        "Exclusive",
+        "general intuition",
+        "world models"
+      ],
+      "id": "173a807b46743ce8e64e6db38f803020",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "published": "2026-06-18T15:13:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "AI legislation",
+        "leading the future",
+        "guardrails alliance",
+        "ai super pac"
+      ],
+      "id": "b63806a8cf1a1f24233cf2d577fb83c8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+      "published": "2026-06-18T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Social",
+        "augmented reality",
+        "iOS app",
+        "Generative AI"
+      ],
+      "id": "188f938e615d67c8a7ddcb7f1d235638",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has&#8230;",
+      "published": "2026-06-18T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "3d684ebde5de4f0a8c720a5fb267adbf",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Geoengineering still faces major practical challenges",
+      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+      "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. Some&#8230;",
+      "published": "2026-06-18T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "a828121842cb8ff3f652a024f8108882",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "summary": "",
+      "published": "2026-06-18T18:13:13+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "63333d90a8a4c8999f1e37d3ca2103ed",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "summary": "",
+      "published": "2026-06-18T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "a84ffebb319ebb0ad466c3015d1606ba",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "summary": "",
+      "published": "2026-06-18T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "91c11face685d23e6b3f41b2da76d8d5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-18"
+    },
     {
       "title": "The search for dark matter has been blown wide open",
       "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
