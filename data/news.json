@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-06-20T10:29:19.170421+08:00",
-  "total": 1750,
+  "last_updated": "2026-06-21T10:43:56.588154+08:00",
+  "total": 1753,
   "news": [
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "published": "2026-06-20T20:32:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Meredith Whittaker",
+        "signal"
+      ],
+      "id": "7ddc78b7ede207c08aa1ae2d68834d31",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "So ... what's your In the Weights score?",
+      "published": "2026-06-20T19:41:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "in th weights",
+        "Joey Flynn",
+        "thomas dimson"
+      ],
+      "id": "5cab6cb8b0ba0b727faa86a0094cb29e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "published": "2026-06-20T16:39:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "John Jumper"
+      ],
+      "id": "232b0ce5ea49209ec518532654f14575",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-21"
+    },
     {
       "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
