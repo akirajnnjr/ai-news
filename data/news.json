@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-06-21T10:43:56.588154+08:00",
-  "total": 1753,
+  "last_updated": "2026-06-22T10:46:10.153629+08:00",
+  "total": 1755,
   "news": [
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "published": "2026-06-21T15:28:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "Donald Trump",
+        "Equity podcast"
+      ],
+      "id": "a96480a9765615eab87a77168e5215bb",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "published": "2026-06-21T14:40:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "iOS 27",
+        "wwdc"
+      ],
+      "id": "b893e7b70421ec96f52c3865084a2fae",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-21"
+    },
     {
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
