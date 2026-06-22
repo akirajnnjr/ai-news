@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-22T10:46:10.153629+08:00",
-  "total": 1755,
+  "last_updated": "2026-06-22T19:29:32.366188+08:00",
+  "total": 1756,
   "news": [
+    {
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my&#8230;",
+      "published": "2026-06-22T08:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "15e05676a55e084acfbf823b70cdfb0a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-22"
+    },
     {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
       "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
