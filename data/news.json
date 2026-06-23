@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-23T10:12:25.324016+08:00",
-  "total": 1769,
+  "last_updated": "2026-06-23T16:54:09.121973+08:00",
+  "total": 1771,
   "news": [
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "summary": "",
+      "published": "2026-06-23T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "e9e69e1793785241abf9c2c1cee7703a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "summary": "",
+      "published": "2026-06-22T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4af30edd2b4f77c13630f3f6734d318d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-22"
+    },
     {
       "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
       "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
