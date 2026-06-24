@@ -1,7 +1,297 @@
 {
-  "last_updated": "2026-06-23T16:54:09.121973+08:00",
-  "total": 1771,
+  "last_updated": "2026-06-24T10:14:12.108520+08:00",
+  "total": 1789,
   "news": [
+    {
+      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+      "published": "2026-06-23T22:30:57+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "Security",
+        "cryptography",
+        "encryption",
+        "quantum computing"
+      ],
+      "id": "f7f8b49c44751191b1e0e860e676eedb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "published": "2026-06-23T20:17:38+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "job losses",
+        "oracle"
+      ],
+      "id": "1170c2dc217455fb2bd28ae97ed0ea9c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "published": "2026-06-23T23:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Aampe",
+        "ai agent",
+        "MoEngage"
+      ],
+      "id": "41e29831de856a18c72d5dee2b6786af",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "published": "2026-06-23T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Anthropic",
+        "Claude",
+        "claude tag",
+        "Enterprise AI"
+      ],
+      "id": "492604e8457d7ea24fa41fdf2fb61064",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "published": "2026-06-23T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "aca01865fd76dfb4562fd04f3117b0dd",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "published": "2026-06-23T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Startups",
+        "AI agents",
+        "hiring",
+        "job hunting",
+        "Luminar Ventures",
+        "pre-seed funding"
+      ],
+      "id": "6ad2703ed5c30093ae8e3e837517880b",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "Heads in the game",
+      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+      "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "9ab4e89c7489fdcda445cc5575938df0",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Super Mario is mathier than you think",
+      "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+      "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and monster-­ridden terrain where your only means&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "cab8cc49d4c14999e8bf42eb6b0a4100",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "A man of many words",
+      "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+      "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition of its kind. The story of how the word&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "251d7d3c7855699addf7d629ff244a78",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Sharing a love for calculus",
+      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned challenge: American high school students’ startlingly uneven access&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "d5c7b562dcef840e9d381a3d1f716cd7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Stand Up for Research, Innovation, and Education",
+      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and the world. And we need you to join us at this&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "22a3e516196e5b227e3e29466ac494c3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+      "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+      "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is actually going on under our skin in order&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "f1b89e0e6dff427486009ca6edfae2df",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Reinventing the zipper",
+      "url": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
+      "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD ’92 (now an MIT professor), patented&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "bc3c63ee108ab49456d6ee3f05e656e3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
+      "url": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
+      "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removing bacteria from the bloodstream, metabolizing drugs,&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "4024d2a89819a146d4260f094ab2cd46",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Plants appear to detect the patter of falling rain",
+      "url": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/",
+      "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hits a puddle’s surface or the&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "f77313f8cbfaf6c5d4ac3f5c806e8634",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "A breath test could diagnose pneumonia in minutes",
+      "url": "https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/",
+      "summary": "With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube.&#160; The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a person would first breathe in nanoparticles that are specially&#8230;",
+      "published": "2026-06-23T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "d8a8b21ee5392c085b36d397e51d17b8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "summary": "",
+      "published": "2026-06-23T12:51:55+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "237e7c87455b649cfc6a0db2afe23c64",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "summary": "",
+      "published": "2026-06-23T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c144d0a70e051ed1b7c618bdb403aaee",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-23"
+    },
     {
       "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
       "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
