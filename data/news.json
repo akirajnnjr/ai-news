@@ -1,7 +1,357 @@
 {
-  "last_updated": "2026-06-24T10:14:12.108520+08:00",
-  "total": 1789,
+  "last_updated": "2026-06-25T10:14:24.341232+08:00",
+  "total": 1810,
   "news": [
+    {
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+      "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
+      "published": "2026-06-24T21:03:34+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "Security",
+        "botnets",
+        "cybercrime",
+        "law enforcement",
+        "ransomware",
+        "scams"
+      ],
+      "id": "bc6c0b8b5637b0faec8d5d233583ba1e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Europe is pushing back on Washington’s chip war",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+      "published": "2026-06-25T00:08:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "0eaac807cea444e679f60c10804444bf",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "published": "2026-06-24T23:26:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Aramco Ventures",
+        "Hang Ten Systems",
+        "infosys",
+        "it services",
+        "mayfield",
+        "Vishal Sikka"
+      ],
+      "id": "dd940491a26acaa80d6091706fa4a83b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "published": "2026-06-24T22:41:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Cerebras",
+        "In Brief"
+      ],
+      "id": "b33a37220fbaaadb00a170fbfee1d584",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "published": "2026-06-24T21:56:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "engineering",
+        "hiring",
+        "Layoffs",
+        "signalfire",
+        "software development"
+      ],
+      "id": "266f847badbec9c4f882d1ef591501b6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "published": "2026-06-24T21:42:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "In Brief"
+      ],
+      "id": "73ecb6bfd59cf759579ca730dfaf007f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "The memory chip crunch is paying off for this US company",
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "published": "2026-06-24T21:30:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "earnings",
+        "In Brief",
+        "memory chip shortage",
+        "Micron"
+      ],
+      "id": "fad9e23ecf16c6b059351b3bba87c735",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "published": "2026-06-24T20:09:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Accenture",
+        "In Brief",
+        "tokenmaxxing"
+      ],
+      "id": "444e45a48fbe5f2e10c361feb7de07b3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Facebook rolls out an AI companion app for creators",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "published": "2026-06-24T17:16:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Facebook",
+        "Meta",
+        "social media"
+      ],
+      "id": "e56119b650d57ff477efc872f8ae54c9",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "published": "2026-06-24T16:48:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "agility robotics",
+        "In Brief",
+        "spac merger"
+      ],
+      "id": "97c642dd855a345080569e07eb79e4a8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "published": "2026-06-24T16:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI agents",
+        "design",
+        "Figma"
+      ],
+      "id": "b2d1e66efb72bea262d807ef40839c67",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+      "published": "2026-06-24T14:54:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Broadcom",
+        "OpenAI",
+        "semiconductors"
+      ],
+      "id": "b2b283d1fdd44d7ce5130f89f6d6be81",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "published": "2026-06-24T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "ffe3eb188173d1fe8c785aedfdb8d337",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;",
+      "published": "2026-06-24T15:25:28+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "4bfd31e826e652fa734b3e4510a80563",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "The Download: introducing the Engineering issue",
+      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That’s what the new&#8230;",
+      "published": "2026-06-24T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "77540ffebad8a7ed5b69a7ea085d0cab",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+      "published": "2026-06-24T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "63a3868fbdf07afefd14a129393dfd38",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+      "published": "2026-06-24T11:59:54+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "abc015d0b086d1c6c287212caad5ba37",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin&#8230;",
+      "published": "2026-06-24T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Engineering",
+        "App"
+      ],
+      "id": "b8d25285792714a55999799db6189690",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "All challenges big and small",
+      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and&#8230;",
+      "published": "2026-06-24T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "f78a517c95c10a43e06f9a12fb69ecdf",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "summary": "",
+      "published": "2026-06-24T16:00:13+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8b2159025d9f02dfc1195606dc0ed113",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "summary": "",
+      "published": "2026-06-24T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8d09b4f613754aa29ad9cd530d0ff697",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-24"
+    },
     {
       "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
       "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
