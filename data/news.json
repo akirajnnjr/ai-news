@@ -1,7 +1,284 @@
 {
-  "last_updated": "2026-06-25T10:14:24.341232+08:00",
-  "total": 1810,
+  "last_updated": "2026-06-26T10:27:21.161448+08:00",
+  "total": 1826,
   "news": [
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+      "published": "2026-06-25T19:04:57+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Tech",
+        "apps",
+        "email",
+        "email client",
+        "Skiff",
+        "software"
+      ],
+      "id": "47b14e041896af1fc499f1a0cfacaad5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "published": "2026-06-25T23:34:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "Mythos",
+        "OpenAI",
+        "sam altman",
+        "Trump"
+      ],
+      "id": "7d96e7dab5885b8f5d22d8396a86f831",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "published": "2026-06-25T20:19:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "ai benchmarks",
+        "evaluation",
+        "Greenfield Partners",
+        "lightspeed",
+        "Notable Capital",
+        "Patronus AI"
+      ],
+      "id": "7f5ba665e4de15ce926df2d2a59da806",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "published": "2026-06-25T17:38:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "ChatGPT",
+        "Claude",
+        "OpenAI"
+      ],
+      "id": "8778afccd777555aa384b733c187e2bb",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "published": "2026-06-25T16:55:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Robotics",
+        "Startups",
+        "AI training data",
+        "general intuition",
+        "Khosla Ventures",
+        "world models"
+      ],
+      "id": "eb1c42e24d9cbae413f4120db8a85692",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "published": "2026-06-25T16:48:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "diffusion model",
+        "image-generation"
+      ],
+      "id": "ba304cad7d5154a68dfb1a5f7b217427",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "published": "2026-06-25T14:55:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "a16z",
+        "neocloud",
+        "Netris"
+      ],
+      "id": "50960b146d31b459d6cd0fba1d13e59c",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+      "published": "2026-06-25T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Fundraising",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "5a59abd386fe69332918acf08a33d100",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+      "published": "2026-06-25T13:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Adobe",
+        "Creative Cloud",
+        "Mergers and Acquisitions",
+        "topaz labs",
+        "Video enhancement"
+      ],
+      "id": "1ef1bcd1b824c6857219f14156c1f234",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "published": "2026-06-25T12:00:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Amazon",
+        "Andy Jassy",
+        "AWS",
+        "data centers"
+      ],
+      "id": "c06892b974a07511668d300aba62dec4",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+      "published": "2026-06-25T14:22:59+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "21b4b9b70216e76d067b539d16bf7206",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;",
+      "published": "2026-06-25T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "0b81bf46c6a01cf3beb01b26fe184b53",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "What Europe’s heat wave means for the power grid",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.  As the summer ramps up&#8230;",
+      "published": "2026-06-25T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "6367bd9be721d5512e70b611892d3a22",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;",
+      "published": "2026-06-25T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "App",
+        "Summary"
+      ],
+      "id": "6a7b51bea549b53cea86361f631cb1a9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "summary": "",
+      "published": "2026-06-26T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "61fe0e4252aee858d0d8d2a45ce349cb",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "summary": "",
+      "published": "2026-06-25T16:11:42+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8c2366641dc374d8b0a8409015e26413",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-26"
+    },
     {
       "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
       "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
