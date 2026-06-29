@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-06-28T10:32:46.631957+08:00",
-  "total": 1839,
+  "last_updated": "2026-06-29T10:32:51.407656+08:00",
+  "total": 1841,
   "news": [
+    {
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "published": "2026-06-28T19:05:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Transportation",
+        "Ford"
+      ],
+      "id": "66a122702bc0da743de66a9be358b7af",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "published": "2026-06-28T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Hardware",
+        "AI",
+        "nvidia",
+        "Micron"
+      ],
+      "id": "c954eb691633a052cd4a48d5b73352a2",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-28"
+    },
     {
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
       "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
