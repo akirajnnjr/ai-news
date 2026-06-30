@@ -1,7 +1,235 @@
 {
-  "last_updated": "2026-06-29T10:32:51.407656+08:00",
-  "total": 1841,
+  "last_updated": "2026-06-30T10:27:17.234778+08:00",
+  "total": 1854,
   "news": [
+    {
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+      "published": "2026-06-29T22:05:33+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "phishing",
+        "russia state",
+        "signal messenger",
+        "whatsapp"
+      ],
+      "id": "445626e5ca7c01ead1c20d3c90f040b3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "published": "2026-06-29T20:12:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Gemini Nano",
+        "Generative AI",
+        "Google",
+        "image generation"
+      ],
+      "id": "6e26addce97b6e65249a9412b5da2573",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "published": "2026-06-29T18:10:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "california",
+        "Gavin Newsom"
+      ],
+      "id": "a4fc79ea8f5a40efe7bbcb82fef36314",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "published": "2026-06-29T18:07:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "TC",
+        "memory tech",
+        "RAMaggedon",
+        "Samsung",
+        "SK Hynix",
+        "South Korea tech ecosystem"
+      ],
+      "id": "cb683670244266bd70a4e73b7ff3234f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "published": "2026-06-29T17:39:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Arena",
+        "LMArena",
+        "revenue"
+      ],
+      "id": "917b29e0a7c151052a2af0119774b387",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "published": "2026-06-29T17:03:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai coding",
+        "cursor",
+        "In Brief"
+      ],
+      "id": "f954e68bcb48f19d3afa8debc2eb1b7b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+      "published": "2026-06-29T16:29:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "ai music",
+        "Music",
+        "streaming music",
+        "tidal"
+      ],
+      "id": "8bd89edfd9962e1fefc98dc6e45c8ea6",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "published": "2026-06-29T14:00:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "proception",
+        "robotics"
+      ],
+      "id": "d847e44ff01ae7e660ceaedc7b3a0e2c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "published": "2026-06-29T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Exclusive",
+        "Nava Ventures",
+        "omen ai"
+      ],
+      "id": "85c3f90dcf408dd489efd08fe68e78f9",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+      "published": "2026-06-29T18:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "70b9fae892c61179bb7cd1cb0b3b15d7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+      "published": "2026-06-29T14:44:01+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "90763c99a9cad0d29da27b097fa723e5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
+      "published": "2026-06-29T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "664c8715096e8effc14c38c31279fa0a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "summary": "",
+      "published": "2026-06-29T18:02:48+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "7eccecbfa902e4090fab32e0ce3c2fc9",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
     {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
