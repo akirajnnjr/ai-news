@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-06-30T10:27:17.234778+08:00",
-  "total": 1854,
+  "last_updated": "2026-06-30T16:52:31.466127+08:00",
+  "total": 1856,
   "news": [
+    {
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "published": "2026-06-30T04:01:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Ramp",
+        "ai job loss",
+        "revelio labs"
+      ],
+      "id": "e2142c8f103223d299e191b677482d41",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "published": "2026-06-30T02:28:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Base44",
+        "LLMs",
+        "Wix"
+      ],
+      "id": "0c981188ab6a180439a354dba5ca8e3c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
     {
       "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
       "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
