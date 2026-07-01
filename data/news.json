@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-07-01T10:33:54.925178+08:00",
-  "total": 1879,
+  "last_updated": "2026-07-01T17:25:06.046761+08:00",
+  "total": 1880,
   "news": [
+    {
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "published": "2026-07-01T03:15:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive",
+        "Google",
+        "Vint Cerf"
+      ],
+      "id": "df664273bb94e4bd5ec21398f31a7937",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
     {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
       "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
