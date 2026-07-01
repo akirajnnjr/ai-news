@@ -1,7 +1,394 @@
 {
-  "last_updated": "2026-06-30T16:52:31.466127+08:00",
-  "total": 1856,
+  "last_updated": "2026-07-01T10:33:54.925178+08:00",
+  "total": 1879,
   "news": [
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+      "published": "2026-06-30T20:03:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "browsers",
+        "jailbreaks",
+        "LLMs"
+      ],
+      "id": "fdfe27002820e578417c7ed25b545bd7",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "published": "2026-07-01T02:16:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "579fe9f94e4d9c4f7f9789d51b7fab76",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "published": "2026-07-01T02:04:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Transportation",
+        "liquidity",
+        "secondary offerings",
+        "wayve"
+      ],
+      "id": "535fb062964a96b2a6b0c260e40e5239",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "published": "2026-06-30T21:53:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "agents",
+        "In Brief",
+        "moltbook",
+        "OpenAI",
+        "openclaw"
+      ],
+      "id": "be61e7a52c8152dc480f41b9f165813c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "published": "2026-06-30T20:33:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Creandum",
+        "equilibre technologies",
+        "Exclusive",
+        "prague",
+        "reinforcement learning",
+        "stock market"
+      ],
+      "id": "db04ba7c54af346732a46126b8055f3e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "published": "2026-06-30T19:02:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI videos",
+        "gemini omni flash",
+        "Google",
+        "Nano Banana 2 Lite"
+      ],
+      "id": "9e47277c200d7a7608917b77962e8b7d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "published": "2026-06-30T18:13:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "AI chips",
+        "etched"
+      ],
+      "id": "ffde7cf4c1120cdc960288ae02e8c65e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+      "published": "2026-06-30T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI agents",
+        "Anthropic",
+        "Claude",
+        "sonnet 5"
+      ],
+      "id": "302f40558b9493ab353ba3480f84a7f0",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+      "published": "2026-06-30T17:52:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "TC",
+        "acti",
+        "agentic app"
+      ],
+      "id": "01496d14f80c55358fa89f3d9a9db884",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "published": "2026-06-30T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Anthropic",
+        "claude science",
+        "Life Sciences"
+      ],
+      "id": "8ea70b35b5cde4c1b54de02bad9a283f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "published": "2026-06-30T15:08:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "X",
+        "Model Context Protocol"
+      ],
+      "id": "fdb4e43bcfbf8de26fa22719e9b0c409",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "published": "2026-06-30T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "creator economy",
+        "newsletters",
+        "Riverside",
+        "Substack"
+      ],
+      "id": "2919bc4057bf1d8c0cb18e6e1bf768c0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "published": "2026-06-30T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "id": "ba1797ae41939664eefbac4f5be4111a",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "published": "2026-06-30T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "lumo",
+        "Proton",
+        "ProtonMail"
+      ],
+      "id": "ce0e4d6477b9628b0008bc370e8eb2a8",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+      "published": "2026-06-30T09:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Crypto",
+        "Exclusive",
+        "OKX",
+        "OKX AI",
+        "agent marketplace"
+      ],
+      "id": "b5ec53d600c14aab497a6eb00c371146",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+      "published": "2026-06-30T21:50:04+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence"
+      ],
+      "id": "78c501247f18c641fbf9a1d7cfcfa5b2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;",
+      "published": "2026-06-30T17:36:48+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "biotech",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "790e38572d63cb8cf4679be31c6b0b60",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+      "published": "2026-06-30T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "ecf57bff995bfb87cb35c3cb5e867f42",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+      "published": "2026-06-30T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "76712e6d84862835426a6ff94420acf7",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Building tech in the world’s secret R&D hub",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
+      "published": "2026-06-30T10:23:30+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Business",
+        "sponsored"
+      ],
+      "id": "cdfa1091f4b099c4383df627dd49e458",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "summary": "",
+      "published": "2026-06-30T18:32:50+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9d697f00fb6cd6557b545256643393b8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "summary": "",
+      "published": "2026-06-30T14:39:11+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4a099067bc267cff908b932e133be243",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "summary": "",
+      "published": "2026-06-30T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "0f13ff903f580a29ed5a2e496c6d73fd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-06-30"
+    },
     {
       "title": "The AI jobs debate just got messier",
       "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
