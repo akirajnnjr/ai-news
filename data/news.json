@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-07-02T10:13:08.985785+08:00",
-  "total": 1891,
+  "last_updated": "2026-07-02T16:38:17.288562+08:00",
+  "total": 1892,
   "news": [
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "published": "2026-07-02T05:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Bhavin Turakhia",
+        "microsoft office",
+        "neo"
+      ],
+      "id": "f23d1aa63f1a4526ff965951ee346fa1",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
     {
       "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
       "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
