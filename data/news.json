@@ -1,7 +1,208 @@
 {
-  "last_updated": "2026-07-02T16:38:17.288562+08:00",
-  "total": 1892,
+  "last_updated": "2026-07-03T09:57:45.133458+08:00",
+  "total": 1904,
   "news": [
+    {
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+      "published": "2026-07-02T19:38:57+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Apple",
+        "Biz & IT",
+        "Security",
+        "infostealers",
+        "MacOS Malware"
+      ],
+      "id": "cd32aa676afe17a4f27993adf3caeacd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "published": "2026-07-02T23:38:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai agent",
+        "In Brief",
+        "Mark Zuckerberg",
+        "Meta"
+      ],
+      "id": "bbb33a2166fa0050d407eb6a6a9b7fbf",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+      "published": "2026-07-02T20:11:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "IPOs",
+        "sandwiches"
+      ],
+      "id": "f4b4508296004a842e3deb7086bba681",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "published": "2026-07-02T18:44:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Gaming",
+        "Social",
+        "Meta"
+      ],
+      "id": "a37f0922b8675590dd8a2da4c133b2c2",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "published": "2026-07-02T18:31:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "AI chips",
+        "Anthropic",
+        "nvidia",
+        "OpenAI",
+        "Samsung"
+      ],
+      "id": "bb53a1477cfbc1f89072eb19e1ddcd17",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "published": "2026-07-02T15:20:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "government",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "638b856bf5e432b0b80af86a6529f99f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+      "published": "2026-07-02T13:53:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Enterprise",
+        "TC",
+        "AI",
+        "Microsoft"
+      ],
+      "id": "86d262543960e8925c54a41e313bb2a7",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "published": "2026-07-02T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "openclaw"
+      ],
+      "id": "cdac07352f7ef01a6b3bf67e725b6987",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+      "published": "2026-07-02T15:37:08+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "47a875ddb1753bede04456d76c4dea03",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+      "published": "2026-07-02T12:51:44+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "Infosys Content",
+        "sponsored"
+      ],
+      "id": "76da70e4f32f92b07691f7df1f2bbb14",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1&#8230;",
+      "published": "2026-07-02T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "0c578b2b9174280c0b6a8f68dfb13aff",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because&#8230;",
+      "published": "2026-07-02T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "id": "bc90409800c841d5d1c688337a50d852",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-02"
+    },
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
