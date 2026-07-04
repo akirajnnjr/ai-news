@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-07-03T09:57:45.133458+08:00",
-  "total": 1904,
+  "last_updated": "2026-07-04T09:56:07.097237+08:00",
+  "total": 1909,
   "news": [
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "2026-07-03T21:20:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "artificial intelligence",
+        "evergreens",
+        "Glossary"
+      ],
+      "id": "eeb0f69b3cf9f1b86a6b14e70444304a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-04"
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "published": "2026-07-03T18:43:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "Browser",
+        "evergreens",
+        "search engines",
+        "web browser"
+      ],
+      "id": "f5e18ba468bebc67c0dd75defb4b9d7e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-04"
+    },
+    {
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and&#8230;",
+      "published": "2026-07-03T17:34:37+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "3869c17fc3afe0b71ef38b6c32800c34",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-04"
+    },
+    {
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
+      "published": "2026-07-03T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "e9cb2d76faa3511f2e0911658b03a1e3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
+      "published": "2026-07-03T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "21fa08f8f90b585d4dd80f2651b060ed",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-03"
+    },
     {
       "title": "Newly discovered PamStealer isn't your typical macOS malware",
       "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
