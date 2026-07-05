@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-07-04T09:56:07.097237+08:00",
-  "total": 1909,
+  "last_updated": "2026-07-05T10:03:58.297198+08:00",
+  "total": 1913,
   "news": [
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "published": "2026-07-04T20:55:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "gemini",
+        "Google"
+      ],
+      "id": "4aeb7d2c2c2424535911a393be0f1bfb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "published": "2026-07-04T18:00:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Disney",
+        "MidJourney",
+        "Universal",
+        "Warner Bros"
+      ],
+      "id": "81db9c8e2dbcafeee5010e38b8efea3b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "published": "2026-07-04T16:32:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "alibaba",
+        "claude code"
+      ],
+      "id": "ffdf2d6e4cd4b8b971f0599e0d7e4a57",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "published": "2026-07-04T15:51:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "evergreens",
+        "mistral",
+        "Mistral AI"
+      ],
+      "id": "a00e4ef278625b986a9fcbd765e84ef4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-04"
+    },
     {
       "title": "The only AI glossary you’ll need this year",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
