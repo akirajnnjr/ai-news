@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-07-06T10:09:18.026838+08:00",
-  "total": 1914,
+  "last_updated": "2026-07-06T17:51:00.945048+08:00",
+  "total": 1916,
   "news": [
+    {
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;",
+      "published": "2026-07-06T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App",
+        "Summary"
+      ],
+      "id": "166d1efeb2181901a0b1aba41a125784",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "summary": "",
+      "published": "2026-07-06T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "76d9e5a5ebbdb1e56162c83c24731d33",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-06"
+    },
     {
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
