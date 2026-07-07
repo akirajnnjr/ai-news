@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-07-07T10:04:44.684333+08:00",
-  "total": 1929,
+  "last_updated": "2026-07-07T17:19:25.273446+08:00",
+  "total": 1930,
   "news": [
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "summary": "Forterra has deployed more than 100",
+      "published": "2026-07-07T09:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "Forterra"
+      ],
+      "id": "a88205ef5d4e9a5ef2bbc7367145edac",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-07"
+    },
     {
       "title": "The ‘first’ AI-run ransomware attack still needed a human",
       "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
