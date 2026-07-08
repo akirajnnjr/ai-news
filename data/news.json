@@ -1,7 +1,66 @@
 {
-  "last_updated": "2026-07-08T09:45:48.188755+08:00",
-  "total": 1942,
+  "last_updated": "2026-07-08T16:04:09.880611+08:00",
+  "total": 1945,
   "news": [
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "published": "2026-07-08T07:00:51+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "hallucinations",
+        "LLMs",
+        "typosquatting"
+      ],
+      "id": "f56b56f54774ebeaa9e04dbf83b8a505",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "published": "2026-07-08T08:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Fundraising",
+        "Exclusive",
+        "AI inference",
+        "ZML"
+      ],
+      "id": "03bb7eb85c2e7a7044045237664acf73",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "published": "2026-07-08T07:16:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Intel",
+        "Funding",
+        "startup",
+        "SambaNova",
+        "SambaNova Systems",
+        "AI chip"
+      ],
+      "id": "7e6b7a6e47dea18825573683366c44ae",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-08"
+    },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
