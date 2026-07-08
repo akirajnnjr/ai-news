@@ -1,7 +1,195 @@
 {
-  "last_updated": "2026-07-07T17:19:25.273446+08:00",
-  "total": 1930,
+  "last_updated": "2026-07-08T09:45:48.188755+08:00",
+  "total": 1942,
   "news": [
+    {
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "published": "2026-07-07T22:18:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Meta",
+        "Meta Superintelligence",
+        "Muse Image"
+      ],
+      "id": "43c24424eacf387e2d13cad2cf1a6d2c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "published": "2026-07-07T20:04:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Anthropic",
+        "Decagon"
+      ],
+      "id": "ac26af5ade469fc1f17aa3141f1b7992",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "published": "2026-07-07T19:58:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "Microsoft",
+        "OpenAI",
+        "tokens"
+      ],
+      "id": "6d46c33e5722d2bc948097935a7c7af6",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "published": "2026-07-07T19:28:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "discord"
+      ],
+      "id": "0a5053c7161501f1f745904ecd631901",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "published": "2026-07-07T16:27:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "claude cowork",
+        "coding agent"
+      ],
+      "id": "ffc63549d918790eecbe14cbcdcae955",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "published": "2026-07-07T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Security",
+        "AI",
+        "acrew capital",
+        "AI scams",
+        "fraud detection",
+        "Savi"
+      ],
+      "id": "e2c62726c5816c6c5f05434eae5e7f2f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
+      "published": "2026-07-07T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "0e5ebf4a584e35fb159d4fd28936320f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+      "published": "2026-07-07T11:10:52+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "34dc6f6de3b4a015c927e7f40a9f1cb0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;",
+      "published": "2026-07-07T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "b11b6e4d107e518530462485a34ead0c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "summary": "",
+      "published": "2026-07-07T21:15:33+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "830b87f8c5bf092736322d04edd080b8",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "summary": "",
+      "published": "2026-07-07T15:20:06+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "37a75100de709a89d8edd3aa42e9faef",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "summary": "",
+      "published": "2026-07-07T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "38da928fb2b9ac0e668961223f308591",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-07"
+    },
     {
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
       "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
