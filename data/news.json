@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-10T09:55:52.541727+08:00",
-  "total": 1989,
+  "last_updated": "2026-07-10T16:56:53.726602+08:00",
+  "total": 1990,
   "news": [
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "summary": "",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "ec381c2ce49c390bda14e7dc67b259d5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
     {
       "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
       "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
