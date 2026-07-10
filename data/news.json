@@ -1,7 +1,454 @@
 {
-  "last_updated": "2026-07-09T09:57:29.246876+08:00",
-  "total": 1964,
+  "last_updated": "2026-07-10T09:55:52.541727+08:00",
+  "total": 1989,
   "news": [
+    {
+      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+      "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+      "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+      "published": "2026-07-09T20:52:55+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "microsoft",
+        "Windows Defender",
+        "zero days"
+      ],
+      "id": "ca9130131aee809984537f35f36a6484",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+      "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+      "summary": "Broadcom accuses Allstate of dodging VMware audits.",
+      "published": "2026-07-09T20:28:55+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Allstate",
+        "Broadcom",
+        "lawsuit",
+        "vmware"
+      ],
+      "id": "7ea44db32d3bcade32ea71444a8ef8ef",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "published": "2026-07-10T00:16:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Copilot",
+        "gpt-5.6",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "id": "9ac461d004e9fe390374f89bd8356ab8",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "published": "2026-07-09T23:38:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "ee3f32770183596f79ec2f0cf56585ef",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "published": "2026-07-09T22:24:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "gpt-5.6",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "da68d51d471a4c39000040e737471f61",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "published": "2026-07-09T22:08:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "ai agent",
+        "In Brief"
+      ],
+      "id": "eb2fa5e9cf60d17db9ed56268f92fe5a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "published": "2026-07-09T22:03:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI browser",
+        "atlas",
+        "chatgpt atlas",
+        "OpenAI"
+      ],
+      "id": "3579a3be1f32b6fa431f82f51507844a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "published": "2026-07-09T21:57:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Anthropic",
+        "Elon Musk",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "7a9493a910714f028f0aef4efacc5e0a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Can AI answer the $3 trillion question?",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "published": "2026-07-09T21:47:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "apollo",
+        "CAPEX",
+        "Sequioa"
+      ],
+      "id": "3420787aec5e3fefa3997f5c6d526ea5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "published": "2026-07-09T19:40:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse spark",
+        "OpenAI"
+      ],
+      "id": "aca1fb615a00129ed4fce4be2edf9ea7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "published": "2026-07-09T19:05:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "ChatGPT",
+        "copyright",
+        "copyright infringement",
+        "OpenAI"
+      ],
+      "id": "1db8020f654e326c06bf19f55816b481",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "published": "2026-07-09T18:40:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Adtech",
+        "advertising",
+        "Generative AI",
+        "Google"
+      ],
+      "id": "c7ffc144e4ed7278e202a0d5db3a3902",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "published": "2026-07-09T18:34:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "nvidia",
+        "Kyutai",
+        "In Brief",
+        "Gradium"
+      ],
+      "id": "197158ed79d24f534c789ccfede96175",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "published": "2026-07-09T18:22:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "OpenAI"
+      ],
+      "id": "daf54a43354d2693a03bb78b16afa08c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "published": "2026-07-09T17:56:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Generative AI",
+        "image generator",
+        "Instagram",
+        "Meta",
+        "Muse Image"
+      ],
+      "id": "21a90f4f28e43520a3b99eff7a025ce0",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Meta’s new AI chips will begin production in September",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "published": "2026-07-09T17:17:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "AI chips",
+        "ai infrastructure",
+        "GPUS",
+        "Meta",
+        "semiconductors"
+      ],
+      "id": "b98651c3d0aaa88ceb996611053e84a5",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
+      "published": "2026-07-09T17:06:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "compute",
+        "dram",
+        "nvidia"
+      ],
+      "id": "e717869501a8fd28f7ef3bf5631e05f0",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "published": "2026-07-09T14:53:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "Anthropic",
+        "Claude"
+      ],
+      "id": "78b4dd47066f83bdce4b4a1b6b5c7a21",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "published": "2026-07-09T14:51:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "IPO",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "id": "24accd016592ba52e5e3ed8ab583c60b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "published": "2026-07-09T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "Benchmark Partners",
+        "Exclusive",
+        "ollama",
+        "theory ventures"
+      ],
+      "id": "f8acfe428074a77f821e2c46ead18667",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+      "published": "2026-07-09T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai entertainment",
+        "character.ai",
+        "microdramas"
+      ],
+      "id": "8d5144af9315bb6915378e5323f1aced",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "published": "2026-07-09T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Fundamentum",
+        "Fundamentum Partnership",
+        "Nandan Nilekani"
+      ],
+      "id": "a9ef8ec98447cd1bc4c263a25e29da26",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+      "published": "2026-07-09T20:22:28+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "a90a0d3e9300d25fe5bbd645cda5bfda",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
+      "published": "2026-07-09T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c3749aa35f8d2981eacf60929e8ba6ba",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;",
+      "published": "2026-07-09T08:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "178dc9863659bda3f8a9ef8a8037546c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-09"
+    },
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
       "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
