@@ -1,7 +1,138 @@
 {
-  "last_updated": "2026-07-10T16:56:53.726602+08:00",
-  "total": 1990,
+  "last_updated": "2026-07-11T09:44:34.151182+08:00",
+  "total": 1997,
   "news": [
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "published": "2026-07-10T23:55:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Instagram",
+        "Meta",
+        "social media"
+      ],
+      "id": "312c742d69a6fd09799faf52d2556bff",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "published": "2026-07-10T21:00:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "OpenAI",
+        "trade secret theft"
+      ],
+      "id": "80b272bb41401df7216d6cf70d7d0f4e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+      "published": "2026-07-10T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Hugging Face",
+        "Equity podcast",
+        "Enterprise AI",
+        "AI startups",
+        "ai safety",
+        "open source ai",
+        "Chinese AI Models",
+        "Clem Delangue"
+      ],
+      "id": "c835ffd5cd3d8d7ef03e2fab3ada79b9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "published": "2026-07-10T17:17:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Hardware",
+        "AI chips",
+        "initial public offering",
+        "semiconductors",
+        "SK Hynix"
+      ],
+      "id": "2e6f798b14e7b8c519656e2ce4f32ce4",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+      "published": "2026-07-10T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "ai safety",
+        "AI startups",
+        "Chinese AI Models",
+        "Clem Delangue",
+        "Enterprise AI",
+        "Hugging Face",
+        "open source ai"
+      ],
+      "id": "c4ac912fdc8dc6303c033744bb6562de",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
+      "published": "2026-07-10T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "8e9121e5dcc9f9366776111163504fc3",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Sperm donors need limits, says a European fertility group",
+      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;",
+      "published": "2026-07-10T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "c41b81cc6994c4cbc2f7e699ce0667f2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-10"
+    },
     {
       "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
       "url": "https://huggingface.co/blog/torch-attention-profile",
