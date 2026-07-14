@@ -1,7 +1,236 @@
 {
-  "last_updated": "2026-07-12T09:46:45.899815+08:00",
-  "total": 1998,
+  "last_updated": "2026-07-14T09:26:04.870142+08:00",
+  "total": 2011,
   "news": [
+    {
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "published": "2026-07-13T21:03:07+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "CISA",
+        "hackers",
+        "proxy networks",
+        "routers"
+      ],
+      "id": "2508728df08a81949deb42dad61f4cbc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "published": "2026-07-13T15:06:34+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "context bombing\\",
+        "guardrails",
+        "LLMs",
+        "prompt injections"
+      ],
+      "id": "d9517d92e4978d3495d9827ec8348de8",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "published": "2026-07-14T00:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Transportation",
+        "AI",
+        "Uber",
+        "Sachin Kansal"
+      ],
+      "id": "71ee9ef92d3c90b247c4637221cf9e88",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "published": "2026-07-14T00:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "alibaba",
+        "pixverse",
+        "video generation"
+      ],
+      "id": "4bee902986585ed6f5704846326ecfbe",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "published": "2026-07-13T23:31:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "iRobot Ventures",
+        "unicorn",
+        "USV"
+      ],
+      "id": "102e5c971823c58774fd4bbdde619c4b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "published": "2026-07-13T20:59:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Microsoft",
+        "open source ai",
+        "Satya Nadella"
+      ],
+      "id": "3917d3b170f3e32332a29240354abb2e",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "published": "2026-07-13T18:22:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "id": "25a33f9e528154aa222fdbe82f6155f1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "published": "2026-07-13T17:28:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "sam altman",
+        "space data centers",
+        "SpaceX"
+      ],
+      "id": "c0b352c36c1e4c8afda6f281b986ea53",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "summary": "What does a world of total user-aligned AI actually look like?",
+      "published": "2026-07-13T16:31:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "alignment",
+        "George Hotz"
+      ],
+      "id": "0e7e142d3d4e57863032816956ed244c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "published": "2026-07-13T15:34:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "id": "cda1dfeab597be0524ec8d7f4e3bb2ea",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "published": "2026-07-13T14:18:16+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Google",
+        "Maps",
+        "navigation",
+        "waze"
+      ],
+      "id": "e05cb5c1953da06484eeca7bf8c9251d",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
+      "published": "2026-07-13T18:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "50ee0b4631ad54eeeb80fa8a354df634",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "The Download: a donor conception cap and world models for AI",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+      "published": "2026-07-13T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "9b905ecd94cbe9d4281b8430ec09969b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-13"
+    },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
