@@ -1,7 +1,364 @@
 {
-  "last_updated": "2026-07-14T15:42:58.350224+08:00",
-  "total": 2012,
+  "last_updated": "2026-07-15T09:23:00.856690+08:00",
+  "total": 2032,
   "news": [
+    {
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+      "published": "2026-07-14T22:20:48+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "bootkits",
+        "microsoft",
+        "secure boot",
+        "shims"
+      ],
+      "id": "a708c7931fbda6bf8fc149dfdf427476",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "published": "2026-07-15T00:27:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Venture",
+        "drug discovery",
+        "lightspeed",
+        "OpenAI"
+      ],
+      "id": "28e622f5401555d0458c66b11cd728ab",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "published": "2026-07-14T23:10:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI smart glasses",
+        "lorde",
+        "Meta",
+        "ray-ban meta"
+      ],
+      "id": "0a8a6aa50a5f18b0f3e90b4fccedcac8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "published": "2026-07-14T22:22:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "becee1c630114a062397e92afd3b4932",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "published": "2026-07-14T22:07:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "id": "3b5a63d55d8698985f394347f6a4d0d5",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "published": "2026-07-14T21:50:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "gpt-5.6 sol",
+        "OpenAI",
+        "openai safety"
+      ],
+      "id": "c59caaf5dd925c5bf8b433f304f66a67",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+      "published": "2026-07-14T19:42:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "iOS 27",
+        "siri",
+        "siri ai"
+      ],
+      "id": "9fd65f338ac2484ae453a62445af89b1",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Anthropic’s newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+      "published": "2026-07-14T19:41:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "c604b203eb8eabf2cf44f03458719a61",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "published": "2026-07-14T19:39:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI dating",
+        "dating",
+        "dating app",
+        "Hinge",
+        "overtone"
+      ],
+      "id": "41138521bbab1050a0b5f401359e6027",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "published": "2026-07-14T18:33:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Google",
+        "google gemini",
+        "lawsuit"
+      ],
+      "id": "46faa28596ea41c1f04b2d27d63a2439",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "published": "2026-07-14T17:45:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI regulation",
+        "DeepMind",
+        "Demis Hassabis"
+      ],
+      "id": "5531c5f6b4f63d45c86a52c039617a90",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "published": "2026-07-14T16:22:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "adam mosseri",
+        "Meta",
+        "tokenmaxxing",
+        "tokens"
+      ],
+      "id": "0efd80d1295d176f3ad547380fb60517",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "published": "2026-07-14T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Google",
+        "google images",
+        "Search",
+        "images"
+      ],
+      "id": "4c650ca55ce6568fd29bd450272483a3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "published": "2026-07-14T15:17:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "data centers",
+        "new york state"
+      ],
+      "id": "10b1c5e9cf4f8f61dbd9d3b66541e1c5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "published": "2026-07-14T14:37:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "AI compute deals",
+        "compute",
+        "In Brief",
+        "Nebius",
+        "reflection ai",
+        "Yandex"
+      ],
+      "id": "62bbd5184b02cf83dad060bb4de29654",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "published": "2026-07-14T14:24:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Clem Delangue",
+        "Hugging Face",
+        "open models",
+        "open source"
+      ],
+      "id": "93a0e8b76044cde52293df9f0ad9b225",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "published": "2026-07-14T14:06:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "TC",
+        "Music",
+        "Spotify",
+        "streaming"
+      ],
+      "id": "c234bc9a7b8204a6f1435b2d18daf67e",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "published": "2026-07-14T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI assistant",
+        "email",
+        "superhuman"
+      ],
+      "id": "f05deb211b536ea480a655ea9e79775c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,&#8230;",
+      "published": "2026-07-14T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "64ea707006c2a78f2fa81dcb12d64fa1",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;",
+      "published": "2026-07-14T08:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "App",
+        "artificial intelligence"
+      ],
+      "id": "b5aa16b30049056f50db1e16f75c16cd",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-14"
+    },
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
