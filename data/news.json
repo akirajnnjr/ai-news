@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-18T09:27:19.555098+08:00",
-  "total": 2090,
+  "last_updated": "2026-07-18T15:23:28.200529+08:00",
+  "total": 2091,
   "news": [
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "published": "2026-07-18T04:47:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture"
+      ],
+      "id": "5d2b0c79af659e42300d3afbc3ef1be3",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-18"
+    },
     {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
