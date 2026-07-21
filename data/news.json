@@ -1,7 +1,202 @@
 {
-  "last_updated": "2026-07-20T09:59:57.830992+08:00",
-  "total": 2096,
+  "last_updated": "2026-07-21T09:44:31.689225+08:00",
+  "total": 2108,
   "news": [
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "published": "2026-07-21T00:12:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "id": "683e474adcf4d94c5e8ea10fd2ab74f3",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump’s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "published": "2026-07-20T22:21:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "TC",
+        "ai czar"
+      ],
+      "id": "79729dbd9369d9d2ca486b5de06a0416",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "published": "2026-07-20T21:21:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Alphabet",
+        "Google",
+        "nvidia"
+      ],
+      "id": "20d9bcdf56933ea72724fc8a6c4da1fb",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "published": "2026-07-20T20:50:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "mcp"
+      ],
+      "id": "9afbcd831bf6d894b62b89ab8396bcae",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "published": "2026-07-20T19:37:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "android apps",
+        "Apps",
+        "social media",
+        "X"
+      ],
+      "id": "180974706d8235938f0038d602d46bfc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "published": "2026-07-20T19:33:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "kimi",
+        "OpenAI"
+      ],
+      "id": "7eab661b9a59de1fef9a5ba4575170c9",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "published": "2026-07-20T15:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Adobe",
+        "camera",
+        "iOS"
+      ],
+      "id": "af832c75a2ac60e7d973c64a92139460",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "published": "2026-07-20T15:23:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "YouTube",
+        "inauthentic activity"
+      ],
+      "id": "48ec45dfbbf6ec0f020ddaa9bfeb77a3",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
+      "published": "2026-07-20T18:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "61d13d1985062617ab71fb35ad23d2cb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s&#8230;",
+      "published": "2026-07-20T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "d3e0bceadbfd749d40cc93d5b516bf43",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
+      "published": "2026-07-20T08:39:01+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "d213c30d2534c57d8854764eef499cc7",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "summary": "",
+      "published": "2026-07-20T15:58:51+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "86f2663fd4b674f49897f9fbb567f6ae",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-20"
+    },
     {
       "title": "What to watch for after Jensen Huang’s Japan visit",
       "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
