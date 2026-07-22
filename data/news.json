@@ -1,7 +1,228 @@
 {
-  "last_updated": "2026-07-21T09:44:31.689225+08:00",
-  "total": 2108,
+  "last_updated": "2026-07-22T09:43:51.236329+08:00",
+  "total": 2122,
   "news": [
+    {
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "summary": "\"Current economic conditions\" have shifted TreeSize's business model.",
+      "published": "2026-07-21T15:18:23+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Tech",
+        "apps",
+        "software"
+      ],
+      "id": "3c0044a0880ec42350db3b2d6fc6ed49",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "published": "2026-07-21T23:55:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Meta"
+      ],
+      "id": "86519c5dd5f1afa30a588521ed22bf61",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "published": "2026-07-21T20:56:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "id": "591f1cb3d73929b341c873f1e95542bf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "published": "2026-07-21T19:43:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "jack dorsey",
+        "Slack"
+      ],
+      "id": "d77aa8a5fe080ce71029081d89ae4210",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "AI and the rise of the universal entertainment app",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+      "published": "2026-07-21T19:39:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Social"
+      ],
+      "id": "0919b4f551ff4e1de9cfc53fb88eb467",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "published": "2026-07-21T18:06:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "data centers",
+        "electrical grid"
+      ],
+      "id": "50506afdaa3dc7faa0c93d143ce647ff",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "published": "2026-07-21T17:11:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Google",
+        "google gemini"
+      ],
+      "id": "c096964be54d2919f6eb83a0df9e4aa0",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "published": "2026-07-21T15:37:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Chinese AI Models",
+        "open source ai"
+      ],
+      "id": "be406df3fd99cbadb47d0604f30ec0a6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
+      "published": "2026-07-21T13:27:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Deezer",
+        "music streaming"
+      ],
+      "id": "a70f755423c2f663cab962edd6ca799c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+      "published": "2026-07-21T10:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Robotics",
+        "construction tech",
+        "Exclusive",
+        "Obvious Ventures"
+      ],
+      "id": "5b7c7b34706f3c384003596ef6b4a1d4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading&#8230;",
+      "published": "2026-07-21T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "4f2427b73e960a81e240a2f02a3b7b4b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
+      "published": "2026-07-21T10:37:34+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "6d5a86555da5e5298d2503e772ec7a79",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "summary": "",
+      "published": "2026-07-21T20:00:27+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4be8433189bb67ca9169b13d325e9147",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "summary": "",
+      "published": "2026-07-21T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4e39045e2d76e424d9bc5cd7abab2780",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-21"
+    },
     {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
