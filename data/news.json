@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-07-22T09:43:51.236329+08:00",
-  "total": 2122,
+  "last_updated": "2026-07-22T16:04:29.978880+08:00",
+  "total": 2124,
   "news": [
+    {
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "published": "2026-07-22T08:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Enterprise",
+        "Exclusive",
+        "Synthesia",
+        "AI avatar",
+        "roleplaying"
+      ],
+      "id": "27421537c448f31a8e8054734be9be80",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "published": "2026-07-22T03:20:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "OpenAI",
+        "Physical Intelligence"
+      ],
+      "id": "0f1ee6934ed4bd1218fc325619541467",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-22"
+    },
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
       "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
