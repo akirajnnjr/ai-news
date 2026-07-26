@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-07-25T09:47:12.913911+08:00",
-  "total": 2168,
+  "last_updated": "2026-07-26T09:50:00.284772+08:00",
+  "total": 2171,
   "news": [
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "published": "2026-07-26T01:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Layoffs"
+      ],
+      "id": "cb61b6a2a5da5e6de3bed409d7040395",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "published": "2026-07-25T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "9026899f60e4a3664969e501f3cb4191",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "published": "2026-07-25T13:05:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Climate",
+        "AI",
+        "data centers",
+        "electrical grid"
+      ],
+      "id": "102564d4308f8be4c3767a7e27f09fe3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-25"
+    },
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
       "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
