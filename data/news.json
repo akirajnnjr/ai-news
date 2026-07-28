@@ -1,7 +1,326 @@
 {
-  "last_updated": "2026-07-27T09:57:25.230826+08:00",
-  "total": 2174,
+  "last_updated": "2026-07-28T09:40:45.260303+08:00",
+  "total": 2193,
   "news": [
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "published": "2026-07-27T21:56:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "microsoft",
+        "security"
+      ],
+      "id": "531f2adf50891ad2ec1a0f59bf31f320",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "published": "2026-07-28T00:13:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic"
+      ],
+      "id": "063a78a65e9ecc0278bf9f484b4d5fb4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "published": "2026-07-27T21:17:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "id": "f1637c21f3807a90d27fda9911b5ee1b",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "published": "2026-07-27T20:19:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Privacy",
+        "Security",
+        "Anthropic",
+        "Claude",
+        "data exposure"
+      ],
+      "id": "f6ec309cb07391fabdcd34c285d0fca7",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "published": "2026-07-27T18:32:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "Microsoft"
+      ],
+      "id": "699cca776fc63b7f791d88dd20950285",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "published": "2026-07-27T17:28:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai alignment",
+        "ai safety",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "id": "999e3252e27a4f998d51ff8a4c1baa02",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "published": "2026-07-27T16:45:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "In Brief",
+        "meta ai",
+        "Threads"
+      ],
+      "id": "e0cbdd2980b85a49f3905f59f9e5651a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "published": "2026-07-27T15:57:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "ai overviews",
+        "Google",
+        "Search"
+      ],
+      "id": "9787dc63d089b7628331283f40782ae9",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+      "published": "2026-07-27T15:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "id": "2ad1fe773140f0bc24cfa79d57e7c59c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "published": "2026-07-27T15:25:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Reviews"
+      ],
+      "id": "e91ca0f7e12bb9aad0f5d39e359d7c25",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "published": "2026-07-27T15:01:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Ilya Sutskever",
+        "nvidia",
+        "OpenAI",
+        "safe superintelligence"
+      ],
+      "id": "255e648232d1e6e31e17647e6861c73f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "published": "2026-07-27T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "enigma",
+        "Exclusive",
+        "Index Ventures",
+        "Ribbit Capital",
+        "Sarah Guo",
+        "UX/UI"
+      ],
+      "id": "82e3b731569ecf2e909402542fa338ec",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
+      "published": "2026-07-27T18:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "bd9265e44747f4526519aa4bfbcdc657",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+      "published": "2026-07-27T14:24:42+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "aa693ec639702a36f00f1a0c29100d21",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;",
+      "published": "2026-07-27T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "a380c4dc5b685092d773630047034d39",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+      "published": "2026-07-27T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "25cc5f27cc6ab012d40dcf3422718918",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
+      "published": "2026-07-27T11:40:16+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "31a791e8e2a86ffc9d9cc037847e05df",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;",
+      "published": "2026-07-27T11:32:58+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "d10dbf6ad8c7c176d839400a2877b766",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "summary": "",
+      "published": "2026-07-27T09:32:20+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "b24ba3574e2ebeec96751cb9b37b018b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-27"
+    },
     {
       "title": "Are brain waves the next unlock for physical AI?",
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
