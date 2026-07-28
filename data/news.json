@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-07-28T09:40:45.260303+08:00",
-  "total": 2193,
+  "last_updated": "2026-07-28T16:10:40.240051+08:00",
+  "total": 2194,
   "news": [
+    {
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "published": "2026-07-28T04:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "SpaceX",
+        "cursor"
+      ],
+      "id": "470d3cc5669e08e80b474a9844ee89bf",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-28"
+    },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
