@@ -1,7 +1,217 @@
 {
-  "last_updated": "2026-07-28T16:10:40.240051+08:00",
-  "total": 2194,
+  "last_updated": "2026-07-29T09:41:55.903225+08:00",
+  "total": 2207,
   "news": [
+    {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "published": "2026-07-28T21:36:39+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "Hugging Face",
+        "jfrog",
+        "large langage models",
+        "LLMs",
+        "openai"
+      ],
+      "id": "043baf57504ce2031b71a394cf6e4ab2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "published": "2026-07-29T00:09:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Cyera",
+        "M&A"
+      ],
+      "id": "992c30afce2094034702847305f07225",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "published": "2026-07-28T21:29:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "bot detection",
+        "cybersecurity startups",
+        "In Brief",
+        "Insight Partners"
+      ],
+      "id": "2853fe7b4466c2b7fc6c99226ee278aa",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "published": "2026-07-28T20:45:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "TC",
+        "lawsuit",
+        "Rippling"
+      ],
+      "id": "ab5715c29e352d7e6aab4ae9168e8049",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "published": "2026-07-28T20:17:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "sam altman"
+      ],
+      "id": "cbe29efd99bf8829e7f432668b51be57",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "published": "2026-07-28T15:42:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "data centers",
+        "electrical grid"
+      ],
+      "id": "57b9aa43e3381b70dbedce0d69c4bffe",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "published": "2026-07-28T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "voice AI",
+        "text to speech"
+      ],
+      "id": "72e62aa28e258fe4a7136bab51c6d9fa",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
+      "published": "2026-07-28T13:19:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AWS",
+        "RSI"
+      ],
+      "id": "4fac336183884ac951e08512fa8c748b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
+      "published": "2026-07-28T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c57d8e1854986de527ddca599cd9f3a2",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
+      "published": "2026-07-28T09:18:57+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "e9c7d242f0b7db0781b56bf4ad305b70",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "summary": "",
+      "published": "2026-07-28T16:27:42+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f57b088c9d04856716ccf55f85f61783",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "summary": "",
+      "published": "2026-07-28T15:01:45+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9a40059e627f1169d8db746ec751a290",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "summary": "",
+      "published": "2026-07-27T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "45ee50f08ad37dbcee2eaebcf0c58826",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-27"
+    },
     {
       "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
       "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
