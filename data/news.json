@@ -1,7 +1,266 @@
 {
-  "last_updated": "2026-07-29T09:41:55.903225+08:00",
-  "total": 2207,
+  "last_updated": "2026-07-30T09:24:37.634143+08:00",
+  "total": 2222,
   "news": [
+    {
+      "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "summary": "Separating the chaff from the wheat in Anthropic results is hard. We take a stab anyway.",
+      "published": "2026-07-29T22:07:06+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security"
+      ],
+      "id": "87eb876878a24dffd9aa47baa56164aa",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "published": "2026-07-30T00:21:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
+      ],
+      "id": "750af35496d7b51a4f7ae5ac713220b3",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "published": "2026-07-29T23:00:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI agents",
+        "Meta"
+      ],
+      "id": "1929c1854e3f09ba0267690601e82e9b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "published": "2026-07-29T22:46:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Microsoft",
+        "OpenAI",
+        "Anthropic",
+        "In Brief"
+      ],
+      "id": "feca2ec539e2a7daccfdb87e1ac8ea6b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "published": "2026-07-29T22:23:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Social",
+        "Meta"
+      ],
+      "id": "c9945336eb04156b5d433b7b818cb3ca",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "published": "2026-07-29T21:16:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Databricks",
+        "TechCrunch Disrupt"
+      ],
+      "id": "0e31e3499c48aed633d480bb992619ae",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "published": "2026-07-29T21:07:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "In Brief",
+        "OpenAI",
+        "Thinking Machines"
+      ],
+      "id": "7802d42c54c42673a7081740418be715",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "published": "2026-07-29T19:44:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "id": "101b78fb3cd4957b579ff042e4283c72",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "published": "2026-07-29T18:45:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "Andon Labs",
+        "Claude",
+        "Exclusive",
+        "gpt-5.6 sol",
+        "kimi"
+      ],
+      "id": "b509c20461f2e36b0ae41563c54675b6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "published": "2026-07-29T15:35:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "TC",
+        "hint",
+        "martha stewart"
+      ],
+      "id": "c037c1f2be4b8b92d4880a94256bc8ab",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "published": "2026-07-29T14:41:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "customer relationship management",
+        "Encore",
+        "Team8 Capital"
+      ],
+      "id": "5de17107a6764aac1bede7df66f7e68b",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "published": "2026-07-29T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "ai slop"
+      ],
+      "id": "0fa1628d1c41cbaef01de5accdfefda8",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
+      "published": "2026-07-29T17:58:44+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "2ef3d49a864119004c14ce90a53c9d0d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+      "published": "2026-07-29T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "b43ed6d2237c930e0f43946a731eb37e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+      "published": "2026-07-29T08:42:57+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "AI Hype Index",
+        "App"
+      ],
+      "id": "b4d3a90f6379146974f563f12efbace1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-29"
+    },
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
