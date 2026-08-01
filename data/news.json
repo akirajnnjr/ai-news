@@ -1,7 +1,239 @@
 {
-  "last_updated": "2026-07-31T09:51:31.397974+08:00",
-  "total": 2241,
+  "last_updated": "2026-08-01T09:52:20.321312+08:00",
+  "total": 2254,
   "news": [
+    {
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "published": "2026-07-31T20:39:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "Anthropic",
+        "Claude",
+        "security"
+      ],
+      "id": "82e3dc5b42774375406d61d61eb17422",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+      "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+      "published": "2026-07-30T20:57:22+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "exploits",
+        "Microsoft Exchange",
+        "zerodays"
+      ],
+      "id": "7185ce04d41bc3311db318bd7667d047",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "published": "2026-07-31T22:47:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hugging Face",
+        "In Brief",
+        "OpenAI"
+      ],
+      "id": "1d34eb8229759590aed966b4be3852e6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "summary": "India's app market generated a record $345 million in Q2.",
+      "published": "2026-07-31T21:07:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "app market",
+        "ChatGPT",
+        "Claude",
+        "google one"
+      ],
+      "id": "ef91c0cf4706b2353761cbd39f25216e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "published": "2026-07-31T19:47:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Google",
+        "google earth",
+        "In Brief"
+      ],
+      "id": "cebdf34cbbc82af8b83de9f3c45238c6",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+      "published": "2026-07-31T17:26:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Amazon",
+        "Anthropic",
+        "OpenAI",
+        "sam altman",
+        "SpaceX"
+      ],
+      "id": "734a51283c78b111a88c3ae598618952",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "published": "2026-07-31T16:49:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "ai slop",
+        "Snapchat"
+      ],
+      "id": "1539977fb10636407bec914c9bd7cc6e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "published": "2026-07-31T16:08:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "siri ai"
+      ],
+      "id": "02a679ae68f91e74af14cd8ea3cec3bc",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "published": "2026-07-31T15:16:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "air pollution",
+        "data centers",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "d6b9a6d8c12d77f5572bbe6a3cd7b953",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "published": "2026-07-31T14:47:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "customer support",
+        "voice AI"
+      ],
+      "id": "eccb7dbefe541daf19795c0ab5c2963c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+      "published": "2026-07-31T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Anthropic",
+        "Equity podcast",
+        "Hugging Face",
+        "sam altman",
+        "SpaceX"
+      ],
+      "id": "9fb139bb8c5f3fce71cbd98eefbc25f0",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "The Download: Montana’s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
+      "published": "2026-07-31T12:16:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "0abc8a3ebd09fb7f5c55eeba35091c93",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#8230;",
+      "published": "2026-07-31T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "f3afcd69fc7d95981b5f95e65b5766c4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-07-31"
+    },
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
       "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
