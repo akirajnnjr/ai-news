@@ -1,7 +1,174 @@
 {
-  "last_updated": "2026-08-03T09:51:36.447854+08:00",
-  "total": 2259,
+  "last_updated": "2026-08-04T09:26:36.192476+08:00",
+  "total": 2269,
   "news": [
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "published": "2026-08-03T23:19:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Alex Karp",
+        "Palantir"
+      ],
+      "id": "8e6013752b7746eea82fb44ad0b76cc8",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "published": "2026-08-03T20:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AWS",
+        "vibe coding"
+      ],
+      "id": "4d7bc75aa17b4e7fd3c4e8d9a5eac506",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "published": "2026-08-03T19:28:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups"
+      ],
+      "id": "5c210e03771f39bbc885100257e1d238",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "published": "2026-08-03T19:09:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Social",
+        "OpenAI"
+      ],
+      "id": "29dbca12f879ba885b455ad69df303f3",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "published": "2026-08-03T18:43:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "siri"
+      ],
+      "id": "bead3af33d16a52098aa0995d1a976fd",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "published": "2026-08-03T16:40:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Congress",
+        "OpenAI",
+        "ChatGPT",
+        "In Brief"
+      ],
+      "id": "d0bd8659148e449b8d0c29bba55aefac",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "published": "2026-08-03T10:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Exclusive"
+      ],
+      "id": "a7754f051081bacfd5e1b5a8a14a24ca",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+      "published": "2026-08-03T18:43:30+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "dc0d90ec364e575f07e2cebb0069df8f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
+      "published": "2026-08-03T12:08:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "72f55c675e27d5a420deca325171c4e4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+      "published": "2026-08-03T08:30:05+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "MIT Technology Review Explains",
+        "Summary"
+      ],
+      "id": "e4b3c3d5632c24276147252c68e95729",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-03"
+    },
     {
       "title": "Sam Altman and AI’s decel debate",
       "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
