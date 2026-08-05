@@ -1,7 +1,226 @@
 {
-  "last_updated": "2026-08-04T09:26:36.192476+08:00",
-  "total": 2269,
+  "last_updated": "2026-08-05T09:40:36.713042+08:00",
+  "total": 2282,
   "news": [
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "published": "2026-08-04T21:07:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Space",
+        "Megapack",
+        "SpaceX",
+        "Tesla",
+        "xAI"
+      ],
+      "id": "d677fdcd54de9c4ce4e6db7efe33f34d",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "published": "2026-08-04T20:05:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "open source",
+        "Z.ai",
+        "GLM"
+      ],
+      "id": "c30ea359fc494916ec0e12a201a83241",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "published": "2026-08-04T19:48:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "volta"
+      ],
+      "id": "af3fbfe150b00022cd319aa3b04b9280",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "published": "2026-08-04T19:34:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups"
+      ],
+      "id": "8cd05edd7a37d5b154da56828af1064c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "published": "2026-08-04T19:28:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Security",
+        "cybersecurity",
+        "nvidia"
+      ],
+      "id": "a21d180516b22df290a01a2e1c8f1f2b",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+      "published": "2026-08-04T15:50:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "music streaming",
+        "Spotify"
+      ],
+      "id": "d239bf7b26606f6114ca6fddaa0566a7",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "published": "2026-08-04T15:42:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Government & Policy",
+        "data centers",
+        "texas"
+      ],
+      "id": "f373e2402edb434df5fd5b001d701534",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+      "published": "2026-08-04T15:20:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Transportation",
+        "Elon Musk",
+        "Exclusive",
+        "Tesla"
+      ],
+      "id": "80e106fe7e7308168e2ca6eac7492b06",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "published": "2026-08-04T14:03:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "lawsuit",
+        "OpenAI"
+      ],
+      "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "published": "2026-08-04T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "data centers",
+        "Runware"
+      ],
+      "id": "b79c480364b48edd25efd2672059994c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
+      "published": "2026-08-04T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "data transmission",
+        "Exclusive",
+        "lasers"
+      ],
+      "id": "a7df2b0647a47bfd3d1b653dc3139efb",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
+      "published": "2026-08-04T12:14:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "03bae2513903f0b3f7250689419b7173",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "summary": "",
+      "published": "2026-08-04T13:58:29+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4d42e33f51cb48196d946d07951d540a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-04"
+    },
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
