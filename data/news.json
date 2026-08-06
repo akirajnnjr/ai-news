@@ -1,7 +1,232 @@
 {
-  "last_updated": "2026-08-05T09:40:36.713042+08:00",
-  "total": 2282,
+  "last_updated": "2026-08-06T09:29:44.570623+08:00",
+  "total": 2295,
   "news": [
+    {
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "published": "2026-08-05T22:35:20+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "baseboard management controller",
+        "bmcs",
+        "exploits",
+        "vulnerabilities"
+      ],
+      "id": "334d336fa53eb4b68f9e752e03883f9e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "published": "2026-08-05T21:21:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "Mark Zuckerberg",
+        "Meta",
+        "OpenAI"
+      ],
+      "id": "f4b59bdfc21bfca7febe9386b880e4b0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "published": "2026-08-05T20:05:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "acqui-hire",
+        "exit",
+        "Klaviyo",
+        "M&A"
+      ],
+      "id": "1619858f8bfb01bab62dc84faf12078c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "published": "2026-08-05T19:30:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "DeepMind",
+        "Google",
+        "Jeff Dean"
+      ],
+      "id": "41dee0fbffe4c22bca2cf3c0cf179083",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "published": "2026-08-05T15:56:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "AI search",
+        "Shopify"
+      ],
+      "id": "0108300124fb9281898e904ae1ce29cc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "published": "2026-08-05T15:46:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "ai agent",
+        "browser agent",
+        "hark"
+      ],
+      "id": "844e872cde08ee5eec964100896cd1cc",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "published": "2026-08-05T15:05:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TechCrunch Disrupt",
+        "Colossal Biosciences"
+      ],
+      "id": "d22824990e8601dff9d56ee0e086c47f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "published": "2026-08-05T14:13:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "AI chips",
+        "Anthropic",
+        "In Brief"
+      ],
+      "id": "e911d06afa88ad64ecfea1717b715cf1",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "published": "2026-08-05T12:28:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "MacPaw",
+        "Liquid AI",
+        "on device AI",
+        "offline ai"
+      ],
+      "id": "63d1078404a27aca678437b940b9e61f",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "published": "2026-08-05T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "meteorology",
+        "weather",
+        "Windborne Systems"
+      ],
+      "id": "8b3b35a1cad7676c836062940732e687",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October&#8230;",
+      "published": "2026-08-05T14:56:29+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "MIT Alumni News"
+      ],
+      "id": "ab78e492b47e5f4a5e352d8c77d6124b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
+      "published": "2026-08-05T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "ff71d16d359fb39cf4620557be41cbb9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
+      "published": "2026-08-05T08:06:40+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Space",
+        "App",
+        "Summary"
+      ],
+      "id": "ec86245c00560848099cda2306711540",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-05"
+    },
     {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
       "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
