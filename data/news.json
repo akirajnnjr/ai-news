@@ -1,7 +1,215 @@
 {
-  "last_updated": "2026-08-06T09:29:44.570623+08:00",
-  "total": 2295,
+  "last_updated": "2026-08-07T10:06:31.373533+08:00",
+  "total": 2307,
   "news": [
+    {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "published": "2026-08-06T22:43:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "ChatGPT",
+        "In Brief",
+        "jony ive",
+        "OpenAI"
+      ],
+      "id": "93553c6ca62b0cfb31a11cf4839e28bd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "published": "2026-08-06T17:34:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "230504609d1eab92a1c0205866bb5d85",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+      "published": "2026-08-06T17:00:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "AI agents",
+        "AI infranstructure"
+      ],
+      "id": "c442c2fff9afe967ae9b345ebd0d946e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+      "published": "2026-08-06T15:53:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "dating apps",
+        "ditto"
+      ],
+      "id": "a1d4b198486ef26533b335a94072b2ae",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+      "published": "2026-08-06T15:10:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "lawsuit",
+        "OpenAI"
+      ],
+      "id": "c73ffcd8d928bf4e11571f0961c69902",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "published": "2026-08-06T13:31:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Music AI",
+        "music streaming",
+        "suno",
+        "watermarking"
+      ],
+      "id": "271878c79c64a21a8ccc65586c7cb555",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+      "published": "2026-08-06T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Fundraising",
+        "Bessemer Venture Partners",
+        "e-commerce software",
+        "Gradient Ventures",
+        "recommendation engines"
+      ],
+      "id": "b98407de0bcef8e8fa633f1f98d9abe0",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "published": "2026-08-06T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Exclusive",
+        "Google",
+        "google cloud",
+        "Mirendil"
+      ],
+      "id": "574a05ceaccbf2e2cb0956c9578a66d0",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "published": "2026-08-06T12:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Google Maps"
+      ],
+      "id": "03225603b6ebcb46ece5d493ddb4f6ce",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "published": "2026-08-06T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "customer support",
+        "voice AI"
+      ],
+      "id": "54d5c5142886f6abe793ad94ff348d6f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
+      "published": "2026-08-06T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "85fc330fdd14683128df281cfcc869af",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "summary": "",
+      "published": "2026-08-06T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "a87688ff9fba7b628a971df517fb71ce",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-06"
+    },
     {
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
       "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
