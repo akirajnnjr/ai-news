@@ -1,7 +1,149 @@
 {
-  "last_updated": "2026-08-07T10:06:31.373533+08:00",
-  "total": 2307,
+  "last_updated": "2026-08-08T08:52:34.914525+08:00",
+  "total": 2316,
   "news": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "published": "2026-08-07T22:48:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI"
+      ],
+      "id": "59163ffd3cbeaf46750466943a78e19a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "published": "2026-08-07T21:30:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Rippling"
+      ],
+      "id": "c534158d528e5b564584f82e104d8cd4",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "published": "2026-08-07T16:16:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI agents",
+        "cloudflare"
+      ],
+      "id": "62678037a7feb1b265e4beccfd294771",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "published": "2026-08-07T14:22:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai coding",
+        "Airbnb",
+        "brian chesky"
+      ],
+      "id": "5f5222e53a442deff81672161cf9729f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic&#8217;s Claude constitution,&#160;it&#8217;s&#160;a theory that&#160;doesn&#8217;t&#160;paint Silicon Valley in a very flattering light.&#160;&#160; In&#160;Lepore&#8217;s&#160;upcoming book,&#160;Th",
+      "published": "2026-08-07T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "AI policy",
+        "AI regulation",
+        "Elon Musk",
+        "Jill Lepore",
+        "sam altman"
+      ],
+      "id": "681d3ebb6321805cc384a6f47b953f1b",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "summary": "Meta's total fine has racked up to $942 million in this case.",
+      "published": "2026-08-07T11:40:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "child safety",
+        "Meta"
+      ],
+      "id": "141bf02357552abb261d8fe5123e3a68",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
+      "published": "2026-08-07T14:20:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "f987acd1697bec21219c907bfe2468cd",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;",
+      "published": "2026-08-07T14:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Policy",
+        "Tech Policy"
+      ],
+      "id": "ad57289b5724ac8c86b20f8199f532ef",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "summary": "",
+      "published": "2026-08-07T17:53:32+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "420b06b98db6442dcff17b3a7858e75c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-08"
+    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
