@@ -1,7 +1,208 @@
 {
-  "last_updated": "2026-08-10T08:57:42.168596+08:00",
-  "total": 2322,
+  "last_updated": "2026-08-11T08:56:53.629752+08:00",
+  "total": 2335,
   "news": [
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "published": "2026-08-11T00:03:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "OpenAI"
+      ],
+      "id": "b5e0104f574c505ddc4a116ba34442d5",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "published": "2026-08-10T23:56:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Mythos",
+        "OpenAI"
+      ],
+      "id": "48cf888df40480174853e169dd093af8",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "published": "2026-08-10T20:53:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Mark Zuckerberg"
+      ],
+      "id": "559fae1965599d6d964d8b8a7b6cae08",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "published": "2026-08-10T20:04:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "openclaw"
+      ],
+      "id": "9f4258eff4d02539395a594529ffb43c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+      "published": "2026-08-10T16:20:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Mark Zuckerberg",
+        "Meta",
+        "Meta Superintelligence",
+        "superintelligence"
+      ],
+      "id": "4662a98c4da9d5a35fdeb378bc1ce210",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "published": "2026-08-10T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Exclusive",
+        "microchips"
+      ],
+      "id": "ee092482a3ff90447be5bb5aa17e06c9",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
+      "published": "2026-08-10T20:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence"
+      ],
+      "id": "1281650c995b37479d8a34abdf0b0040",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+      "published": "2026-08-10T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "1e1aa73b47f53fe7fcd460eb1ad6fd4c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
+      "published": "2026-08-10T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "App"
+      ],
+      "id": "20c95f3fe530637aa20e4c33a4a7775e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+      "published": "2026-08-10T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary",
+        "What's Next in Tech"
+      ],
+      "id": "6859719fca470ba62d106d89593a4e0e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "summary": "",
+      "published": "2026-08-10T16:25:36+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8bec2762d3f70f8f63f47f32e40f0946",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "summary": "",
+      "published": "2026-08-10T10:05:36+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "98a69bb3881bfcb44e7bdbb5735fcbc0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "summary": "",
+      "published": "2026-08-10T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "89474050a4cddc883498cab6cf379441",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-10"
+    },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
