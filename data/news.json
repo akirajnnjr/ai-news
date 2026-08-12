@@ -1,7 +1,225 @@
 {
-  "last_updated": "2026-08-11T08:56:53.629752+08:00",
-  "total": 2335,
+  "last_updated": "2026-08-12T09:03:29.072781+08:00",
+  "total": 2348,
   "news": [
+    {
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "published": "2026-08-11T20:59:52+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Google",
+        "Security",
+        "account takeovers",
+        "dbscs",
+        "device bound session credentials",
+        "session cookie",
+        "session cookie theft"
+      ],
+      "id": "7b9d1dbb96d842154263be94fe7ac3f5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "summary": "Why passkey apps treat Windows differently than other operating systems.",
+      "published": "2026-08-11T11:30:08+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Features",
+        "Security",
+        "authentication",
+        "Google password manager",
+        "passkeys",
+        "Windows"
+      ],
+      "id": "58b1fd78b9ac17c8cdab7e67d96bd75f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "published": "2026-08-11T21:39:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Accel"
+      ],
+      "id": "2deee44b21d97eea44880bd28ac59aa7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "published": "2026-08-11T19:15:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "ChatGPT",
+        "codex",
+        "In Brief",
+        "linux",
+        "OpenAI"
+      ],
+      "id": "c836abb2e39288469fe6dcdaef605b3d",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "published": "2026-08-11T18:49:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google"
+      ],
+      "id": "61f03f2379bc9dfa6cd3858879b03c3e",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "published": "2026-08-11T17:41:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Brad Lightcap",
+        "OpenAI"
+      ],
+      "id": "b8d07c245c74a0b30a4e47a0fcfa3086",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "published": "2026-08-11T17:41:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "General Catalyst"
+      ],
+      "id": "3571ff97a4b1f223f5c01fb95a2362eb",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "published": "2026-08-11T16:25:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "mathematics"
+      ],
+      "id": "a3990db1706fbc22447a7992be4f6b5a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "published": "2026-08-11T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Spotify"
+      ],
+      "id": "636a0618aace15d2ae3e463030889451",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "published": "2026-08-11T12:13:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "claude code",
+        "watermarks"
+      ],
+      "id": "387a273ab49a595d3a8090c857a3d352",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.&#160; And the reason? R/FIMI, as the office&#8230;",
+      "published": "2026-08-11T17:58:57+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Policy",
+        "Tech Policy"
+      ],
+      "id": "ab860a0461b9facfeaea77a29c952fdd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
+      "published": "2026-08-11T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "1e9dd24f2729094c350d342307a6b5e5",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "summary": "",
+      "published": "2026-08-11T13:37:10+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "e55e02c2188cee4e6887f720cf7a64ac",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-11"
+    },
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
