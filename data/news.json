@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-08-12T09:03:29.072781+08:00",
-  "total": 2348,
+  "last_updated": "2026-08-12T15:03:18.747558+08:00",
+  "total": 2349,
   "news": [
+    {
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "published": "2026-08-12T00:08:40+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security"
+      ],
+      "id": "8de93a1f4b2a0931fc857eb654d8711f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-12"
+    },
     {
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
       "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
