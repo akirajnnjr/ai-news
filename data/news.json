@@ -1,7 +1,336 @@
 {
-  "last_updated": "2026-08-12T15:03:18.747558+08:00",
-  "total": 2349,
+  "last_updated": "2026-08-13T09:04:59.041211+08:00",
+  "total": 2368,
   "news": [
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "published": "2026-08-12T21:43:21+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "litellm",
+        "supply chain attacks",
+        "teampcp"
+      ],
+      "id": "04a3c04ecceac20c3f80ed6369610021",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "published": "2026-08-12T22:26:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "watermarks"
+      ],
+      "id": "79ba0d5b9ddaf8f20889938c97813c60",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "published": "2026-08-12T20:10:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "Amazon",
+        "Twitch"
+      ],
+      "id": "0e1a976108c71a3d479219e2a4937d0e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "published": "2026-08-12T18:19:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "cognition",
+        "In Brief"
+      ],
+      "id": "fedb51cc07b1d84a5a94c18edffe77f9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+      "published": "2026-08-12T17:51:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "andrew ng",
+        "Artificial Intelligence (AI)",
+        "Fei-Fei Li",
+        "Geoffrey Hinton",
+        "tech regulation"
+      ],
+      "id": "b77f0ff8e5502479a3562eebb6197be2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "published": "2026-08-12T17:41:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Venture",
+        "Enterprise AI",
+        "Thrive Capital",
+        "thrive holdings"
+      ],
+      "id": "2fd40c918be855216ae767e5bb820dfe",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "published": "2026-08-12T16:57:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "android apps",
+        "Automattic",
+        "mesh"
+      ],
+      "id": "667e84b17d073839a17b76fc1a655b83",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
+      "published": "2026-08-12T16:46:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Startups",
+        "AI wearables",
+        "Sandbar",
+        "stream"
+      ],
+      "id": "d4e662e0ffa5f326b2b1a3705ed78cf3",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "published": "2026-08-12T16:04:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Lovable"
+      ],
+      "id": "a8dd77df5184aa34652c738fc91011dc",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "published": "2026-08-12T15:44:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "fraud",
+        "Mergers and Acquisitions",
+        "video clips"
+      ],
+      "id": "4aad839266449a126158a8c54aa4d402",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
+      "published": "2026-08-12T14:22:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Startups",
+        "AI hardware",
+        "Sandbar",
+        "wearables"
+      ],
+      "id": "d1915a50c5cc392a49e4d2bd88130c9c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "published": "2026-08-12T14:20:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "gemini",
+        "Google",
+        "Google Pixel",
+        "Made by Google"
+      ],
+      "id": "6a49c4b6a0a3e412228f48912489913b",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "published": "2026-08-12T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Blacksmith",
+        "Exclusive",
+        "GV",
+        "Peak XV Partners",
+        "Y Combinator"
+      ],
+      "id": "618c36a0317edf70cd221d19ea7d49eb",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Scientists just created female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;",
+      "published": "2026-08-12T18:59:48+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "0b5cc6d916709617bcc54658dabc5f31",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+      "published": "2026-08-12T16:51:57+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "afc23a12a580d45a5cd6ffebce6a1b69",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;",
+      "published": "2026-08-12T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "aa04d9fec56dd3410556a70fe939c202",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "How we picked 35 of the world’s top young scientists and engineers",
+      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they’re focused on in their work,&#8230;",
+      "published": "2026-08-12T09:08:40+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App",
+        "TR35 2026"
+      ],
+      "id": "2c99e5ba2cdcfc4f1fdf73a2c7372532",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "summary": "",
+      "published": "2026-08-12T16:14:36+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "1110b810dc4dcfbad259c21d1e88926a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "summary": "",
+      "published": "2026-08-12T14:00:51+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9fea4b35a86fb761cc35f831a624adb5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-12"
+    },
     {
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
       "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
