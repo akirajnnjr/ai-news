@@ -1,7 +1,302 @@
 {
-  "last_updated": "2026-08-13T09:04:59.041211+08:00",
-  "total": 2368,
+  "last_updated": "2026-08-14T09:04:12.082140+08:00",
+  "total": 2386,
   "news": [
+    {
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "published": "2026-08-13T19:38:58+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Policy",
+        "Security",
+        "cyber",
+        "presidential memorandum",
+        "White House"
+      ],
+      "id": "e25b41ad1a2a22bcebfd81b19c3f6064",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "published": "2026-08-13T21:13:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "writer",
+        "Z.ai"
+      ],
+      "id": "539d991b17b150c976ddb39134ec7dc7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "published": "2026-08-13T20:14:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Databricks"
+      ],
+      "id": "7261e6583d8e84ce7ddde3811fc833db",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "published": "2026-08-13T19:22:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "ChatGPT",
+        "Claude",
+        "In Brief",
+        "OpenAI"
+      ],
+      "id": "459413c052960c038377ef0c38b4807a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "published": "2026-08-13T19:19:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "IBM",
+        "OpenAI"
+      ],
+      "id": "b377fa89f3ad152d5e1d6e4218e33c19",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "published": "2026-08-13T18:28:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "AI agents",
+        "alignment",
+        "Anthropic",
+        "black hat",
+        "cybersecurity",
+        "OpenAI"
+      ],
+      "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "published": "2026-08-13T17:07:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI"
+      ],
+      "id": "9a1de941a4f8ef98b8f7e35783f5e269",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "published": "2026-08-13T15:30:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Copilot",
+        "Microsoft"
+      ],
+      "id": "ae02d5bda82cc078f6d3abf7324bdbf1",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "published": "2026-08-13T15:08:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "nvidia"
+      ],
+      "id": "7e37825fb53ff2ee9198f836abd133ec",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "published": "2026-08-13T14:34:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "In Brief",
+        "siri"
+      ],
+      "id": "f31b1a5b40ca366de1edb83b6f6d43e9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
+      "published": "2026-08-13T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Policy",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "a5a20f629efcba2d5d073577002aa34d",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Building a practical path to post-quantum cryptography",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
+      "published": "2026-08-13T18:11:42+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "sponsored"
+      ],
+      "id": "bba9e9847cb15e0cc58f82d303c8f9d4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
+      "published": "2026-08-13T13:41:10+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "c22abf289983f3060a9701399c0f35da",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+      "published": "2026-08-13T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "967189fe76c5782f2e815466dc866369",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over yet, but some scientists are already looking ahead&#8230;",
+      "published": "2026-08-13T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "f3f772b809a9a3156a5f1ea60c017646",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+      "published": "2026-08-13T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "599ea52fc1f6bec35e8ff8a758bd5015",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "summary": "",
+      "published": "2026-08-13T17:16:04+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "24013c064501e2fcce5bd97cd1768ef4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "summary": "",
+      "published": "2026-08-13T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "a67f3eaa80ec43ce3ead60c3b16bcdc2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-13"
+    },
     {
       "title": "Terabytes of credentials leaked in massive supply-chain attack",
       "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
