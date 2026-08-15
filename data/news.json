@@ -1,7 +1,234 @@
 {
-  "last_updated": "2026-08-14T09:04:12.082140+08:00",
-  "total": 2386,
+  "last_updated": "2026-08-15T08:38:41.638528+08:00",
+  "total": 2399,
   "news": [
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+      "published": "2026-08-14T18:32:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Apple",
+        "Biz & IT",
+        "Security",
+        "apple",
+        "exploits",
+        "MacOS",
+        "Macs",
+        "screen sharing",
+        "vulnerabilities"
+      ],
+      "id": "42265dd89fc3ace920d30ff26a155257",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "published": "2026-08-14T17:03:54+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "cloud",
+        "cloud storage",
+        "data center",
+        "PBS"
+      ],
+      "id": "3874b2e5cffebaf062613a6a81b5668c",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "published": "2026-08-14T14:27:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Anthropic",
+        "openai",
+        "syndication"
+      ],
+      "id": "30442beeaf4c72d615fb0ee1caa70956",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "published": "2026-08-14T16:13:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google",
+        "In Brief",
+        "watermarks"
+      ],
+      "id": "0e0aa648101264aa2f9a823cf309735c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+      "published": "2026-08-14T15:43:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Amazon",
+        "Anthropic",
+        "data centers",
+        "Joby Aviation",
+        "Mark Zuckerberg",
+        "Meta"
+      ],
+      "id": "d0a06ebad8a62813c06f0091c01ce040",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "published": "2026-08-14T14:50:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI inference"
+      ],
+      "id": "042796346f67c2669c5cbfa732f34119",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "published": "2026-08-14T14:05:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Amazon",
+        "Exclusive",
+        "Google",
+        "Meta",
+        "Microsoft",
+        "natural gas"
+      ],
+      "id": "0fccedf8ea195bfb949e8a73d9fa413e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+      "published": "2026-08-14T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Amazon",
+        "Anthropic",
+        "Equity podcast",
+        "Joby Aviation",
+        "Meta"
+      ],
+      "id": "81e5cc10e8e1ab9793207cb3636bb1ec",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+      "published": "2026-08-14T12:17:21+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "9ede57eacc418bcc41cc4d4b3c97c5a7",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
+      "published": "2026-08-14T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App"
+      ],
+      "id": "809a6ceeb0f2b71ba4a53de1782671e2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.&#160; The experiences earned him “the&#8230;",
+      "published": "2026-08-14T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Space",
+        "App"
+      ],
+      "id": "19bcbe11240d7424b57afb6579cf06ee",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.&#8230;",
+      "published": "2026-08-14T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "1cc51220b4af321679b6130a1ecec439",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "summary": "",
+      "published": "2026-08-14T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "ef1921536119b77794409ac62088a520",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-14"
+    },
     {
       "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
       "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
