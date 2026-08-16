@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-08-15T08:38:41.638528+08:00",
-  "total": 2399,
+  "last_updated": "2026-08-16T08:40:27.229480+08:00",
+  "total": 2402,
   "news": [
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "published": "2026-08-15T21:29:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Grok",
+        "SpaceX",
+        "x.ai"
+      ],
+      "id": "a17d0cbb65ba7f318d2a56ec10b44891",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "published": "2026-08-15T18:58:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "published": "2026-08-15T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Elon Musk",
+        "SpaceX",
+        "cursor"
+      ],
+      "id": "e68ddcb8301126efa48080105110ba3c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-16"
+    },
     {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
