@@ -1,7 +1,56 @@
 {
-  "last_updated": "2026-08-16T08:40:27.229480+08:00",
-  "total": 2402,
+  "last_updated": "2026-08-17T08:38:25.000589+08:00",
+  "total": 2405,
   "news": [
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "published": "2026-08-16T20:57:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups"
+      ],
+      "id": "7430ad56634d75f96ac27c8711820bbd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "published": "2026-08-16T20:32:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "Mark Zuckerberg",
+        "Meta"
+      ],
+      "id": "30514dd888ea36f4401edc9b92ac9eb4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "published": "2026-08-16T16:53:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei"
+      ],
+      "id": "9eeacf6b78b6dd6218f6848794b849e1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-17"
+    },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
