@@ -1,7 +1,230 @@
 {
-  "last_updated": "2026-08-18T08:38:15.047376+08:00",
-  "total": 2418,
+  "last_updated": "2026-08-19T08:38:24.686986+08:00",
+  "total": 2432,
   "news": [
+    {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "published": "2026-08-18T13:00:04+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "copilot",
+        "exploits",
+        "guardrails",
+        "microsoft"
+      ],
+      "id": "5e6ff0a5049539ca7bc1aa4fecd8e57a",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "published": "2026-08-18T22:14:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "cursor",
+        "GitHub",
+        "spacexai"
+      ],
+      "id": "38269b8f7f4f379576a651024456e017",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "published": "2026-08-18T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "id": "0bfb066bf07c5eb367bb46d8604e14e4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "published": "2026-08-18T17:21:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "etched"
+      ],
+      "id": "506ef6f4e04268f7231b47f7b5ae18b5",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "published": "2026-08-18T16:19:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "AirPods",
+        "Apple",
+        "siri"
+      ],
+      "id": "7e22fac6343ecf27f4034f7c60d800fa",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+      "published": "2026-08-18T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI coding tools",
+        "warp"
+      ],
+      "id": "0da80d9d513f763f5b04ea3d7a951155",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "published": "2026-08-18T13:50:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "Teens"
+      ],
+      "id": "d1b640f192f62c675359ad0b507d1aca",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "published": "2026-08-18T13:45:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "Airtel",
+        "Perplexity"
+      ],
+      "id": "e9529c23366c75df8dd072b6c9cd9378",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
+      "published": "2026-08-18T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "f7758ff25a0340b86f8515a51fc2737b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+      "published": "2026-08-18T10:06:43+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "776665834bfa0c13a2f30ba777255af8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "The role of the astronaut is in flux",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;",
+      "published": "2026-08-18T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Space",
+        "App"
+      ],
+      "id": "34ce57c1aaf245211aca1cf3c72c54f8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
+      "published": "2026-08-18T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "89f9a699f7b860d9c37f31cab89b0c56",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "summary": "",
+      "published": "2026-08-18T18:09:38+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "47ea3c6cd311526be9005bcca4d7be82",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "summary": "",
+      "published": "2026-08-18T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "7550eaf867a9351996110a692cfa5a1b",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-18"
+    },
     {
       "title": "Nvidia discloses $21B stake in SpaceX",
       "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
