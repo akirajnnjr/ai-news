@@ -1,7 +1,358 @@
 {
-  "last_updated": "2026-08-20T08:38:14.905508+08:00",
-  "total": 2448,
+  "last_updated": "2026-08-21T08:40:50.543963+08:00",
+  "total": 2469,
   "news": [
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "published": "2026-08-20T13:00:35+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "cryptography",
+        "LLM security",
+        "prompt injections"
+      ],
+      "id": "2816275d64dd78f39132a99ef27e002a",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "published": "2026-08-21T00:13:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "data labeling",
+        "micro1",
+        "reinforcement learning"
+      ],
+      "id": "715aa7b8d8cb52f063bcba863124d2d9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "published": "2026-08-20T22:36:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "id": "08dddb48c1bd24f550f9585c76171adb",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "published": "2026-08-20T22:09:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "ChatGPT",
+        "In Brief",
+        "OpenAI"
+      ],
+      "id": "fc53f9f20e6ec49bdd7f4a7a90f09960",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "published": "2026-08-20T20:53:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "data centers",
+        "Exclusive"
+      ],
+      "id": "0e5fabfe4834a67b522005a7722dfb54",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "published": "2026-08-20T19:18:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Google",
+        "Search"
+      ],
+      "id": "b359671ae1bfb83e76de8879cc3f3447",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "published": "2026-08-20T19:15:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Rippling"
+      ],
+      "id": "dc3d7ed90c79c15d952e23f4c8fcf40d",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "published": "2026-08-20T18:20:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "Hardware",
+        "smart calendar"
+      ],
+      "id": "501a92a0a8133cd83490f806b7c4a230",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "published": "2026-08-20T17:32:16+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Grok",
+        "xAI"
+      ],
+      "id": "90eae5e4b71e5ca6b3281c2d72e30d8b",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "published": "2026-08-20T17:18:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "pew research"
+      ],
+      "id": "072ab33f0182f13783841e8a0a9dd0d6",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "published": "2026-08-20T16:46:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "corporate expense management",
+        "openrouter",
+        "Ramp"
+      ],
+      "id": "28cd1afbb67e577e7314b1f44dc3c68f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "published": "2026-08-20T16:07:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Gaming",
+        "Social",
+        "Meta",
+        "vibe-coding"
+      ],
+      "id": "a73f5aa32c52d997c8d23c52ae223380",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+      "published": "2026-08-20T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Exclusive",
+        "fusion power",
+        "Inertia Enterprises"
+      ],
+      "id": "78b8e28299133e43e8c86dc04a4a5b25",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
+      "published": "2026-08-20T12:11:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "In Brief",
+        "Meta",
+        "meta ai"
+      ],
+      "id": "aca5b20236936ca4a8dd4bc368501708",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
+      "published": "2026-08-20T09:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Crypto",
+        "Binance",
+        "AI agents"
+      ],
+      "id": "ad5059a21e1bb200b1d533573d0ff4b0",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+      "published": "2026-08-20T15:42:39+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Opinion"
+      ],
+      "id": "5e86b723ff64bcfe73052eb025e81c97",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;",
+      "published": "2026-08-20T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "4ad78b2d3b31558dc3c1e0874763623e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "The next big thing in hydrogen could be underground",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+      "published": "2026-08-20T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "20d0e9fe5e74ee0b9767fc3555e7db42",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
+      "published": "2026-08-20T09:47:22+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "546c18a8a2cdd3a0ce276d7805b75d64",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Support networks aim to help kids through the polycrisis",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+      "published": "2026-08-20T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "f13376a8d8ed762485896de9629d0723",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "summary": "",
+      "published": "2026-08-20T16:52:57+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "b1eabc16d142bc5de468e0164652302e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
