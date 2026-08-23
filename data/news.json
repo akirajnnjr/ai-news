@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-08-22T08:38:18.689107+08:00",
-  "total": 2480,
+  "last_updated": "2026-08-23T08:41:37.415629+08:00",
+  "total": 2484,
   "news": [
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "published": "2026-08-22T21:46:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Harvard Business School"
+      ],
+      "id": "480d7ab40672be7790e59678fa0dc20a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "published": "2026-08-22T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "London",
+        "google deepmind"
+      ],
+      "id": "f264c057671cd86d4444910e93407ee2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "published": "2026-08-22T16:30:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "OpenAI",
+        "sb 53"
+      ],
+      "id": "39119bad22dbbf0e98d96157ef02ef70",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "published": "2026-08-22T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "alignment",
+        "Anthropic",
+        "Google",
+        "Hugging Face",
+        "Meta",
+        "OpenAI",
+        "xAI"
+      ],
+      "id": "796f7a9c48e9a9c827ae0aeb2eaff187",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-23"
+    },
     {
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
