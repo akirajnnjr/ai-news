@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-25T08:39:32.775526+08:00",
-  "total": 2500,
+  "last_updated": "2026-08-25T14:23:15.054498+08:00",
+  "total": 2501,
   "news": [
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "summary": "",
+      "published": "2026-08-25T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "3a9a9569747555fe4c323bcbedb1ada5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-25"
+    },
     {
       "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
       "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
