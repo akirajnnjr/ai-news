@@ -1,7 +1,212 @@
 {
-  "last_updated": "2026-08-24T08:40:03.041053+08:00",
-  "total": 2488,
+  "last_updated": "2026-08-25T08:39:32.775526+08:00",
+  "total": 2500,
   "news": [
+    {
+      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+      "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+      "published": "2026-08-24T19:19:21+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "AliExpress",
+        "browser fingerprinting",
+        "chromium",
+        "firefox",
+        "Safari"
+      ],
+      "id": "94db66a3eaa6a28084aff5f1f085d5f6",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "published": "2026-08-25T00:23:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "32cda19d8db8e2104eda8e4a8ddcba89",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "published": "2026-08-24T21:24:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "SpaceX",
+        "Donald Trump",
+        "In Brief"
+      ],
+      "id": "894769239e7b4f268c084153dd9a1b3c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "published": "2026-08-24T19:54:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Amjad Masad",
+        "Replit",
+        "TechCrunch Disrupt"
+      ],
+      "id": "7e3bc60a8a1a8cb9ddc6bbe9ec9bff56",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "published": "2026-08-24T18:03:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Privacy",
+        "Security",
+        "AI assistants"
+      ],
+      "id": "a34ef28c4aefb76a06bcb7a3e7e472b9",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "published": "2026-08-24T15:24:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Venture",
+        "Exclusive",
+        "general intuition",
+        "Point72 Ventures",
+        "robotics",
+        "valor equity partners"
+      ],
+      "id": "0565e9e7b15462453617942efe24a0de",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "published": "2026-08-24T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive",
+        "OpenAI"
+      ],
+      "id": "e0099f0b8b4510a5003a5469d7437e6e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "published": "2026-08-24T13:47:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Hugging Face",
+        "Mergers and Acquisitions",
+        "open source"
+      ],
+      "id": "aa2dd08ad7dad188d29ea711a18b83e7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+      "published": "2026-08-22T01:31:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health"
+      ],
+      "id": "8014b9bf1f1852249ef2111ba7bc1b1c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+      "published": "2026-08-24T14:20:19+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence"
+      ],
+      "id": "b11795f5f35fac996356dbd34e8d3abf",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times&#8230;",
+      "published": "2026-08-24T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7d7123f38c6e010d61b1c26916892a8d",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+      "published": "2026-08-24T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "b781f4c498aeab9da0cce670fc2acbb2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-24"
+    },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
