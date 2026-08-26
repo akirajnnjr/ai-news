@@ -1,7 +1,312 @@
 {
-  "last_updated": "2026-08-25T14:23:15.054498+08:00",
-  "total": 2501,
+  "last_updated": "2026-08-26T08:40:17.256987+08:00",
+  "total": 2521,
   "news": [
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "published": "2026-08-26T00:06:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "8c02d9ad51cf3f91b4508f851685e0a6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "published": "2026-08-25T19:03:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Stability AI",
+        "Stable Diffusion"
+      ],
+      "id": "5d321e71ab652c82f5ceeff9cdb41f71",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "published": "2026-08-25T17:50:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Anthropic",
+        "Claude"
+      ],
+      "id": "c315b9a7b90f275cf3941354afd8d292",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "summary": "Lica co-founders are going to work on Gamma's new research team.",
+      "published": "2026-08-25T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Accel",
+        "AI design tools",
+        "Gamma",
+        "Mergers and Acquisitions",
+        "presentaiton"
+      ],
+      "id": "eb2b72187dea4f575fa0c7cad6c1f338",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "published": "2026-08-25T14:22:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Broadcom",
+        "OpenAI"
+      ],
+      "id": "6017c27dc638b35abd3a25702d399690",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "published": "2026-08-25T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "AI agents",
+        "Exclusive",
+        "search engines",
+        "Yandex"
+      ],
+      "id": "944b086394f24a2015d614b3e8b907b7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "published": "2026-08-25T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive",
+        "OpenAI"
+      ],
+      "id": "93a87e369cbc918325dfe7fc44fc3af3",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "6dd838eaeef2aa4dde044fd655c22e5a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "YouTuber finds niche as college admissions mentor",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "79bd0379ef18b70d1cd33d78e09a7254",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Launching youth entrepreneurship",
+      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "3a050818ab174ac5182259264932f765",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "A new stamp on cyberfraud prevention",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "045a74f06f0a33e4e0689aac611b4961",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "AgeLab research inspires an A I startup",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "fe402d05e76097c7699f7e5e75317249",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Amping up T cells to target cancer",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "332bf2a8f75e76045677340796427520",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Taking your temperature from the inside",
+      "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
+      "summary": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a size of just six by four&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "c4c366b140c94e16f320a64567ba37de",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Seeing through murky waters",
+      "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "d4d8502b94d2dc0c78f051ae705f1ec5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Your brain on AI",
+      "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+      "summary": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.&#160; Participants who evaluated paired news headlines and images over the course of four weeks were initially 21% percent more accurate at telling&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "972367dd0b3a8ace6ed4c9109dacecd9",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "MIT tech powered the Artemis II livestreams",
+      "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
+      "summary": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-­frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Artemis II Orion mission in April, spacecraft transmitted crystal-clear footage at speeds on par with those of home internet connections.&#160; The livestreams so many&#8230;",
+      "published": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "a16120da43b2c4755e1ef19afb1eb1d8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "summary": "",
+      "published": "2026-08-25T15:14:14+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "6ad1fb7a7cca52ebe250f4279ed2b7af",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "summary": "",
+      "published": "2026-08-25T11:39:24+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "ba39c4d2772e87d6ab93af5666dec6b5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "summary": "",
+      "published": "2026-08-21T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "b00c3e470b5b4bd09dba21a3e496c4be",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-21"
+    },
     {
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "url": "https://huggingface.co/blog/gradio-workflow-guide",
