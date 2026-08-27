@@ -1,7 +1,237 @@
 {
-  "last_updated": "2026-08-27T13:44:35.858255+08:00",
-  "total": 2546,
+  "last_updated": "2026-08-28T00:58:12.279051+08:00",
+  "total": 2559,
   "news": [
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But wh",
+      "published": "2026-08-27T14:01:00+00:00",
+      "source": "VentureBeat AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "975b7811b08d88930ac63773e13cbf89",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met i",
+      "published": "2026-08-27T12:01:00+00:00",
+      "source": "VentureBeat AI",
+      "original_categories": [
+        "AI",
+        "Security"
+      ],
+      "id": "b6edaf7b0dd82ef73d3edea940dfbc50",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "published": "2026-08-27T14:00:13+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Features",
+        "Security",
+        "AI agents",
+        "infections",
+        "LLMs",
+        "malware"
+      ],
+      "id": "89693ce42c5cd79eadf585ab29dfaa42",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "published": "2026-08-27T12:58:59+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "AI agents",
+        "Hugging Face",
+        "LLMs",
+        "openai"
+      ],
+      "id": "6ebcc7edcc4c3498803951a50e7c9089",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
+      "published": "2026-08-27T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Google"
+      ],
+      "id": "a88aee5f66748cd232a65cf635db8fd1",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "summary": "Hugging Face is taking orders for the Microduck, a $399 tiny open source duck robot that developers can train at home out of the box.",
+      "published": "2026-08-27T14:56:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Hugging Face",
+        "open source",
+        "pollen robotics",
+        "robots"
+      ],
+      "id": "bbba8e91cbe63a8e2ff5ed1a1ecf0f39",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "AI’s memory crunch is coming for Android apps",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "published": "2026-08-27T14:27:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Android",
+        "developers",
+        "Google"
+      ],
+      "id": "6df4843f350acfffb1d901cedca9e11a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "published": "2026-08-27T14:01:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "cybersecurity",
+        "hacking",
+        "Hugging Face",
+        "Irregular",
+        "Meta",
+        "meta ai",
+        "OpenAI"
+      ],
+      "id": "d0a5ac6877d1308098e485953b77596d",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "published": "2026-08-27T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "AI hardware",
+        "AI notetaker",
+        "earbuds",
+        "plaud"
+      ],
+      "id": "faa1a03b9722b98260d72708737a156c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "published": "2026-08-27T11:35:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Ads",
+        "ChatGPT",
+        "ChatGPT Go",
+        "OpenAI"
+      ],
+      "id": "9f21c491f2511145af378038e3812df6",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "published": "2026-08-27T06:32:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hugging Face",
+        "nvidia"
+      ],
+      "id": "7a131e105527fce8345a50c8252799a7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with&#8230;",
+      "published": "2026-08-27T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "96b419a5cc44396ca77f42616119b4fa",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems&#8230;",
+      "published": "2026-08-27T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "6aeb201278c1883b49cb8ed40ce5b774",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-27"
+    },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
