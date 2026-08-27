@@ -1,7 +1,391 @@
 {
-  "last_updated": "2026-08-26T14:25:28.854974+08:00",
-  "total": 2523,
+  "last_updated": "2026-08-27T13:44:35.858255+08:00",
+  "total": 2546,
   "news": [
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand s",
+      "published": "2026-08-26T14:30:00+00:00",
+      "source": "VentureBeat AI",
+      "original_categories": [
+        "AI",
+        "Orchestration"
+      ],
+      "id": "c6f5e02f3dc5ba063c8abeb4dd64a2c1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "published": "2026-08-26T21:25:27+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "job losses",
+        "jobs",
+        "meta"
+      ],
+      "id": "7e1703c40fda632b80beead8ad584fa1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "published": "2026-08-27T00:24:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Funding",
+        "Startups"
+      ],
+      "id": "dff9dc0737a40c9b66085c013be8bd01",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "published": "2026-08-26T23:47:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Amazon",
+        "nvidia"
+      ],
+      "id": "18acc42de8d17184366653a0c08a6d77",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "published": "2026-08-26T21:37:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "nscale",
+        "nvidia",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "id": "e8aad19178f24e34bee2582b75014ff0",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "published": "2026-08-26T19:37:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "Google",
+        "google gemini"
+      ],
+      "id": "838ca76e929f068817825954debef2bf",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "published": "2026-08-26T19:34:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "greg brockman",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "a65015085aa139631016907df6fd91bb",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "published": "2026-08-26T19:05:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "id": "0f701375c211f419f9baafe4fdf5844e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "published": "2026-08-26T15:47:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Startups",
+        "particle",
+        "podcasts"
+      ],
+      "id": "cbe393ca06449a5bc33cd0ddf81072ca",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "published": "2026-08-26T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Meta",
+        "perceptron",
+        "Startups"
+      ],
+      "id": "11d87780114395c6be35cb3a559d0b34",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "published": "2026-08-26T14:37:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Bill Gates",
+        "In Brief"
+      ],
+      "id": "a09ccde75b1bdbb6ccd0af462d2dbc50",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "published": "2026-08-26T14:19:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "GLM",
+        "In Brief",
+        "open weight",
+        "Z.ai"
+      ],
+      "id": "f3d6254f8558d729addb61127c2362ae",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "summary": "Robot bodies are waiting for their AI brains to catch up.",
+      "published": "2026-08-26T13:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "physical ai"
+      ],
+      "id": "9744030eca87930398163cf2bb078601",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "published": "2026-08-26T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive"
+      ],
+      "id": "9831f37a70b7fd13341e6acb2e41a055",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "published": "2026-08-26T12:55:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "AI agents"
+      ],
+      "id": "26bfb8eb611d8fcb3d6974627e932897",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "published": "2026-08-26T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Startups",
+        "accessibility",
+        "hearing aid",
+        "smartglasses"
+      ],
+      "id": "c7519cb8e61684b680b33580a238cc35",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "published": "2026-08-26T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Exclusive",
+        "Nexus Venture Partners",
+        "Susquehanna Asia Venture Capital"
+      ],
+      "id": "d56bb99852c0c14254bb5d868dd53432",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+      "published": "2026-08-26T19:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "db5b8f4203cbf5b41737e4319746c22e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
+      "published": "2026-08-26T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7a6b849c83240fc3d3e667258beea349",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+      "published": "2026-08-26T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "606181c5d71a0cc75fd9ddb2de377a0d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+      "published": "2026-08-26T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "8e8985dedaaeb0be6883c0374a34ac22",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+      "published": "2026-08-26T07:01:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "App",
+        "Bill Gates"
+      ],
+      "id": "a1de5e17b3b144fe8bd8c9530fe7c092",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "summary": "",
+      "published": "2026-08-26T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "cea6b0e8b8917ceaed4e9783b6bbcaa5",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-08-26"
+    },
     {
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
       "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
