@@ -1,7 +1,93 @@
 {
-  "last_updated": "2026-08-28T15:53:17.023408+08:00",
-  "total": 2563,
+  "last_updated": "2026-08-29T01:48:02.088919+08:00",
+  "total": 2568,
   "news": [
+    {
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+      "published": "2026-08-28T11:15:05+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "law enforcement",
+        "supply chain attacks",
+        "teampcp",
+        "worms"
+      ],
+      "id": "ed82d3e7384040563a79f606702e0264",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "published": "2026-08-28T12:46:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dod",
+        "pete hegseth",
+        "supply chain risk"
+      ],
+      "id": "0a012eb5128e9efb966b43a7514ac4fc",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "published": "2026-08-28T12:21:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "Meta",
+        "OpenAI",
+        "people moves"
+      ],
+      "id": "354d791d28ecaaab24afea29bd2492a4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+      "published": "2026-08-28T12:35:27+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "b623714fb3a874ce2332d63dec01a7fa",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;",
+      "published": "2026-08-28T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "How To"
+      ],
+      "id": "5cb4d68d3c612fb7df3667509c5dfe6d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-28"
+    },
     {
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
