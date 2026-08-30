@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-29T12:46:23.821648+08:00",
-  "total": 2572,
+  "last_updated": "2026-08-30T10:24:09.824236+08:00",
+  "total": 2575,
   "news": [
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "published": "2026-08-29T18:41:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "id": "0d18d5472b0375ae5850c2fc0a029608",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "published": "2026-08-29T17:36:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "TC",
+        "Andreessen Horowitz",
+        "Vijay Pande"
+      ],
+      "id": "619cf37e65ee567901d21fe335141003",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "published": "2026-08-29T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "AI",
+        "nvidia",
+        "GPU"
+      ],
+      "id": "e277e4a4618df51612b5dcc8ba38f6cb",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-29"
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
