@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-08-30T10:24:09.824236+08:00",
-  "total": 2575,
+  "last_updated": "2026-08-31T10:18:56.922785+08:00",
+  "total": 2578,
   "news": [
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "summary": "The company is testing robots on tasks that can performed by technicians.",
+      "published": "2026-08-30T11:03:47+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "ai data centers",
+        "data centers",
+        "Shoot Many Robots",
+        "syndication"
+      ],
+      "id": "ae6b0e68082cd55ea8949bbf475fa02f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "published": "2026-08-30T16:54:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "d5dafdd78fb614c58137b42df47be9de",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "published": "2026-08-30T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "caterpillar",
+        "mining"
+      ],
+      "id": "e4de3653e651c8746b7de2faedfff614",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-30"
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
