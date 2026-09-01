@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-01T10:36:44.780940+08:00",
-  "total": 2589,
+  "last_updated": "2026-09-01T18:38:30.830792+08:00",
+  "total": 2590,
   "news": [
+    {
+      "title": "How engineered microbes could help feed the world’s crops",
+      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
+      "published": "2026-09-01T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "9eb16bd4980d3a42e9ba89c23c61d831",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-01"
+    },
     {
       "title": "Think twice before installing this device promising free movies",
       "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
