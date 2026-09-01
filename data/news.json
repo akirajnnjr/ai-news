@@ -1,7 +1,182 @@
 {
-  "last_updated": "2026-08-31T19:59:22.699439+08:00",
-  "total": 2579,
+  "last_updated": "2026-09-01T10:36:44.780940+08:00",
+  "total": 2589,
   "news": [
+    {
+      "title": "Think twice before installing this device promising free movies",
+      "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
+      "published": "2026-08-31T16:33:38+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "media streaming",
+        "proxy networks",
+        "remote access"
+      ],
+      "id": "dae4ee4cb78bc1ed8b4f6f32f281bc95",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "published": "2026-09-01T00:13:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "id": "00adf4a54ce8a9f46b298d3eaf5f3e9f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "published": "2026-08-31T20:13:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "Grok"
+      ],
+      "id": "77b770af978c39334da0ebd9f9aeb0e2",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "published": "2026-08-31T19:16:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Instagram",
+        "Meta"
+      ],
+      "id": "72b2e2fa10252d2f5f234e571baca2f5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "published": "2026-08-31T18:35:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Startups",
+        "Las Olas Venture Capital",
+        "police",
+        "signalfire"
+      ],
+      "id": "c24cafe651857fc1ca331b9e1404dee2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "published": "2026-08-31T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "ai agent",
+        "Generative AI"
+      ],
+      "id": "773b325bd3a66ba6aa870c55dab75f8d",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "published": "2026-08-31T15:15:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "AI chips",
+        "data centers",
+        "MediaTek",
+        "nvidia"
+      ],
+      "id": "70a6777661763c798673b1a5c508649d",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
+      "published": "2026-08-31T12:56:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "circleback",
+        "Meeting notetakers"
+      ],
+      "id": "2b7c320d3fa090394c2e8f87b254a2b4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "published": "2026-08-29T17:51:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Denmark"
+      ],
+      "id": "698656d72c29beda9c0d4897c4511228",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-08-30"
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+      "published": "2026-08-31T18:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "e985a8c11fb3f3371c80cff805cd8310",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
     {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
       "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
