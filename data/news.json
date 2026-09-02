@@ -1,7 +1,254 @@
 {
-  "last_updated": "2026-09-01T18:38:30.830792+08:00",
-  "total": 2590,
+  "last_updated": "2026-09-02T09:57:32.982975+08:00",
+  "total": 2605,
   "news": [
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "published": "2026-09-01T22:08:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "In Brief",
+        "Y Combinator"
+      ],
+      "id": "a6c4d5f8283c92ff113deea646817b17",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "published": "2026-09-01T21:06:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "id": "be7c65afeb758d5e8ccaa74f7c7e2c72",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "published": "2026-09-01T20:53:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Android",
+        "Google"
+      ],
+      "id": "62b6270ed2a9e933229cb44dd56b96bb",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "published": "2026-09-01T19:39:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "fable",
+        "Mythos"
+      ],
+      "id": "0b975c1752d076800f70d7d8ab257619",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "published": "2026-09-01T17:35:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "canva",
+        "Google"
+      ],
+      "id": "16ca199800c79860b6e9c584dc77e30e",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "published": "2026-09-01T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "18f7db1b68368a98686eb9befb35be35",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "published": "2026-09-01T16:31:04+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Sequoia Capital",
+        "SREs"
+      ],
+      "id": "f9f3593ed20e8f90efc398ed3a958f32",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+      "published": "2026-09-01T15:51:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Alexa",
+        "Amazon",
+        "e-commerce",
+        "shopping"
+      ],
+      "id": "4b8238ed7901a7a2326cc41755d84960",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "published": "2026-09-01T15:45:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Startups",
+        "AI agents",
+        "ai security",
+        "Greenoaks Capital",
+        "Sequoia Capital"
+      ],
+      "id": "fd6ea7e03b18ecf094d28be87b4e893c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "published": "2026-09-01T15:10:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "AI agents",
+        "families",
+        "scheduling"
+      ],
+      "id": "1010c9005f84d6dacfb273d077531051",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
+      "published": "2026-09-01T19:10:36+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Space",
+        "App",
+        "Summary"
+      ],
+      "id": "1945d1d3243f3e3d4feaaba797482648",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Making the AI-powered case for legacy modernization",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;",
+      "published": "2026-09-01T14:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "sponsored"
+      ],
+      "id": "dcfcfe164a77afe84c0cdadd36d27005",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+      "published": "2026-09-01T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c1ca73e96e07d26416ca88a6829342da",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "summary": "",
+      "published": "2026-09-01T21:39:07+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c0fa2da8b87bd26790ea65ff4b21dcae",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "summary": "",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "0f146bbd840c1766b301fab4b1bea68d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-01"
+    },
     {
       "title": "How engineered microbes could help feed the world’s crops",
       "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
