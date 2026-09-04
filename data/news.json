@@ -1,7 +1,230 @@
 {
-  "last_updated": "2026-09-03T18:14:32.090578+08:00",
-  "total": 2626,
+  "last_updated": "2026-09-04T09:58:52.670795+08:00",
+  "total": 2640,
   "news": [
+    {
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+      "published": "2026-09-03T19:52:06+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Apple",
+        "Biz & IT",
+        "Security",
+        "multi-hop",
+        "single-hop",
+        "virtual private networks",
+        "vpns"
+      ],
+      "id": "af73a18cac6604cdbc92b616dd206bfd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+      "summary": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+      "published": "2026-09-03T18:58:31+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Broadcom",
+        "virtualization",
+        "vmware"
+      ],
+      "id": "8dedf2e65f3ef09146cd769c32c418f4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "published": "2026-09-04T00:48:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Venture",
+        "crusoe"
+      ],
+      "id": "5737d6df236a93214f855c3c9f7320da",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "published": "2026-09-03T19:36:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Accel",
+        "In Brief",
+        "Mira Murati",
+        "Thinking Machines Lab"
+      ],
+      "id": "28be3fafd1e3c2c95e6c1c4f19699b54",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "published": "2026-09-03T18:37:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "ai safety",
+        "cybersecurity"
+      ],
+      "id": "f1f94c405560ff1797ef21bd024784a1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "published": "2026-09-03T18:19:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Meta"
+      ],
+      "id": "939cb98685e5e469fc4c9c52cb0f0a99",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "published": "2026-09-03T18:01:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Astra",
+        "OpenAI"
+      ],
+      "id": "1a81518cc6603810f6be099a861ddb91",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "published": "2026-09-03T16:09:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI assistant",
+        "ollie"
+      ],
+      "id": "4d0be1d61b00620c1da64f3b8e832faa",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "published": "2026-09-03T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Google",
+        "weather forecasting"
+      ],
+      "id": "9ebf8f5d0ca3e1b21f94175fc36828af",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "published": "2026-09-03T12:42:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hugging Face",
+        "Jensen Huang",
+        "Mergers and Acquisitions",
+        "nvidia"
+      ],
+      "id": "8c1744a63c3538b3006c28e39d80b373",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
+      "published": "2026-09-03T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "77da68a92e11320971cd6d82f0184fdc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "summary": "",
+      "published": "2026-09-03T13:13:48+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "aad76210e0dcff1a0c1499c000a6fd2e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "summary": "",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "980824ac6d3d02a2b00766b70bfe593a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "summary": "",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f01b512d414fc84cc9240148cf9878ea",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-03"
+    },
     {
       "title": "Agriculture relies on fossil fuels. It’s costing us.",
       "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
