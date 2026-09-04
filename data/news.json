@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-09-04T09:58:52.670795+08:00",
-  "total": 2640,
+  "last_updated": "2026-09-04T18:04:02.345183+08:00",
+  "total": 2642,
   "news": [
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "published": "2026-09-04T04:21:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive"
+      ],
+      "id": "3e1ba23902a529caa0109599532825d5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+      "published": "2026-09-04T09:25:19+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Opinion"
+      ],
+      "id": "16db96c97099d0bc51fb20b213b09256",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-04"
+    },
     {
       "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
       "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
