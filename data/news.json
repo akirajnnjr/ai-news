@@ -1,7 +1,236 @@
 {
-  "last_updated": "2026-09-04T18:04:02.345183+08:00",
-  "total": 2642,
+  "last_updated": "2026-09-05T09:59:10.838717+08:00",
+  "total": 2655,
   "news": [
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "published": "2026-09-04T22:17:36+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "AI agents",
+        "ai insecurity",
+        "openai"
+      ],
+      "id": "47c913b5e00eb4d56602cc9f0c2df02b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "summary": "Broadcom admits it put “too big a focus on VCF.”",
+      "published": "2026-09-04T17:35:02+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Broadcom",
+        "virtualization",
+        "vmware"
+      ],
+      "id": "7d041f09394dabc42a749b704fef31f4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "published": "2026-09-04T17:18:12+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "ascii smuggling",
+        "prompt injections",
+        "spam filter evasion"
+      ],
+      "id": "2001b530f7111bbe6d3772a719cb3b58",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "published": "2026-09-04T23:36:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "8VC"
+      ],
+      "id": "f48898262d8e66ea8ec84aa1d1f6c576",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "published": "2026-09-04T23:15:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "breach",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "id": "2180a1fa6f136ca7b13a3cb4551e928e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "published": "2026-09-04T21:12:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "nvidia",
+        "In Brief",
+        "compute",
+        "nscale"
+      ],
+      "id": "e160d21430aee3fab30e5d5a8923c2e0",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+      "published": "2026-09-04T17:18:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "John Ternus",
+        "nvidia",
+        "Tesla",
+        "Tim Cook"
+      ],
+      "id": "eb999a1a327aa4cae1a266790662ffdd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "published": "2026-09-04T16:21:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI"
+      ],
+      "id": "718826050bb22dee471ca54e8aaf2e90",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+      "published": "2026-09-04T16:04:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "Equity podcast",
+        "John Ternus",
+        "nvidia",
+        "Tesla"
+      ],
+      "id": "08f462902e180be85493bca84b8dce60",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "published": "2026-09-04T14:47:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google Photos"
+      ],
+      "id": "8455d4164fcecab982be3690698c71ce",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "published": "2026-09-04T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "c21a7a0108f1a46a550f6b52078d73d4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+      "published": "2026-09-04T18:39:19+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "c540530472dc5bd884644e487d1b22bf",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impact on democracy, who previously served in the&#8230;",
+      "published": "2026-09-04T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "53901d2f49d089e527fc79bb24fbb641",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-04"
+    },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
