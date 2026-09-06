@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-05T09:59:10.838717+08:00",
-  "total": 2655,
+  "last_updated": "2026-09-06T09:54:17.857549+08:00",
+  "total": 2658,
   "news": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "published": "2026-09-05T22:49:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Microsoft",
+        "Newsday",
+        "OpenAI"
+      ],
+      "id": "8a7e0f31a98365d15c2c95c407b6f365",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "published": "2026-09-05T19:35:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "gemini",
+        "Google"
+      ],
+      "id": "f774e48a95a86006c0fa7702a7894421",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "published": "2026-09-05T18:05:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "id": "669fdcb55695ab82e4c4347c66e7e984",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-06"
+    },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
