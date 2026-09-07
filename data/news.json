@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-09-06T09:54:17.857549+08:00",
-  "total": 2658,
+  "last_updated": "2026-09-07T09:51:40.988545+08:00",
+  "total": 2660,
   "news": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "published": "2026-09-06T20:47:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment"
+      ],
+      "id": "3997b3420fb1db5999edc9b97fad7c3b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "published": "2026-09-06T16:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Transportation",
+        "AI",
+        "Travis Kalanick",
+        "Uber",
+        "atoms"
+      ],
+      "id": "f33b1fcaa6232afb18975662ff44ae0c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-07"
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
