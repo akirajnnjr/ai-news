@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-09-07T09:51:40.988545+08:00",
-  "total": 2660,
+  "last_updated": "2026-09-08T10:02:39.338250+08:00",
+  "total": 2662,
   "news": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "2026-09-07T19:24:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "artificial intelligence",
+        "evergreens",
+        "Glossary"
+      ],
+      "id": "a91b380c0f011ca8182b164eb4a1c594",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
+      "published": "2026-09-07T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "31c68cc130b06bd95d6563bdcbe1771b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-07"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
