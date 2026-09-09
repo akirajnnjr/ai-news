@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-09-09T10:07:30.901516+08:00",
-  "total": 2676,
+  "last_updated": "2026-09-09T18:15:12.270450+08:00",
+  "total": 2679,
   "news": [
+    {
+      "title": "Batteries just broke another record in the US",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of&#8230;",
+      "published": "2026-09-09T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "deb348052ceb8f3438d4479c81ee8558",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Understanding the thermal ceiling in portable power",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces&#8230;",
+      "published": "2026-09-09T08:18:13+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "sponsored"
+      ],
+      "id": "44bcee21d4a2700d070d4489a1f3bcd6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;",
+      "published": "2026-09-09T03:10:08+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "388663d385097dcf3a7bae1cf112e6ba",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-09"
+    },
     {
       "title": "Why this month's Microsoft patch release is a doozy",
       "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
