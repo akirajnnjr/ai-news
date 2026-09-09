@@ -1,7 +1,238 @@
 {
-  "last_updated": "2026-09-08T10:02:39.338250+08:00",
-  "total": 2662,
+  "last_updated": "2026-09-09T10:07:30.901516+08:00",
+  "total": 2676,
   "news": [
+    {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "published": "2026-09-08T21:11:46+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "LLM",
+        "vulnerability discovery"
+      ],
+      "id": "5e00d64b97a6115750c2963b551068ac",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "published": "2026-09-08T21:10:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "hackers"
+      ],
+      "id": "baf4c2ebabc9d9233db5c19e2b42b7f2",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "published": "2026-09-08T21:04:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Valuations",
+        "cursor",
+        "coding assistants",
+        "cognition"
+      ],
+      "id": "ba0725adef5efc9d81fa3cc1e19041bc",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "published": "2026-09-08T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "AI",
+        "Apps",
+        "Social",
+        "Meta",
+        "ai apps",
+        "consumer apps"
+      ],
+      "id": "20d984cb02ebaee3e1ca9293aa9a0621",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "published": "2026-09-08T17:32:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "mathematics"
+      ],
+      "id": "2372e1e4c41426420ab7a3715c11b7e4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "published": "2026-09-08T16:20:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Accenture",
+        "Enterprise AI",
+        "FDE",
+        "Google",
+        "google cloud"
+      ],
+      "id": "d081e58264cf5caa0639b35df4f1e269",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "published": "2026-09-08T15:04:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Security",
+        "AI",
+        "Chrome"
+      ],
+      "id": "95a190e6d2c58c48ba9d4c59490fd573",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "published": "2026-09-08T14:17:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Mistral AI",
+        "Samsung Electronics"
+      ],
+      "id": "f37bc5517ee731ca266c4f3d4472bb47",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;",
+      "published": "2026-09-08T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "be434c4eb2bdf50ec41a6b23b642a590",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.&#8230;",
+      "published": "2026-09-08T10:36:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "App",
+        "TR35 2026"
+      ],
+      "id": "176099a4a9e6680a3fbbc66ac9afe594",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
+      "published": "2026-09-08T10:34:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "TR35 2026"
+      ],
+      "id": "f4a18652fbacd2557759c00e6bf16b08",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It&#8230;",
+      "published": "2026-09-08T10:33:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "TR35 2026"
+      ],
+      "id": "62c6010ba97a993e5839c9b094a34994",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own&#8230;",
+      "published": "2026-09-08T10:32:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "TR35 2026"
+      ],
+      "id": "59d0330421dffab1b5d707a2c8425405",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "summary": "",
+      "published": "2026-09-08T14:23:07+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c847825e0f6890901dd56c9f387e0a57",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-08"
+    },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
