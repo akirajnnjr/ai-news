@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-09-10T10:04:43.205411+08:00",
-  "total": 2701,
+  "last_updated": "2026-09-10T18:09:30.403939+08:00",
+  "total": 2703,
   "news": [
+    {
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a&#8230;",
+      "published": "2026-09-10T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App",
+        "Features and Investigations",
+        "The Big Story"
+      ],
+      "id": "72111da39bc03554a2351751d68fa927",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who&#8230;",
+      "published": "2026-09-10T08:58:01+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "sponsored"
+      ],
+      "id": "a464529f9917ea6aa15749efc8fdc03d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-10"
+    },
     {
       "title": "4 groups caught using the same Chrome and Windows exploit kit",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
