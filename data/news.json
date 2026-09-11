@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-11T10:02:08.314113+08:00",
-  "total": 2717,
+  "last_updated": "2026-09-11T18:06:45.824710+08:00",
+  "total": 2718,
   "news": [
+    {
+      "title": "Meet the under-35s shaping the future of biotech",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are&#8230;",
+      "published": "2026-09-11T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "c92be95c051f51688cdc9bd5577741bd",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-11"
+    },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
