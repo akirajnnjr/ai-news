@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-09-12T10:07:22.786388+08:00",
-  "total": 2729,
+  "last_updated": "2026-09-13T10:03:09.854578+08:00",
+  "total": 2731,
   "news": [
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "published": "2026-09-12T20:19:16+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "22280ff70f0632d493b435fd0f50cac7",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "published": "2026-09-12T19:34:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei"
+      ],
+      "id": "82c98d9b6abfab67d1999d3e199107cd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-13"
+    },
     {
       "title": "ClickFix attacks infecting PCs and Macs are going viral",
       "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
