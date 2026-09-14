@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-09-13T10:03:09.854578+08:00",
-  "total": 2731,
+  "last_updated": "2026-09-14T10:21:01.671870+08:00",
+  "total": 2733,
   "news": [
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "published": "2026-09-13T19:40:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "Equity podcast",
+        "Anthropic"
+      ],
+      "id": "423bcba40c75a13510f9da34c700b8b3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "published": "2026-09-13T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Barack Obama",
+        "Donald Trump"
+      ],
+      "id": "6b54256d4afbc2dd74df55016529196e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-14"
+    },
     {
       "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
