@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-14T10:21:01.671870+08:00",
-  "total": 2733,
+  "last_updated": "2026-09-14T19:06:15.190986+08:00",
+  "total": 2734,
   "news": [
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "summary": "",
+      "published": "2026-09-10T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c7496952360c0e3f964ee40560730d3c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-10"
+    },
     {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
       "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
