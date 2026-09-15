@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-15T10:26:24.166596+08:00",
-  "total": 2750,
+  "last_updated": "2026-09-15T18:35:34.002821+08:00",
+  "total": 2751,
   "news": [
+    {
+      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;",
+      "published": "2026-09-15T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "03f235e72691ef06ec5ae3f2775ef8cd",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
     {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
