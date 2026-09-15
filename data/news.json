@@ -1,7 +1,288 @@
 {
-  "last_updated": "2026-09-14T19:06:15.190986+08:00",
-  "total": 2734,
+  "last_updated": "2026-09-15T10:26:24.166596+08:00",
+  "total": 2750,
   "news": [
+    {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "published": "2026-09-14T21:04:32+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "ilands",
+        "slop",
+        "spam"
+      ],
+      "id": "29ba46951f8a05b0bb0f1d59fd5a7f73",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "published": "2026-09-15T01:50:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "TC"
+      ],
+      "id": "10beddd2fb18eb16b238029b0a280b0c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "published": "2026-09-14T21:51:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "71b2c4f295f24956b15b3f59eb9d33ac",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "published": "2026-09-14T20:44:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "In Brief",
+        "Mergers and Acquisitions",
+        "OpenAI"
+      ],
+      "id": "4dd932ed2d93b38f8521a88981231307",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "With iOS 27, I’m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "published": "2026-09-14T17:10:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "Apple Intelligence",
+        "iOS",
+        "siri"
+      ],
+      "id": "6b89f6f497d747e7bf86ac3d8791cbd7",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "published": "2026-09-14T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "Apple Intelligence",
+        "siri"
+      ],
+      "id": "a047fb9f02fd0b05ee1142b30687e955",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "published": "2026-09-14T16:27:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Microsoft",
+        "Anthropic"
+      ],
+      "id": "c2be321fdeeca569cd16fc55f0e6beaf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "published": "2026-09-14T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "2f204386282f9070a031eeeae5b8b0a0",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+      "published": "2026-09-14T14:45:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "AI notetakers",
+        "fathom",
+        "grammarly",
+        "Mergers and Acquisitions",
+        "superhuman"
+      ],
+      "id": "d360e52aaf33362c48972d44df980bd3",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "published": "2026-09-14T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "id": "844d349ff280519848a6573b6aa6f396",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+      "published": "2026-09-14T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "9838e6008e9106a33cfb73bc96bc7bc0",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "published": "2026-09-14T13:55:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "boxgroup",
+        "Music",
+        "Spotify"
+      ],
+      "id": "674385f747af04d8a6379f1e88e9d289",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+      "published": "2026-09-14T17:54:22+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "f4964ed02dfb9679961057de68985986",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Donated livers can be made biologically younger",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
+      "published": "2026-09-14T16:11:42+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "ecdb99b462004d1ed71773e697aec104",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+      "published": "2026-09-14T16:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "4ca5a8ed3801eeb7266a75620246bae5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&#8230;",
+      "published": "2026-09-14T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "77e5d5723a5e319794ec0f04770f82d4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-14"
+    },
     {
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
