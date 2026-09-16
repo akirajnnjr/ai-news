@@ -1,7 +1,313 @@
 {
-  "last_updated": "2026-09-15T18:35:34.002821+08:00",
-  "total": 2751,
+  "last_updated": "2026-09-16T10:20:20.878769+08:00",
+  "total": 2769,
   "news": [
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "published": "2026-09-16T00:20:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "6a5d552d9722f338875deb6317c4a5eb",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "published": "2026-09-15T21:47:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Climate",
+        "AI"
+      ],
+      "id": "f5e80ecad1974be7aa6cc485802da5d7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "published": "2026-09-15T20:12:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "mcp",
+        "Meta",
+        "WhatsApp",
+        "whatsapp business"
+      ],
+      "id": "c8e966977fdfbf219f7d7c920d00d133",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "2026-09-15T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "evergreens",
+        "Microsoft",
+        "OpenAI",
+        "siri ai"
+      ],
+      "id": "7eb39231f1badccce11d7bdabd4e2a67",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "published": "2026-09-15T18:29:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "data centers",
+        "natural gas"
+      ],
+      "id": "837180ecd6ea084b64de12dea33d92a5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "published": "2026-09-15T17:42:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "agentic ai"
+      ],
+      "id": "1e9eb8a1b0c06025dad9751acd875f63",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "published": "2026-09-15T17:05:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Meta"
+      ],
+      "id": "5e497c447da816d271395995be9f0128",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "published": "2026-09-15T15:47:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei",
+        "Demis Hassabis",
+        "google deepmind",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "7ca41db25b66a63fdf58020dcbef526e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "published": "2026-09-15T15:22:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Fundraising",
+        "Startups",
+        "generative engine optimization",
+        "In Brief"
+      ],
+      "id": "a99284cc094f15db108ce76230df352f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "published": "2026-09-15T14:42:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "camera app",
+        "Khosla Ventures",
+        "TikTok"
+      ],
+      "id": "7ca90a5021c373bfb6782031bb703fa0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+      "published": "2026-09-15T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "id": "eeef430e6bd8f73deca4dc1a43cb6442",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "published": "2026-09-15T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "1c0a237c0c5130516d9e83c82f402410",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "published": "2026-09-15T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "ai agent"
+      ],
+      "id": "06261c41c45c66cdd264d33700407190",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "published": "2026-09-15T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "nvidia",
+        "Salesforce"
+      ],
+      "id": "221b10e9623a92a524353ca66c2fc0df",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
+      "published": "2026-09-15T17:47:51+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "c733aaf01135ab052ad347ddaca31933",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
+      "published": "2026-09-15T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "4b8958bcf8ff8eea4b8e68d04037d7ed",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She&#8230;",
+      "published": "2026-09-15T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "f3c2d25299c7a58ef1d21fbfcabeb487",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "summary": "",
+      "published": "2026-09-15T16:00:44+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "5236dbdf1644621323432bcf2ca16248",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-16"
+    },
     {
       "title": "What must happen for AI’s trillion-dollar gamble to pay off",
       "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
