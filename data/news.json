@@ -1,7 +1,94 @@
 {
-  "last_updated": "2026-09-17T10:24:15.713708+08:00",
-  "total": 2785,
+  "last_updated": "2026-09-17T18:33:21.515991+08:00",
+  "total": 2790,
   "news": [
+    {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "published": "2026-09-17T05:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "simulation",
+        "Iceland",
+        "voice AI"
+      ],
+      "id": "4f879da6629887428af0425b6bc78cc4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "published": "2026-09-17T03:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "id": "b7c7d891caa08cb85f46554fc458b8d5",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "published": "2026-09-17T00:58:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "SMART Glasses",
+        "Snap",
+        "specs"
+      ],
+      "id": "92088bb9d257c5c1797f377f7218e9ab",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "published": "2026-09-16T23:43:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "AI data center",
+        "Al Gore",
+        "Exclusive"
+      ],
+      "id": "546ee7cd8ec87532e1be5768338b4c2a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate&#8230;",
+      "published": "2026-09-17T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "82f2f82c7664c8cc172c4b21619792b3",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-17"
+    },
     {
       "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
       "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
