@@ -1,7 +1,296 @@
 {
-  "last_updated": "2026-09-16T10:20:20.878769+08:00",
-  "total": 2769,
+  "last_updated": "2026-09-17T10:24:15.713708+08:00",
+  "total": 2785,
   "news": [
+    {
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "summary": "Group plans to be largely out of commission for several weeks.",
+      "published": "2026-09-16T21:08:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Science",
+        "Security",
+        "Space",
+        "Cyberattacks",
+        "hacking",
+        "meteors",
+        "space"
+      ],
+      "id": "70dc48d4cb0a8751e778e3e26871ada3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "published": "2026-09-16T21:07:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "dario amodei",
+        "ai safety"
+      ],
+      "id": "a4f0cae5cc3a223355324ab04ad13ddf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "published": "2026-09-16T20:12:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "In Brief",
+        "Meta",
+        "SMART Glasses",
+        "smartglasses"
+      ],
+      "id": "303e2dc324c9cd64394e4d079a4bf7f2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "published": "2026-09-16T18:25:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai labs",
+        "auditing"
+      ],
+      "id": "f60a2a4ca838db8572944cd9e10202d8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "published": "2026-09-16T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Google",
+        "google home",
+        "mcp"
+      ],
+      "id": "eb823604160e8ea4d79c676784956261",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "published": "2026-09-16T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "claude cowork"
+      ],
+      "id": "b4b0475ed0c8c63a10b98f754508cba3",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "published": "2026-09-16T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Robotics",
+        "nvidia",
+        "TechCrunch Disrupt"
+      ],
+      "id": "79a042e1b1c00a97a83a07a182dfa866",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "published": "2026-09-16T14:24:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "Meta",
+        "podcasts",
+        "social media",
+        "Threads"
+      ],
+      "id": "aaf419178d5744430d24ef7c39602776",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+      "published": "2026-09-16T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Gadgets",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "ceaecec61f437eae68d3b72ac98c153b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "published": "2026-09-16T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "6f2fab3648b13091e3d8f94282254877",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+      "published": "2026-09-16T13:23:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Intel",
+        "memory chips",
+        "SK Hynix"
+      ],
+      "id": "a99bbac1fc26965d5fa93ffed1230c83",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "published": "2026-09-16T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "infosys",
+        "Exclusive",
+        "Vishal Sikka",
+        "Hang Ten Systems"
+      ],
+      "id": "766bd696566c6e2f0feac762a6023ba2",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
+      "published": "2026-09-16T10:34:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "alexa+",
+        "Amazon"
+      ],
+      "id": "5960227fd9e8cd2610abb80a46aa6d83",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
+      "published": "2026-09-16T15:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "bb25cc83b84b397c0a06cad8280f7420",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
+      "published": "2026-09-16T12:47:34+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "c81fa26a50d635d6a92c56f3727efc09",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&#8230;",
+      "published": "2026-09-16T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "49e7531befe2db7bb83b549eac40a1f7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-16"
+    },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
