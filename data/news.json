@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-09-18T10:09:55.247501+08:00",
-  "total": 2807,
+  "last_updated": "2026-09-18T18:09:33.621668+08:00",
+  "total": 2809,
   "news": [
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "published": "2026-09-17T18:33:13+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "Anthropic",
+        "LLMs",
+        "watermarking"
+      ],
+      "id": "35cb1838bc98373fc6035d6f7d7bdc27",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
+      "published": "2026-09-18T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "7ebbd7dd21c002978f71ad06ebadb85c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
