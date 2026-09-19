@@ -1,7 +1,352 @@
 {
-  "last_updated": "2026-09-18T18:09:33.621668+08:00",
-  "total": 2809,
+  "last_updated": "2026-09-19T10:13:20.524844+08:00",
+  "total": 2829,
   "news": [
+    {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "published": "2026-09-19T01:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "spam",
+        "Truecaller",
+        "robocalls"
+      ],
+      "id": "2f121b448c204a09fe75df4fe374997d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "published": "2026-09-19T00:12:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "tilly norwood"
+      ],
+      "id": "d8747de7e501055955d677be848a44e0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "published": "2026-09-18T23:25:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "UpLabs"
+      ],
+      "id": "43903881cded1bf125ccff974319c482",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "published": "2026-09-18T23:13:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Anthropic"
+      ],
+      "id": "dcced75f93e2d70f2e3ca5aae68dcfc6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "published": "2026-09-18T23:12:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy"
+      ],
+      "id": "99bd6d4072b2721dd5eb90254076e34d",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "published": "2026-09-18T21:44:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Accenture",
+        "Anthropic"
+      ],
+      "id": "49776e1c52dcdd4f5876803af2608630",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "published": "2026-09-18T20:18:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "world models"
+      ],
+      "id": "1dbe8d7c6e86943b93ced571e84aafcc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "published": "2026-09-18T18:49:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "typesafe"
+      ],
+      "id": "c787e87aad1dc64f9afb94f9789fb3f6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "published": "2026-09-18T17:59:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "TC",
+        "character.ai",
+        "Disney",
+        "entertainment",
+        "In Brief"
+      ],
+      "id": "f5578060dc954905f52c1f1ca6926cc1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "published": "2026-09-18T17:33:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Google",
+        "AI agents"
+      ],
+      "id": "37655c8141e2247a7af88a764ec3fd8b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and&#160;it&#8217;s&#160;already picked up some&#160;industry support, along with some pointed&#160;pushback from Nvidia&#8217;s Jensen Huang.&#160; Watch [&#8230;]",
+      "published": "2026-09-18T17:09:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai safety",
+        "Anthropic",
+        "nvidia"
+      ],
+      "id": "a7c7509da18bdf808ae0d1d250e94359",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and&#160;it&#8217;s&#160;already picked up some&#160;industry support, along with some pointed&#160;pushback from Nvidia&#8217;s Jensen Huang.&#160; On [&#8230;]",
+      "published": "2026-09-18T17:06:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "ai safety",
+        "Anthropic",
+        "Automattic",
+        "Equity podcast",
+        "matt mullenweg",
+        "nvidia"
+      ],
+      "id": "77e43e1ef53964034474ba1dd7d6e898",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "published": "2026-09-18T16:35:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "manus",
+        "Meta"
+      ],
+      "id": "ecfc994dbcabff845659292daf63e4ef",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "published": "2026-09-18T15:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "nvidia",
+        "TechCrunch Disrupt"
+      ],
+      "id": "210af46fb867c4db53f250ce42f83ebb",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "published": "2026-09-18T15:22:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ],
+      "id": "02e22737315fe005a214ffb02ab5ba99",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "published": "2026-09-18T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Fintech",
+        "AI",
+        "TechCrunch Disrupt",
+        "Robinhood"
+      ],
+      "id": "68d1dafb80fbdf1a0c34d3a2ec467069",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "published": "2026-09-18T14:00:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "cybersecurity",
+        "OpenAI"
+      ],
+      "id": "0d70097db208a06049a87d5829eec5b4",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "published": "2026-09-18T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "2925d3fec1dee74a4bd7b2ce32b3a27d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;",
+      "published": "2026-09-18T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "2c98174ba4e9ad0962baab3defcfa80e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
+      "published": "2026-09-18T11:29:22+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "43991f137a690be055e158b62d61e9e2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-18"
+    },
     {
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
       "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
