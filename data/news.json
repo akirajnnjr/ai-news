@@ -1,7 +1,129 @@
 {
-  "last_updated": "2026-09-19T10:13:20.524844+08:00",
-  "total": 2829,
+  "last_updated": "2026-09-20T10:21:13.247065+08:00",
+  "total": 2836,
   "news": [
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "published": "2026-09-19T20:39:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Flock"
+      ],
+      "id": "194c7523c48fe384fa561e1f3205927b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "published": "2026-09-19T19:57:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump"
+      ],
+      "id": "c0e5bbea1628d07f5ca7bf7d3eb29569",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "published": "2026-09-19T17:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Security",
+        "AI",
+        "Google",
+        "gemini",
+        "Alphabet"
+      ],
+      "id": "c67b3655b36c1dea756be77fcabf15a0",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "published": "2026-09-19T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Hardware",
+        "AI",
+        "pet tech"
+      ],
+      "id": "031e78fea7f65b8959b03f2a028ef390",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "published": "2026-09-19T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "alignment",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "id": "f48af8241edfb2073a1a3b85ada224c6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "published": "2026-09-19T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Robotics",
+        "Startups",
+        "TC",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "a4b8614ad9dd9cfc2c28ba642ae16a8a",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "published": "2026-09-19T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Andreessen Horowitz",
+        "Startups"
+      ],
+      "id": "0ac6fc9717b544ddd79ffb821a6eb8be",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-19"
+    },
     {
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
