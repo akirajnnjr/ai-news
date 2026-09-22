@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-22T10:23:52.002737+08:00",
-  "total": 2860,
+  "last_updated": "2026-09-22T18:27:30.599802+08:00",
+  "total": 2861,
   "news": [
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": "",
+      "published": "2026-09-22T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c5f86512fa7d623054e3ed1147b24311",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-22"
+    },
     {
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
