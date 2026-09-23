@@ -1,7 +1,354 @@
 {
-  "last_updated": "2026-09-22T18:27:30.599802+08:00",
-  "total": 2861,
+  "last_updated": "2026-09-23T10:24:02.920712+08:00",
+  "total": 2881,
   "news": [
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "published": "2026-09-22T19:45:47+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "AI ATTACK",
+        "chatbots",
+        "spam"
+      ],
+      "id": "90435c878e92426e2f11b40964e5ccdf",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+      "summary": "The English hospitals recovered patient care data only.",
+      "published": "2026-09-22T16:55:40+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "data loss",
+        "England",
+        "healthcare",
+        "hospitals"
+      ],
+      "id": "1ecac442e828f0b6bf08f411a15df816",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "published": "2026-09-22T23:21:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "TechCrunch Founder Summit"
+      ],
+      "id": "5f66f04bf85fcc3d61ee2ff6b2cb531f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "published": "2026-09-22T21:56:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "data labeling",
+        "snorkel ai"
+      ],
+      "id": "84a303211cd26a2a475591a71c914e72",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "published": "2026-09-22T20:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Qualcomm"
+      ],
+      "id": "f5417683ef6a173a6da9ba9f448d57a4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "published": "2026-09-22T19:09:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse",
+        "openclaw"
+      ],
+      "id": "176f90142d04340807942aab1a60b791",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "published": "2026-09-22T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Astra",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "d5bcb149d5138fda53822abd247fb74f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "published": "2026-09-22T16:30:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Opus"
+      ],
+      "id": "d52a24ca5068b68dc4870cd7832537a6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "published": "2026-09-22T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "astroforge",
+        "Exclusive",
+        "space startups"
+      ],
+      "id": "63278f8d0a1c84a7d70a5ad4385d7012",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "published": "2026-09-22T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Anthropic",
+        "AWS",
+        "nvidia",
+        "Okta",
+        "shield ai",
+        "TechCrunch Disrupt",
+        "Waabi"
+      ],
+      "id": "8fdc384c018e1fde6d41e1ebcd2df015",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "published": "2026-09-22T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Hardware",
+        "AI",
+        "Robotics",
+        "TechCrunch Disrupt",
+        "hello robot"
+      ],
+      "id": "7c8fe9cba55932624265dc95e77b087f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "published": "2026-09-22T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "d047be013a0ef31f0c7b8f3e4b9a96f8",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "published": "2026-09-22T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "6d9c628eaad5daab8f6a1323be467168",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Everyone can find a reason to dislike data center construction",
+      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "published": "2026-09-22T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "data centers"
+      ],
+      "id": "2665fc5c20dcb8b40b3785b7ddcd1176",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "published": "2026-09-22T12:23:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai data centers",
+        "IPO",
+        "neocloud",
+        "nscale"
+      ],
+      "id": "020fc8cb0d6ecf06cbafa09254c23d87",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+      "published": "2026-09-22T13:42:05+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "artificial intelligence",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "fbbb2f4877db94618b98788969011c8a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of&#8230;",
+      "published": "2026-09-22T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "69b662349cd972838eda1abbb4cad796",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
+      "published": "2026-09-22T11:04:51+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Opinion"
+      ],
+      "id": "d185f661c7d14e1d4864349949413f41",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "summary": "",
+      "published": "2026-09-22T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "137c5833ddb8f26bfd345838eb976005",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "summary": "",
+      "published": "2026-09-22T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "6aa8c26a533f95b100bc676a46b085da",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-22"
+    },
     {
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "url": "https://huggingface.co/blog/omlx",
