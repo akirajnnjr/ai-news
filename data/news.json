@@ -1,7 +1,320 @@
 {
-  "last_updated": "2026-09-23T18:22:39.850423+08:00",
-  "total": 2883,
+  "last_updated": "2026-09-24T10:12:22.597900+08:00",
+  "total": 2901,
   "news": [
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "published": "2026-09-24T01:13:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Meta",
+        "muse"
+      ],
+      "id": "a58dd3909ca16b4bae71ca219eea95d2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "published": "2026-09-24T00:46:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse"
+      ],
+      "id": "b3b054f1bbc73550f66e3e456a129bc7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "published": "2026-09-23T23:39:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Social",
+        "ai glasses",
+        "Meta"
+      ],
+      "id": "abe26ab67059b7299b9e5985c4dd5e7e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "published": "2026-09-23T22:17:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Anthropic"
+      ],
+      "id": "a9bbbe61b4b33bf7dff3053238ff083e",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "published": "2026-09-23T19:31:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Startups",
+        "clinical trials",
+        "Enveda",
+        "In Brief"
+      ],
+      "id": "237e7ef9dd427e4406f68276fabc45ab",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "published": "2026-09-23T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI",
+        "voice"
+      ],
+      "id": "3ecdce7d836ad40de10d7e7fdb4577cb",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "published": "2026-09-23T16:49:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai safety",
+        "AI trust"
+      ],
+      "id": "55b95be9dcae85a39ab5fdb5b03cd75c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "published": "2026-09-23T15:19:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "YouTube Music"
+      ],
+      "id": "ab0b2d96bb33495c84c04549751600d7",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "published": "2026-09-23T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Custom feeds",
+        "YouTube"
+      ],
+      "id": "0869f53f8a88569c8de8cdd3c485e4e5",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "published": "2026-09-23T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "StrictlyVC",
+        "TechCrunch Disrupt"
+      ],
+      "id": "a8a41c2fafee35fcf03692ab39bae24c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "published": "2026-09-23T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Creators",
+        "YouTube"
+      ],
+      "id": "fe603b600b7eb15e328a297adbdb1311",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
+      "published": "2026-09-23T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Robotics",
+        "Startups",
+        "TC",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "866554dd279f0c8362b7f7a8c59148b4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "published": "2026-09-23T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "music streaming",
+        "Spotify"
+      ],
+      "id": "8c72904f696c99865843a838d2221366",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "published": "2026-09-23T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Accel",
+        "AI agents",
+        "Creaegis",
+        "Ema",
+        "Prosus",
+        "section 32"
+      ],
+      "id": "ca7a2de7d13c02aaf748d4351f66f057",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place&#8230;",
+      "published": "2026-09-23T17:10:11+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Policy",
+        "Tech Policy"
+      ],
+      "id": "8549157d118ac99d973eb7019fda0fe7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+      "published": "2026-09-23T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "3f94f55217dd402211341e801c306a2c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+      "published": "2026-09-23T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "AI Hype Index",
+        "App"
+      ],
+      "id": "edaeeef0c798b30f8a40950e32926fae",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "summary": "",
+      "published": "2026-09-23T18:41:40+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8308f4135e02635c994d9c333a83defd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-24"
+    },
     {
       "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
       "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
