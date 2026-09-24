@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-24T10:12:22.597900+08:00",
-  "total": 2901,
+  "last_updated": "2026-09-24T18:38:41.763493+08:00",
+  "total": 2902,
   "news": [
+    {
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.&#8230;",
+      "published": "2026-09-24T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "148d6434756c1cc465f1691ef95a9072",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-24"
+    },
     {
       "title": "Everything new coming to Meta’s AI agent Muse",
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
