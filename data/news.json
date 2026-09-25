@@ -1,7 +1,60 @@
 {
-  "last_updated": "2026-09-25T10:29:11.962098+08:00",
-  "total": 2920,
+  "last_updated": "2026-09-25T18:42:25.759443+08:00",
+  "total": 2923,
   "news": [
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "published": "2026-09-25T05:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Exclusive",
+        "lightspeed",
+        "Lightspeed India Venture Partners",
+        "lightspeed venture partners"
+      ],
+      "id": "bb5c1e3c8a7d21836e1f1d80cbed9e95",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;",
+      "published": "2026-09-25T09:16:25+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "b50925bd3c97333e1d3e62254fd4d749",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
+      "published": "2026-09-25T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "b02f7376f4939c42e9d29604cda52c27",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
     {
       "title": "There's a new way to break RSA that's faster than anything we've seen before",
       "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
