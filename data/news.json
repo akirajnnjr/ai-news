@@ -1,7 +1,329 @@
 {
-  "last_updated": "2026-09-25T18:42:25.759443+08:00",
-  "total": 2923,
+  "last_updated": "2026-09-26T10:32:07.799660+08:00",
+  "total": 2941,
   "news": [
+    {
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "summary": "Ads appearing all over the Internet are trying to scam people.",
+      "published": "2026-09-25T19:38:59+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "google",
+        "malicious ads",
+        "scareware"
+      ],
+      "id": "3812b1a734e2d7685d44cd46180f29b5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "published": "2026-09-25T23:11:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Transportation"
+      ],
+      "id": "4dc5a9b388b90b3e3268e3b3dfc8effb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "published": "2026-09-25T22:20:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI"
+      ],
+      "id": "9550a58b2b1b218d51467459e78b4b48",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "published": "2026-09-25T20:34:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ],
+      "id": "8de38d3557903f2c0a94ba903bb450b2",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "published": "2026-09-25T19:13:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Akamai",
+        "Cloud Computing",
+        "Anthropic"
+      ],
+      "id": "4b9cd4f252fed7b064957e1ea4c617ba",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "published": "2026-09-25T18:48:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Media & Entertainment",
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "49ebd97751d451bab8f2aa055457949a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+      "published": "2026-09-25T18:33:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "In Brief",
+        "nscale"
+      ],
+      "id": "38b884af575750000119cd186ca87ae1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is he",
+      "published": "2026-09-25T18:22:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "a16z",
+        "Anthropic",
+        "Equity podcast",
+        "Meta",
+        "muse",
+        "OpenAI",
+        "oura"
+      ],
+      "id": "b1b0ef608ef5b59881a960cceaf72eb1",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "published": "2026-09-25T17:29:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "data exposure",
+        "Supabase",
+        "vibe coding"
+      ],
+      "id": "137693ab52f61b0c74c2c3912d381c32",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "published": "2026-09-25T17:24:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Astra",
+        "OpenAI",
+        "Opus"
+      ],
+      "id": "656dc5dcef2da3c07fdf716d45b3b97f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "published": "2026-09-25T16:16:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Meta",
+        "muse"
+      ],
+      "id": "a948e5c03d79531e2186b89444b5c952",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is he",
+      "published": "2026-09-25T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI agents",
+        "consumer AI",
+        "Meta",
+        "muse"
+      ],
+      "id": "6c6baa7010d71a0e207c1d20bb4c4fb0",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "published": "2026-09-25T15:48:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI"
+      ],
+      "id": "042f70b50965514cf1b4b734a6a5a018",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "published": "2026-09-25T15:40:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "IPO"
+      ],
+      "id": "e3cc5ff4f95d9b90d4ae24bfdf50109b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+      "published": "2026-09-25T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Ricursive Intelligence",
+        "TechCrunch Disrupt"
+      ],
+      "id": "c9621711fc221100308a2c81c8062ad9",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "published": "2026-09-25T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Robotics",
+        "Startups",
+        "Venture",
+        "Layoffs 2026",
+        "TechCrunch Disrupt"
+      ],
+      "id": "1c04fad4c986fa2bca862bc05169469f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+      "published": "2026-09-25T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Robotics",
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "5d757eca44e9f6d218a83a563ce110dd",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to&#8230;",
+      "published": "2026-09-25T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "b0fa98e8b27423086b1c24b84901d3de",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-25"
+    },
     {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
