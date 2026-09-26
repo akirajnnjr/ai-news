@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-26T10:32:07.799660+08:00",
-  "total": 2941,
+  "last_updated": "2026-09-26T18:25:08.639518+08:00",
+  "total": 2942,
   "news": [
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "published": "2026-09-26T01:08:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "connect",
+        "Mark Zuckerberg",
+        "Meta",
+        "SMART Glasses"
+      ],
+      "id": "e0c16d6f1c1de1ee3af97c33cecf8e2b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-26"
+    },
     {
       "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
       "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
