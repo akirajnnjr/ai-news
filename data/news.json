@@ -1,7 +1,60 @@
 {
-  "last_updated": "2026-09-26T18:25:08.639518+08:00",
-  "total": 2942,
+  "last_updated": "2026-09-27T10:29:49.306666+08:00",
+  "total": 2945,
   "news": [
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "published": "2026-09-27T01:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Google",
+        "Flipkart",
+        "gemini"
+      ],
+      "id": "7fbf00bb0a9a1302bab763deabb58cb7",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "published": "2026-09-26T21:02:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Blue Cross Blue Shield",
+        "Abridge"
+      ],
+      "id": "db474621d18afa3672b2614d32a53c87",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "published": "2026-09-26T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Venture",
+        "AI",
+        "Synthesia",
+        "AI avatars"
+      ],
+      "id": "974092efe5bb9e366a48a52ac2320aec",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-26"
+    },
     {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
