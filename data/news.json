@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-09-27T10:29:49.306666+08:00",
-  "total": 2945,
+  "last_updated": "2026-09-28T10:33:27.705364+08:00",
+  "total": 2948,
   "news": [
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "published": "2026-09-27T20:34:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei",
+        "Donald Trump"
+      ],
+      "id": "920676792664d129c737454dec1c129c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "published": "2026-09-27T19:57:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Equity podcast",
+        "Meta"
+      ],
+      "id": "ee2957dde3efd9fdeba179fb1c8089db",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "published": "2026-09-27T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Anthropic",
+        "dario amodei",
+        "Saturday night live"
+      ],
+      "id": "62faa8b88a01a5d9258877692dfdab12",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-28"
+    },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
