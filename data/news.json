@@ -1,7 +1,384 @@
 {
-  "last_updated": "2026-09-28T20:11:27.274681+08:00",
-  "total": 2950,
+  "last_updated": "2026-09-29T11:16:01.640901+08:00",
+  "total": 2971,
   "news": [
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "published": "2026-09-29T00:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "Startups",
+        "Venture",
+        "Exclusive",
+        "Peak XV",
+        "Peak XV Partners"
+      ],
+      "id": "71c7b9385ab3c0c7d48dfeddc417ce57",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "published": "2026-09-28T23:39:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Astra",
+        "OpenAI"
+      ],
+      "id": "df051edc9234f413e90ebf08b37724d4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "published": "2026-09-28T21:29:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Accel",
+        "inference",
+        "Modal Labs"
+      ],
+      "id": "b30ea06fa8e9df2d1ce604d0fc84f001",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "published": "2026-09-28T20:39:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "world models"
+      ],
+      "id": "6004394fcd29266a69931c8d3466b0fd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "published": "2026-09-28T19:33:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "Shopify"
+      ],
+      "id": "99c674f70f3c5ccf6dda44496045ef60",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "published": "2026-09-28T19:21:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "climate week nyc"
+      ],
+      "id": "19b5c695e9726952bda30bca0be261a1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+      "published": "2026-09-28T18:31:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Jensen Huang",
+        "nvidia",
+        "OpenAI"
+      ],
+      "id": "d578c7a807797ed10f4bd55ab8743717",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "published": "2026-09-28T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Sonnet"
+      ],
+      "id": "342eef48a635fd9b96fcf56860efe11d",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+      "published": "2026-09-28T17:29:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google"
+      ],
+      "id": "fc22beaf1f7bbfd040bd5ab6086e826a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "published": "2026-09-28T17:09:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI"
+      ],
+      "id": "f53aca4c59c8a3d7e88f072c3a3db727",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "published": "2026-09-28T16:52:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "In Brief",
+        "Meta",
+        "MongoDB"
+      ],
+      "id": "2d794519f8a7619645444d4d179338e3",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "published": "2026-09-28T15:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt",
+        "Anthropic",
+        "Gamma",
+        "Claude",
+        "clay"
+      ],
+      "id": "3db27ae105cf36e7cde854c76581f35f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+      "published": "2026-09-28T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "id": "35a5abb5bb7ade5c8d6f63f1c95dbb5b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+      "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+      "published": "2026-09-28T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Gadgets",
+        "Startups",
+        "Venture",
+        "Bison Ventures",
+        "greylock",
+        "Index Ventures",
+        "Kleiner Perkins",
+        "Maven Ventures",
+        "Startup Battlefield",
+        "TechCrunch Disrupt"
+      ],
+      "id": "bb0c80466c5094101e52fae24bec5573",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+      "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "published": "2026-09-28T14:05:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "cyberattacks",
+        "voice AI"
+      ],
+      "id": "c427bd6569680f96e2069b7281a677fc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+      "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
+      "published": "2026-09-28T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Gadgets",
+        "Robotics",
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "66077671310bdf09c621565dc6944d00",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "published": "2026-09-28T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "Startups",
+        "Insuretech",
+        "signalfire"
+      ],
+      "id": "743718b6f714d8dd916538ad5fbcf219",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
+      "published": "2026-09-28T13:38:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "AI assistant",
+        "instinct"
+      ],
+      "id": "4c0a92efb1ccb7594e24874cb69aafe4",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
+      "published": "2026-09-28T22:17:07+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "artificial intelligence",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "8cdbfa70b90acec20ffa6be2126f0bd1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+      "published": "2026-09-28T17:03:16+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "f073d5eb416e6fc127f4ba1e540be667",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+      "published": "2026-09-28T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized"
+      ],
+      "id": "fb9f2e819035b25015e7be3d9090b8d7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-28"
+    },
     {
       "title": "Who’s liable when AI agents go rogue?",
       "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
