@@ -1,7 +1,53 @@
 {
-  "last_updated": "2026-09-29T11:16:01.640901+08:00",
-  "total": 2971,
+  "last_updated": "2026-09-29T19:42:11.978350+08:00",
+  "total": 2974,
   "news": [
+    {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "published": "2026-09-29T05:13:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "id": "f5aa58f3c19376dfa7bbcab0f931ec6a",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate&#8230;",
+      "published": "2026-09-29T11:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "3a0cc922f159430b7ddc9a5d4ca1c0c8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+      "published": "2026-09-29T10:43:45+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "2665823bec02153fa9b8ccca6d0110e4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
     {
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
       "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
