@@ -1,7 +1,338 @@
 {
-  "last_updated": "2026-09-29T19:42:11.978350+08:00",
-  "total": 2974,
+  "last_updated": "2026-09-30T10:58:31.063337+08:00",
+  "total": 2994,
   "news": [
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "published": "2026-09-29T23:30:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Minecraft"
+      ],
+      "id": "c29c6d0a2ff6b4de8b1a78794322a320",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "published": "2026-09-29T22:20:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Elon Musk",
+        "OpenAI"
+      ],
+      "id": "c91d4895c865252c0d51d9c4fa0b94b8",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "published": "2026-09-29T20:15:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "OpenAI"
+      ],
+      "id": "6a33aca726c7950796005fd2b4f08335",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "published": "2026-09-29T19:52:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "In Brief",
+        "IPO",
+        "OpenAI"
+      ],
+      "id": "9a16357905559c9af8d26722feb45c93",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "published": "2026-09-29T18:35:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive",
+        "nvidia",
+        "OpenAI"
+      ],
+      "id": "b7ee266b3afff5b48a696bb452c70cf3",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "published": "2026-09-29T17:45:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "Microsoft",
+        "OpenAI",
+        "OpenAI DevDay",
+        "Salesforce"
+      ],
+      "id": "3a556bd4fc98feb5e2d68b91deae4605",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+      "published": "2026-09-29T17:20:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Wabi"
+      ],
+      "id": "e7ce24fdf0ff6f011c211038b8bc41c4",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "published": "2026-09-29T17:17:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "OpenAI DevDay"
+      ],
+      "id": "855aad9db334a20862c88114fff2400e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+      "published": "2026-09-29T17:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "codex",
+        "OpenAI",
+        "OpenAI DevDay"
+      ],
+      "id": "26c92756de6d9f46e71e1606f60788b5",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "published": "2026-09-29T17:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "OpenAI",
+        "OpenAI DevDay"
+      ],
+      "id": "c3416222c8baf1762068e544faa28827",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+      "published": "2026-09-29T17:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "OpenAI DevDay"
+      ],
+      "id": "95026b243ee0cefe9de8583a5fe0662b",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "published": "2026-09-29T16:55:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Google",
+        "gemini",
+        "Trump",
+        "In Brief"
+      ],
+      "id": "594dcc5078a08519daa9ecf4e48bebca",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "published": "2026-09-29T15:12:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "instinct",
+        "travel"
+      ],
+      "id": "c0fc128f88672d373fa03c673b8b0598",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+      "published": "2026-09-29T13:53:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "AI assistants",
+        "Marissa Mayer"
+      ],
+      "id": "2acce7e829eef8e775092a4ed60e4f20",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+      "published": "2026-09-29T13:47:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ],
+      "id": "cefc4301c056dd29e0363211b83c0d49",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "published": "2026-09-29T12:45:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "ai safety",
+        "cybersecurity",
+        "OpenAI",
+        "security breaches"
+      ],
+      "id": "a7b614b1178981b6d6a5bedb652459d0",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "published": "2026-09-29T12:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Security",
+        "AI agents",
+        "ai security"
+      ],
+      "id": "d95cf6211dbd8227a9f515230cb453ea",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;",
+      "published": "2026-09-29T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "b77e9af7e42fabda34b7f145cc6c4c63",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "summary": "",
+      "published": "2026-09-29T15:30:38+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "6af8dd1a3e49b29c06bd66ff6b430840",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "summary": "",
+      "published": "2026-09-29T13:07:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9179e4753ddd37670683c4369f0f3921",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-29"
+    },
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
