@@ -1,7 +1,318 @@
 {
-  "last_updated": "2026-09-30T19:28:44.279517+08:00",
-  "total": 2995,
+  "last_updated": "2026-10-01T11:05:04.233185+08:00",
+  "total": 3013,
   "news": [
+    {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "published": "2026-09-30T20:44:48+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "exploits",
+        "remote code injection",
+        "vulnerabilities",
+        "zimbra collaboration server"
+      ],
+      "id": "df517765e95e464730d7c12eb1f4e553",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+      "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+      "published": "2026-09-30T11:15:14+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "cryptography",
+        "post-quantum encryption",
+        "quantum computing"
+      ],
+      "id": "5b2259de55f00c3dc6d50d3b3b288213",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "published": "2026-09-30T23:43:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "gemini",
+        "Google"
+      ],
+      "id": "b0e8a6f4f58bef00669d1a4f0999daed",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "published": "2026-09-30T21:07:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "Flow Engineering",
+        "In Brief"
+      ],
+      "id": "1531fa60609908b599317670c350b810",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "published": "2026-09-30T19:00:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI"
+      ],
+      "id": "b8d72f3674ce3433a0a76d5a8f499a2a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "published": "2026-09-30T18:23:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "liquidity",
+        "voice AI",
+        "ElevenLabs",
+        "In Brief"
+      ],
+      "id": "7b98304de6322e172ff4cfd32a10b9b6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "published": "2026-09-30T17:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "TC",
+        "Open Web",
+        "Reddit",
+        "RSS"
+      ],
+      "id": "5713af8d86df5f9cd0393b33449a3a7e",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "published": "2026-09-30T17:24:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "chatbots",
+        "consumer AI",
+        "instinct"
+      ],
+      "id": "96de1cedcbffc2ba24301931e75f39d4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "published": "2026-09-30T16:24:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Privacy",
+        "Security",
+        "Meta",
+        "muse"
+      ],
+      "id": "ade19e8bdc17c048813faa89efb276f9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "published": "2026-09-30T16:00:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "DoorDash",
+        "In Brief"
+      ],
+      "id": "68dcdac188f44e2191390d70b23a9489",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "published": "2026-09-30T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "id": "ac11aaa6e810f103515b430dfa72926c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "published": "2026-09-30T15:56:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "instinct"
+      ],
+      "id": "20faff01be30797420c4079dfee671e9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+      "published": "2026-09-30T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt",
+        "Cerebras"
+      ],
+      "id": "22f81ff4d3edfb15c7fa931b2bf20f46",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+      "published": "2026-09-30T14:27:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "ai infrastructure",
+        "restate",
+        "Temporal"
+      ],
+      "id": "34681645bc63d691abc3b5fdc60f64c3",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+      "published": "2026-09-30T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "4a0e5455f746d30a2da1037fab048706",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Airbnb adds AI search, more social features",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "published": "2026-09-30T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Apps",
+        "AI",
+        "TC",
+        "Airbnb"
+      ],
+      "id": "8d5d6dc5b1a239da16773e1c3469040b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
+      "published": "2026-09-30T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "a65fe8c40ccc1b91d8c2d150404a3a86",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "summary": "",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "30ddd413a7e752bdd6ff7b8bfd808074",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-09-30"
+    },
     {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
       "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
