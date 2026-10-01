@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-10-01T11:05:04.233185+08:00",
-  "total": 3013,
+  "last_updated": "2026-10-01T19:57:01.923121+08:00",
+  "total": 3015,
   "news": [
+    {
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
+      "published": "2026-10-01T10:32:24+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "e49f8e259be33173654abd2585779233",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+      "published": "2026-10-01T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "b6fc6006183d7f608cc1b3a34f7fc7da",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-01"
+    },
     {
       "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
       "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
