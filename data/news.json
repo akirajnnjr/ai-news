@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-10-02T11:07:06.762275+08:00",
-  "total": 3030,
+  "last_updated": "2026-10-02T19:28:30.825407+08:00",
+  "total": 3033,
   "news": [
+    {
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;",
+      "published": "2026-10-02T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "c8078b8002ff732494fe8f323f39d692",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "published": "2026-10-02T08:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Opinion"
+      ],
+      "id": "6714225038a5289d06e5e319185ccc0e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "summary": "",
+      "published": "2026-10-02T04:01:31+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "87e5762e958351b0eac259f23df72c04",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-02"
+    },
     {
       "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
       "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
