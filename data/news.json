@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-10-04T11:24:00.403596+08:00",
-  "total": 3052,
+  "last_updated": "2026-10-05T11:00:39.468794+08:00",
+  "total": 3055,
   "news": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "published": "2026-10-04T20:31:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security"
+      ],
+      "id": "072378cdfd56a51b352e493c5017787f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "published": "2026-10-04T20:08:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "dario amodei",
+        "Donald Trump",
+        "Equity podcast",
+        "jeff bezos",
+        "Mark Zuckerberg"
+      ],
+      "id": "693ea3f4f7340aad244794cc6a1fded3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "published": "2026-10-04T15:15:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump"
+      ],
+      "id": "e580f3108daada3b4d9bb31b1cf85ccd",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-04"
+    },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
