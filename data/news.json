@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-05T11:00:39.468794+08:00",
-  "total": 3055,
+  "last_updated": "2026-10-05T20:51:31.887738+08:00",
+  "total": 3059,
   "news": [
+    {
+      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "published": "2026-10-05T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive"
+      ],
+      "id": "a733d4518e7a0141d2b9e34611e10af6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
+      "published": "2026-10-05T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "a9f048f810e1278af6d12fac6c3453cb",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+      "published": "2026-10-05T08:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary",
+        "The Algorithm"
+      ],
+      "id": "cc4fbf263535e81de5b86f985a96b9f0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+      "published": "2026-10-05T04:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized"
+      ],
+      "id": "c8d1f5dc3656c84970b913b74ffcb257",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
