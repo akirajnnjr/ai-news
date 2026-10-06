@@ -1,7 +1,255 @@
 {
-  "last_updated": "2026-10-05T20:51:31.887738+08:00",
-  "total": 3059,
+  "last_updated": "2026-10-06T11:49:53.479478+08:00",
+  "total": 3073,
   "news": [
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "published": "2026-10-05T22:26:35+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "agentic AI",
+        "MCP",
+        "Model Context Protocol",
+        "prompt injection"
+      ],
+      "id": "fb0b068eb35bb874c2d60b22e01855d0",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "published": "2026-10-05T20:36:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "TC",
+        "eu",
+        "OpenAI",
+        "EU AI Act",
+        "watermarking"
+      ],
+      "id": "212da1d35ed9326db03a01e78358aa34",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "published": "2026-10-05T19:33:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "beam",
+        "nvidia",
+        "open source",
+        "open weight",
+        "reflection ai"
+      ],
+      "id": "13557b75794fecc1a64ce26e06e7015d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "published": "2026-10-05T18:54:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "instinct"
+      ],
+      "id": "a8ac03afa12de2705aa7a83b343a7fcf",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "published": "2026-10-05T18:29:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "TikTok"
+      ],
+      "id": "1278561c2128f73a9a08927d98dbc55b",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "published": "2026-10-05T17:29:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "id": "d31c63ac3bf436dcfe3c735c82085bcb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "published": "2026-10-05T16:43:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Exclusive",
+        "HackerRank",
+        "ai agent"
+      ],
+      "id": "9b91fcda04f797f9b097e78d586fb0c2",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "published": "2026-10-05T15:14:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Adtech",
+        "advertising",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "id": "e36223c0def053e4cd4c04ba70f77bcc",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "published": "2026-10-05T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "id": "78ad6176e72652b837727e680793d4b3",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "published": "2026-10-05T14:35:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI agents",
+        "alibaba",
+        "In Brief",
+        "Tencent"
+      ],
+      "id": "b70963ac4f5c2e753b896a7875247a79",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+      "published": "2026-10-05T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "id": "67ee42281144052f1e5927d31b5ce846",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "published": "2026-10-05T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Startups",
+        "TechCrunch Disrupt",
+        "Startup Battlefield 200"
+      ],
+      "id": "6fae5d6111d322f8492d72565075970b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+      "published": "2026-10-05T15:47:52+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "16ad415e0c7f9c2c1c158bd0e1916a59",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+      "published": "2026-10-05T13:29:32+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "10d6f4f6fd7bc57f7058c06a848afeb5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-05"
+    },
     {
       "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
       "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
