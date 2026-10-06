@@ -1,7 +1,207 @@
 {
-  "last_updated": "2026-10-06T11:49:53.479478+08:00",
-  "total": 3073,
+  "last_updated": "2026-10-06T20:19:18.500576+08:00",
+  "total": 3086,
   "news": [
+    {
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+      "published": "2026-10-06T12:00:31+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Broadcom",
+        "vmware"
+      ],
+      "id": "dc49e2f05cd94110553c931f9fa12b05",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "2026 Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "summary": "",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "5bad70b4401512c9797d9e2f9e24be1c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever recorded.&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "85ce9f9507a88314ed0222fdb838c791",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "6dd0d2a154ddd379eb85352424983149",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Form Energy and its iron batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "95b77812cdab95ff94ed95f87ca228c4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat—and lots of it. The manufacture&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "8a112277732722af230e0991b08c8d00",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; As the world races to meet growing electricity demand, solar and onshore wind power have become&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "57fa429e1b4e0a19a9880082eb1e4dd8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, aluminum, steel, and&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "f1a509352b2c0f742fabfc4449b85444",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "WaveSave and its portable rubber dam",
+      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+      "summary": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia have deployed it successfully. Now, the company is&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "c938ad719c1ff81adb477b45e651f804",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "BasiGo and its fleet of electric buses",
+      "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
+      "summary": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport operates. In a bid to contain the covid-19 pandemic in 2020, the Kenyan government&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "1bb58f87ba8bc02f254121b79b602a8c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Moment Energy and its shipping containers packed with old EV batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/",
+      "summary": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade. To meet that demand, Moment Energy wants to shortcut a supply chain that now flows largely through China, by domestically repurposing EV batteries into new grid-connected storage systems. Moment Energy’s four founders met while studying mechatronics engineering in college&#8230;",
+      "published": "2026-10-06T10:35:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Climate Tech List 2026"
+      ],
+      "id": "4a21a05430289a3e8fd6238056693310",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "summary": "",
+      "published": "2026-10-06T06:44:39+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "807faee26a0e2988609caf46c25d27dd",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "summary": "",
+      "published": "2026-09-28T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "e4ee4743f14e703b6a9392307d02c2bb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-09-28"
+    },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
