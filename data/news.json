@@ -1,7 +1,279 @@
 {
-  "last_updated": "2026-10-07T11:17:46.255299+08:00",
-  "total": 3101,
+  "last_updated": "2026-10-08T11:33:15.410151+08:00",
+  "total": 3117,
   "news": [
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "published": "2026-10-07T20:48:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Startups",
+        "AI agents",
+        "Hermes Agent",
+        "In Brief"
+      ],
+      "id": "1d6dcd635bc7906e8be2cafa53ba90c8",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "published": "2026-10-07T20:22:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "TC",
+        "Microsoft",
+        "nvidia"
+      ],
+      "id": "eb599b08c7e3d0b1e443f93e9477fb45",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "published": "2026-10-07T18:30:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ],
+      "id": "7d49c27e2bd019e07fea05bbc2fcc2d4",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "published": "2026-10-07T18:15:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "d15468da173273ebfa833f48cd675e43",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "published": "2026-10-07T18:00:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "id": "b81f72b7c1ca73df6e335d75c8ae025a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "published": "2026-10-07T16:53:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "child safety",
+        "Meta"
+      ],
+      "id": "dfd3923fff903b86aabfbffa17980062",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "published": "2026-10-07T15:07:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Fundraising",
+        "Startups",
+        "HealthLeap",
+        "HealthTech",
+        "medicine"
+      ],
+      "id": "fc38477a8aad94423f499cf6bdd2bbba",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "published": "2026-10-07T14:41:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "AI assistants",
+        "Apple",
+        "Tony Fadell"
+      ],
+      "id": "3499b6fe79a2933b24d1e2137db567bc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "published": "2026-10-07T14:36:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gaming",
+        "Generative AI",
+        "Google",
+        "playground"
+      ],
+      "id": "60862e24b98b764eb3682b42f96e29c4",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "published": "2026-10-07T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt",
+        "OpenAI"
+      ],
+      "id": "3cadd0110a707051de45eb1719fc7283",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "published": "2026-10-07T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Venture",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "id": "504b159a61622b299daf090e9ac3cbce",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+      "published": "2026-10-07T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "id": "f34b82d8ad4aef4bbb8116bf650b8d9b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "published": "2026-10-07T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "Google",
+        "synthid"
+      ],
+      "id": "230c231afcecbe760f9eb40796e7f53b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly&#8230;",
+      "published": "2026-10-07T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7353b6a4a7f6769c7f2143c2a580455d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "summary": "",
+      "published": "2026-10-07T16:54:33+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "567ec19b402cbefae0ca1fd55492649f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "summary": "",
+      "published": "2026-10-07T12:45:31+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "16096794f2e6e9d16546055bf3dede80",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
     {
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
