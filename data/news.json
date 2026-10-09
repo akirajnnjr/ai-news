@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-10-09T11:38:34.349397+08:00",
-  "total": 3139,
+  "last_updated": "2026-10-09T20:11:39.252619+08:00",
+  "total": 3142,
   "news": [
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
+      "published": "2026-10-09T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "12d2afa3a1ac678b794f7a29a2d5294b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is&#8230;",
+      "published": "2026-10-09T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App"
+      ],
+      "id": "844aa8f8f813e8ce9d57cd48cc8e0e45",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar&#8230;",
+      "published": "2026-10-09T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "18eaf7d0140936e01a724fda67f20a5d",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-09"
+    },
     {
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
       "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
