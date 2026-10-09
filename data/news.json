@@ -1,7 +1,317 @@
 {
-  "last_updated": "2026-10-08T20:21:35.235084+08:00",
-  "total": 3121,
+  "last_updated": "2026-10-09T11:38:34.349397+08:00",
+  "total": 3139,
   "news": [
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "published": "2026-10-08T21:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "elizabeth holmes",
+        "lawsuit",
+        "Theranos"
+      ],
+      "id": "5a35081811d0cb33be6c2863f351eab5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "published": "2026-10-08T20:04:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ai safety",
+        "OpenAI"
+      ],
+      "id": "a682e0b0de91bdf12ee0b18c4a36e1e9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "published": "2026-10-08T18:20:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Media & Entertainment",
+        "AI",
+        "movies",
+        "filmmaking",
+        "ben affleck"
+      ],
+      "id": "d20ef6d9bc50893f7b9b5b6fe435876c",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "published": "2026-10-08T18:19:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "AI leaderboard",
+        "Arena AI"
+      ],
+      "id": "494307aa9111eef189fbcf22ce8a7a52",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "published": "2026-10-08T18:19:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "OpenAI"
+      ],
+      "id": "c48d7960551d8f367d2e147889459e81",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "published": "2026-10-08T18:18:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "gemini",
+        "Google"
+      ],
+      "id": "ceca2e2c1a06a203a669ab1ef73aacf4",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "published": "2026-10-08T18:16:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "Claude",
+        "In Brief"
+      ],
+      "id": "80297d65bd412af6692e4245608a9796",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "published": "2026-10-08T18:10:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "mathematics",
+        "OpenAI"
+      ],
+      "id": "81c67bededb8c6b25afd17a88430411e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "published": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "AI agents",
+        "smart rings"
+      ],
+      "id": "02f01addd62e86c2ed4b13ae6b5601cc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "published": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI agents"
+      ],
+      "id": "7db2500e1227a520fb3787e8183edfff",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "published": "2026-10-08T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Bloom Energy",
+        "TechCrunch Disrupt",
+        "Ambrosia Energy"
+      ],
+      "id": "ebcd79fc83258cfff80914c3b3318882",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "published": "2026-10-08T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Fintech",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "id": "de7afd3751425a266287f1642957ae4d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "published": "2026-10-08T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Exclusive",
+        "Zach Yadegari"
+      ],
+      "id": "87922315e033f710a3ce93e8bed5b38e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Google releases a new local-first Granola competitor",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "published": "2026-10-08T13:28:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemma",
+        "Google",
+        "Meeting notetakers"
+      ],
+      "id": "49a73efd5324972b06926a227c57c245",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "published": "2026-10-08T13:20:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "manus",
+        "Manus AI",
+        "Meta"
+      ],
+      "id": "b1d93fd5f45c2aa1723449f3457bb475",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+      "published": "2026-10-09T00:08:24+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "artificial intelligence",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "080bc68c6b7396568810d41df6e00b3c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "summary": "",
+      "published": "2026-10-08T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "e2b8feac4839ed77bb4908081677bafb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "summary": "",
+      "published": "2026-10-07T13:21:03+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "6b0f9fee5e2b76b09c55c4d2cc7f7797",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-07"
+    },
     {
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
       "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
