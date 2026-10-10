@@ -1,7 +1,211 @@
 {
-  "last_updated": "2026-10-09T20:11:39.252619+08:00",
-  "total": 3142,
+  "last_updated": "2026-10-10T11:19:51.729291+08:00",
+  "total": 3154,
   "news": [
+    {
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+      "published": "2026-10-09T18:54:52+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Tech",
+        "Desktops",
+        "IDC",
+        "laptops"
+      ],
+      "id": "6bab13607daf6b57753947e5659cda6a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "published": "2026-10-10T00:18:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "3fc0fe8ac680d444997a79a7eb106a8e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "published": "2026-10-09T21:41:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI model",
+        "Andreessen Horowitz",
+        "In Brief",
+        "typesafe"
+      ],
+      "id": "6609f1addbf32ee2de354f344d64f38d",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "published": "2026-10-09T19:36:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "id": "e09bca746ce32ce0b8bea57b44447c90",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
+      "published": "2026-10-09T16:56:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI data center",
+        "Amazon",
+        "data center"
+      ],
+      "id": "3819199f86397c05ceaaf18c28af1bf0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
+      "published": "2026-10-09T16:53:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI agents",
+        "Amazon",
+        "data centers",
+        "Equity podcast"
+      ],
+      "id": "3b4ff5aa887e2c54084e6567f7755828",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "published": "2026-10-09T16:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Robotics",
+        "recycling",
+        "TechCrunch Disrupt",
+        "Battlefield 200"
+      ],
+      "id": "50fcb2172953f7fa546d57eb457ae656",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "published": "2026-10-09T16:40:14+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Exclusive"
+      ],
+      "id": "3b30e472897bc4e0f58aabe52260dad4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "published": "2026-10-09T15:43:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Andreessen Horowitz",
+        "consumer AI",
+        "Exclusive"
+      ],
+      "id": "80b34c260cbbb646a153d65fcf871a5e",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "published": "2026-10-09T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt",
+        "Startup Battlefield"
+      ],
+      "id": "3c72aa28b5be59be18e6fa31144724de",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;",
+      "published": "2026-10-09T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "0334faf72ea93595f2cbcca83f2021d7",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "summary": "",
+      "published": "2026-10-09T15:20:29+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "ebb9e1a46a897c8e54e54dd0725e7e6f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-09"
+    },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
       "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
