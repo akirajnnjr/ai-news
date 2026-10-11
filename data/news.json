@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-10-10T11:19:51.729291+08:00",
-  "total": 3154,
+  "last_updated": "2026-10-11T10:53:10.772307+08:00",
+  "total": 3158,
   "news": [
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "published": "2026-10-10T21:47:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "id": "a132e85074c45aecfcc83ae9bb522194",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "published": "2026-10-10T19:50:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Startups",
+        "Apple",
+        "Huxe"
+      ],
+      "id": "719244ff4837f34b5e2eec0766ba29d0",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "published": "2026-10-10T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt",
+        "Startup Battlefield 200"
+      ],
+      "id": "1a1dace668279b62bb716401d1dc4d6f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "2026-10-10T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "instinct",
+        "AI agents"
+      ],
+      "id": "d8d2c1c3d579359d3cb70c09dc3e39e0",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-10"
+    },
     {
       "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
       "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
