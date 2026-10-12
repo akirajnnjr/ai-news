@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-10-12T11:16:20.548202+08:00",
-  "total": 3162,
+  "last_updated": "2026-10-12T21:42:57.888204+08:00",
+  "total": 3166,
   "news": [
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "published": "2026-10-12T12:47:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Gadgets",
+        "Hardware",
+        "AI agents",
+        "plaud"
+      ],
+      "id": "f1588e6ffbfd9c4253434ce0974c21b6",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;",
+      "published": "2026-10-12T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "2d02358b9788fcbc9177d1f4c4c12e3c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
+      "published": "2026-10-12T09:37:02+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Space",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "754aa7508f0608bd64cd26734118b636",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
+      "published": "2026-10-12T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "id": "c83e0702d0873de3ab629093e4a38b3f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-12"
+    },
     {
       "title": "Will the HomeView be Apple’s first smart home success?",
       "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
