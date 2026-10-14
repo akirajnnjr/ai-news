@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-14T10:41:04.896637+08:00",
-  "total": 3193,
+  "last_updated": "2026-10-14T18:44:59.280708+08:00",
+  "total": 3194,
   "news": [
+    {
+      "title": "The US military’s race to make fake blood",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like&#8230;",
+      "published": "2026-10-14T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "600356bf2fdac0ba29043775d9cfb0c8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-14"
+    },
     {
       "title": "Topgolf saved over $11.3 million after leaving VMware",
       "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
