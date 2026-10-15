@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-10-15T10:20:43.355111+08:00",
-  "total": 3209,
+  "last_updated": "2026-10-15T18:27:52.680629+08:00",
+  "total": 3213,
   "news": [
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "published": "2026-10-15T04:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "India",
+        "Figma"
+      ],
+      "id": "74a5b05214cca33fe9da65359719cf8c",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a&#8230;",
+      "published": "2026-10-15T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "69ce4f566de7a664305356e227ffbcba",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that&#8230;",
+      "published": "2026-10-15T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "e2a15ea3bcdb8271c009761681926e6b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one&#8230;",
+      "published": "2026-10-15T08:43:24+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "1cca4afa3914d8cbdea0bdc21d019909",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
     {
       "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
       "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
