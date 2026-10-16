@@ -1,7 +1,280 @@
 {
-  "last_updated": "2026-10-15T18:27:52.680629+08:00",
-  "total": 3213,
+  "last_updated": "2026-10-16T10:13:26.344338+08:00",
+  "total": 3229,
   "news": [
+    {
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+      "published": "2026-10-15T20:32:41+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "citizen lab",
+        "Discover-tech"
+      ],
+      "id": "c75fa512dfb348c95c74bab01852b773",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "published": "2026-10-15T23:44:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Cal AI",
+        "TechCrunch Disrupt",
+        "Zach Yadegari"
+      ],
+      "id": "3f579372e804f00928cce70aac63e3f3",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "published": "2026-10-15T20:04:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "Meta",
+        "muse"
+      ],
+      "id": "b79cf62ab2acf241a335b8038d46b945",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "published": "2026-10-15T19:55:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Amazon",
+        "bee",
+        "wearables"
+      ],
+      "id": "d37081d91074db0db25efbf1465dea44",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "published": "2026-10-15T19:14:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "model evaluation"
+      ],
+      "id": "6b32532a16524cf403017432d7c2cb75",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "published": "2026-10-15T18:56:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Bluesky",
+        "TechCrunch Disrupt",
+        "vibe coding"
+      ],
+      "id": "aa35977b34b4521c44ebecb8f31cb3a1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+      "published": "2026-10-15T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "TechCrunch Founder Summit"
+      ],
+      "id": "f927c27e25399f5640cebc851767aec1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+      "published": "2026-10-15T15:02:36+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Transportation",
+        "AI",
+        "electric vehicles",
+        "EVs",
+        "TechCrunch Disrupt",
+        "Rivian",
+        "RJ Scaringe",
+        "LLMs",
+        "agentic ai"
+      ],
+      "id": "534bc46e6ba20de3715d203adc920190",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "published": "2026-10-15T14:29:33+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "e-commerce",
+        "gemini",
+        "Google",
+        "online shopping",
+        "shopping carts"
+      ],
+      "id": "07840b4d49b7c162a9b822c5d8eb3cf0",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "published": "2026-10-15T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Media & Entertainment",
+        "Robotics",
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt"
+      ],
+      "id": "f274fd46f0a5684447cef5931f5750ed",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "published": "2026-10-15T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Alexa",
+        "Amazon",
+        "bee",
+        "wearables"
+      ],
+      "id": "2d7de8707312b3f0dc2ae07b9155427d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been&#8230;",
+      "published": "2026-10-15T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "4dc555334ce0be19e3c3b88cd79a1caa",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "summary": "",
+      "published": "2026-10-16T01:44:47+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "bf51e81669464bf240dcd9bad92edaeb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "summary": "",
+      "published": "2026-10-15T20:34:01+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "fe5649d96d8aa75f9e286d57f09e1e02",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "summary": "",
+      "published": "2026-10-15T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9b9420b910a0823e7b0f0c2f36e4103b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "summary": "",
+      "published": "2026-10-15T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "b59b01e3e8a7a36aa64b7a56d157a3a0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-15"
+    },
     {
       "title": "Figma announces new features to define how agents work on its platform",
       "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
