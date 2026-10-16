@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-10-16T10:13:26.344338+08:00",
-  "total": 3229,
+  "last_updated": "2026-10-16T18:15:19.413051+08:00",
+  "total": 3233,
   "news": [
+    {
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses to improve sight in patients&#8230;",
+      "published": "2026-10-16T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App"
+      ],
+      "id": "c9d6e5886da081b3e29f25ea148011dc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Love is infrastructure",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;",
+      "published": "2026-10-16T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Culture",
+        "App",
+        "fiction"
+      ],
+      "id": "2aaa2b1efe1db7c2eb2c627763c05371",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
+      "published": "2026-10-16T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "6ae330c33fcd0a2157c48681da8ec066",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early&#8230;",
+      "published": "2026-10-16T07:56:32+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Humans and technology",
+        "App",
+        "Opinion"
+      ],
+      "id": "75b7073ca7e11135005d3da8ed8244e5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
     {
       "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
       "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
