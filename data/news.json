@@ -1,7 +1,232 @@
 {
-  "last_updated": "2026-10-16T18:15:19.413051+08:00",
-  "total": 3233,
+  "last_updated": "2026-10-17T10:06:41.760990+08:00",
+  "total": 3246,
   "news": [
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "published": "2026-10-16T20:59:01+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "LLMs",
+        "models",
+        "openai",
+        "unalignment"
+      ],
+      "id": "3813289f4d22ebcbab482ac7e0a701cd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published": "2026-10-16T21:22:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Replit",
+        "TechCrunch Disrupt"
+      ],
+      "id": "13131774e8114bcfdc9fad3816a483c6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "published": "2026-10-16T17:52:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "India"
+      ],
+      "id": "4466435dcf8e678c76714aa4f7b494ad",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "published": "2026-10-16T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Venture",
+        "early stage venture",
+        "nvidia",
+        "robotics"
+      ],
+      "id": "0ee63cc50f718ae07d26ad998bc094c3",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "published": "2026-10-16T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Robotics",
+        "nvidia",
+        "Equity podcast",
+        "early stage venture"
+      ],
+      "id": "c43b789ab8004e804bf77cebf100f929",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "published": "2026-10-16T16:01:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "ai models",
+        "Exclusive"
+      ],
+      "id": "33eae345cea5336eb8716fae19906ff0",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "published": "2026-10-16T15:33:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Vercel"
+      ],
+      "id": "805c6efc7dd4cb7fc1e43d83c8de4692",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "published": "2026-10-16T14:26:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "filmmaking",
+        "TechCrunch Disrupt"
+      ],
+      "id": "460fbf9a3796d84a1f8f082297185d71",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "published": "2026-10-16T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Startups",
+        "TC",
+        "battlefield 20",
+        "Battlefield 200",
+        "TechCrunch Disrupt",
+        "Veritas"
+      ],
+      "id": "6df26837293dc915de24df422da77e75",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "published": "2026-10-16T12:55:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "AI agents",
+        "Amjad Masad",
+        "future of work",
+        "Replit",
+        "TechCrunch Disrupt"
+      ],
+      "id": "62c95b03adf65dd4af1aaa2d42915082",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+      "published": "2026-10-16T18:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "artificial intelligence",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "id": "57c41972947ec5cdcc4974eabedb4a6f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+      "published": "2026-10-16T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "482e4b85ac530056ea1a3e14d4859d81",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "summary": "",
+      "published": "2026-10-16T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "752ec58d0f63cb7e6b3baa1c21232ccb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-16"
+    },
     {
       "title": "This implant can restore sight for patients with macular degeneration",
       "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
