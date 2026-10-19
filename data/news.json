@@ -1,7 +1,66 @@
 {
-  "last_updated": "2026-10-19T10:22:47.642075+08:00",
-  "total": 3251,
+  "last_updated": "2026-10-19T19:24:55.349482+08:00",
+  "total": 3255,
   "news": [
+    {
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the&#8230;",
+      "published": "2026-10-19T09:22:17+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy"
+      ],
+      "id": "1d00f4700f69cbe46757b0c132fa30ba",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+      "published": "2026-10-19T09:08:05+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "372db7fd0c185c9278d366133885203e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "How far can we push computing?",
+      "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s&#8230;",
+      "published": "2026-10-19T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Computing",
+        "App",
+        "MIT Technology Review Explains"
+      ],
+      "id": "5630f8a4650410e5f666724d7f30e02a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "summary": "",
+      "published": "2026-10-15T09:08:45+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8a9b433bc9d8a115edfc76dc78a747dd",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-15"
+    },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
