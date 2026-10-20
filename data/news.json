@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-10-20T10:36:08.691740+08:00",
-  "total": 3273,
+  "last_updated": "2026-10-20T18:31:24.039879+08:00",
+  "total": 3276,
   "news": [
+    {
+      "title": "How to study a swiftly melting climate disaster",
+      "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+      "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
+      "published": "2026-10-20T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy"
+      ],
+      "id": "be8f776d8535311a3d97171b1cb4f182",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
+      "published": "2026-10-20T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "cec229fed3dc39026b2673ca83cffba2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "These startups hope “blended” food will cut our appetite for red meat",
+      "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+      "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&#160; Kids love&#8230;",
+      "published": "2026-10-20T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Features and Investigations"
+      ],
+      "id": "0e3b0982f00803a5d49a54f791832596",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
     {
       "title": "PSA: Patch your Plex media server before someone hacks it",
       "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
