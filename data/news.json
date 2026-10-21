@@ -1,7 +1,522 @@
 {
-  "last_updated": "2026-10-20T18:31:24.039879+08:00",
-  "total": 3276,
+  "last_updated": "2026-10-21T10:30:08.462426+08:00",
+  "total": 3309,
   "news": [
+    {
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "published": "2026-10-20T19:47:35+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "certificate authorities",
+        "private keys",
+        "tls",
+        "transport layer security"
+      ],
+      "id": "ec3f480ec6f3e1012f4321f31ee98ac6",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "published": "2026-10-20T12:33:13+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "meta",
+        "muse",
+        "privacy"
+      ],
+      "id": "c33d864d12a61280a4c9f265ab3d1e7c",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "published": "2026-10-20T23:01:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "policy"
+      ],
+      "id": "d1819ab5c66e067aabcee821c8b00f4f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "published": "2026-10-20T22:24:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Hugging Face",
+        "Netflix"
+      ],
+      "id": "df88e4093e3a6cc655974620bb5e563b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "published": "2026-10-20T21:25:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "cloud compute"
+      ],
+      "id": "b14d2c98d7d92c02d8e76c9e60a8de6a",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "published": "2026-10-20T20:40:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "Grok",
+        "SpaceX"
+      ],
+      "id": "d0ed25b4adb5b94a923995b67b4c1619",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "published": "2026-10-20T20:35:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "biotech",
+        "OpenAI"
+      ],
+      "id": "b275807812b7dd17bd70bebf7eb155ba",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "published": "2026-10-20T18:38:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "TC",
+        "Google"
+      ],
+      "id": "4d8868e651d146e3e8a1b6d49aaf8696",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "published": "2026-10-20T18:36:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ChatGPT"
+      ],
+      "id": "dd509f4a2f7db9fa59812ab19a7b318f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "published": "2026-10-20T17:55:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Anthropic",
+        "Eric Schmidt"
+      ],
+      "id": "4ef62f095ce7426358ec4bbf4457e81c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "published": "2026-10-20T17:12:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "Meta",
+        "muse"
+      ],
+      "id": "e272af73262f2476624b1febe814c559",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "published": "2026-10-20T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Climate",
+        "AI",
+        "Fundraising",
+        "plants",
+        "Exclusive",
+        "plant monitoring"
+      ],
+      "id": "494d9d2a63c169aea1bfe76e9c7727d9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+      "published": "2026-10-20T14:13:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Dylan Field",
+        "Figma"
+      ],
+      "id": "131888a4cac3af2c9be04effa0bced78",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "published": "2026-10-20T13:07:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "deepseek"
+      ],
+      "id": "baab9c27d2ea33a28c489ba6f963012e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+      "published": "2026-10-20T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Exclusive"
+      ],
+      "id": "185426ba2ac3ad8c78f07a3bec966676",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+      "published": "2026-10-20T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "General Catalyst",
+        "otter",
+        "otter.ai"
+      ],
+      "id": "85e233d0b16647512f4ea23aa103e647",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "published": "2026-10-20T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Yelp"
+      ],
+      "id": "06aafb86abeb14807a643718aedd7acd",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "934b437e77a5e88b9f43ab381e498b38",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Here’s the tea",
+      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "e7d303116f699af17a7e9957824c2def",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Melt it, spin it, use it again",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "533cd457949139192d69184c04ed147b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "A reason to eat carbs",
+      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty acids instead&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "4ed4914002ba8e5279096b6a4f089dff",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes Lachner, a former MIT postdoc who is now an assistant professor&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "d7b3b7815bd6ea508559d108bfe7d8e4",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Taking a swing at a pickleball startup",
+      "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+      "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don’t leave, I will die,” says Anderson, who was&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "f48cdf27684eeee93c28543db5f3616d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "A good TA: priceless",
+      "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
+      "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowicz, PhD ’87, returning my paper. He had a big smile on&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "98f3f51dec9317091627989fcae6d34f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Nebraska native explores galaxies far, far away",
+      "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+      "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her path into astronomy thanks&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "51b058343172a4e130914a9675c27ce9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "A champion for brain injury patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+      "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. “That group was a great way to learn about the human experience of what people go through when they experience a brain injury,” she says. And it laid&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "1a814b92bce8a07112c0991bcc82afae",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "A cleaner path to rare earth metals",
+      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.&#160; “I’m motivated because I’ve seen what metal-making does,” says Villalón, who majored&#8230;",
+      "published": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Uncategorized",
+        "MIT Alumni News"
+      ],
+      "id": "cb4c0cdbf98bffd64f021700e3c028dc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "summary": "",
+      "published": "2026-10-20T18:17:47+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "bafbb5974fa17f55a930ceef6a5716e1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "summary": "",
+      "published": "2026-10-20T16:09:19+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f40f87a51b415a0ad723538b4e6e56e3",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "summary": "",
+      "published": "2026-10-20T15:19:48+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8f295aae143e6d20a6b46894acc65951",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "summary": "",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "7c77a58ac56bd9a6e5487be4f3aab78b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "summary": "",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "ea9577625604d45f0f5bb3dc74cb21bc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "summary": "",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "2e40320aeb5e29e969bbcf57d24ad552",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-20"
+    },
     {
       "title": "How to study a swiftly melting climate disaster",
       "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
