@@ -1,7 +1,232 @@
 {
-  "last_updated": "2026-10-21T18:44:17.304104+08:00",
-  "total": 3319,
+  "last_updated": "2026-10-22T10:26:39.769011+08:00",
+  "total": 3333,
   "news": [
+    {
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "published": "2026-10-21T21:48:52+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "IT",
+        "software"
+      ],
+      "id": "8c848f41f8548ddb996142e21af6541f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "published": "2026-10-21T22:51:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Blackstone",
+        "CoreWeave",
+        "data centers",
+        "GPU",
+        "nvidia"
+      ],
+      "id": "c6715b01bd7e0768bd2a44eb45a13e75",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "published": "2026-10-21T21:16:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "TechCrunch Founder Summit"
+      ],
+      "id": "30e754caf978e91cdfa6513f4defd699",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "published": "2026-10-21T21:14:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "agentic commerce",
+        "ai apps",
+        "eCommerce",
+        "Meta",
+        "muse"
+      ],
+      "id": "ca1c5b18319b721b367f693e31c1e52c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "published": "2026-10-21T20:27:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "flint"
+      ],
+      "id": "12af459ff8f6cdb22ece577f0d8ab558",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "published": "2026-10-21T19:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "agentic shopping",
+        "AI agents",
+        "Amazon",
+        "Walmart"
+      ],
+      "id": "e6b6d4852fc92c0fb06435b1b733f89b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "published": "2026-10-21T17:59:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "OpenAI",
+        "php",
+        "wiz"
+      ],
+      "id": "c344635e541c5f19aab9064386a9d9d4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "published": "2026-10-21T17:18:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Blacksmith",
+        "In Brief",
+        "Sequoia",
+        "unicorn"
+      ],
+      "id": "f3f4777e99135a3570f68d20f9daa99c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "published": "2026-10-21T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI at work",
+        "Exclusive",
+        "management"
+      ],
+      "id": "1d707ef9b9de000ab304ffd606094198",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
+      "published": "2026-10-21T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "aaa6acc9325e92d2a573fb33f29ee2bb",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "summary": "",
+      "published": "2026-10-21T18:26:30+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f9255f6920089cd578989ca37063befc",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "summary": "",
+      "published": "2026-10-21T17:35:36+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "47ba5de6cc8455014d0c0d80ea3d2acf",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "summary": "",
+      "published": "2026-10-21T16:04:43+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "1c8b15aa0fc63a975658e2f725b8dbd5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "summary": "",
+      "published": "2026-10-21T14:58:18+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "08a293d0b0e375dab40e67e544805efc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-21"
+    },
     {
       "title": "PHP warns it plans to release 2 emergency patches imminently",
       "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
