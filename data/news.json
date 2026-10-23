@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-10-23T10:31:39.054242+08:00",
-  "total": 3357,
+  "last_updated": "2026-10-23T18:36:56.290259+08:00",
+  "total": 3359,
   "news": [
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "published": "2026-10-23T04:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Transportation",
+        "AI",
+        "nvidia",
+        "Pony.ai",
+        "indrive"
+      ],
+      "id": "3bfe5c41c86a24ab8522d611b3d76fae",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+      "published": "2026-10-23T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "466b49f0e46f244697f982f31141c7f8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-23"
+    },
     {
       "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
       "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
