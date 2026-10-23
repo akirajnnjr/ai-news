@@ -1,7 +1,346 @@
 {
-  "last_updated": "2026-10-22T18:45:19.561338+08:00",
-  "total": 3337,
+  "last_updated": "2026-10-23T10:31:39.054242+08:00",
+  "total": 3357,
   "news": [
+    {
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+      "published": "2026-10-22T20:17:52+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "cerfificate authority",
+        "encryption",
+        "tls",
+        "transport layer security"
+      ],
+      "id": "a5b6816ca771aa3d77c5da8bd49ea118",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "published": "2026-10-22T11:30:33+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "exploit",
+        "hacking",
+        "the onion router",
+        "tor"
+      ],
+      "id": "dff3280a6e35b773195d3e5c97f51c7d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "published": "2026-10-23T00:45:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "02cf9a7a48f9b2c6abc77c84754ea05d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "published": "2026-10-22T22:08:24+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "In Brief",
+        "OpenAI"
+      ],
+      "id": "c4c762c6b7472ecc9c15313d2d103e36",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "published": "2026-10-22T19:07:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "1password",
+        "dots",
+        "OpenAI",
+        "agents"
+      ],
+      "id": "c1230fd4012baae4263c7625929391b0",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "published": "2026-10-22T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "canva",
+        "image generation"
+      ],
+      "id": "591876a8e3e006964f6564e69a096e09",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "published": "2026-10-22T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive"
+      ],
+      "id": "8e6cfc22204fb217ce70d702347f41e6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "published": "2026-10-22T18:43:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "microsoft AI",
+        "Mustafa Suleyman"
+      ],
+      "id": "bc91e34a2351f2b0b2a9398d1182e038",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "published": "2026-10-22T16:47:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "connectwise",
+        "cybersecurity",
+        "data breach",
+        "In Brief",
+        "Microsoft"
+      ],
+      "id": "5126e80c6df37e6b92ab9a00cf5cf219",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "published": "2026-10-22T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI",
+        "Uber"
+      ],
+      "id": "73f5f9254af13193a9c664676431902d",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "published": "2026-10-22T15:03:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "music streaming",
+        "Spotify",
+        "streaming"
+      ],
+      "id": "abd23a18317ea67940406fb118b35dd3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "published": "2026-10-22T13:53:26+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai agent",
+        "Anthropic",
+        "Claude"
+      ],
+      "id": "2627a349dcf80f5ed77cf53af602db85",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "published": "2026-10-22T13:26:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "Lightspeed Venture Capital",
+        "wearables",
+        "South Park Commons",
+        "Ambient AI"
+      ],
+      "id": "b1c3b0ce40d1e82c94c7f2ace1680c91",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "published": "2026-10-22T13:11:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "artificial intellignce",
+        "deepseek",
+        "Funding",
+        "In Brief"
+      ],
+      "id": "c80a6608f1d2299f4ad6bc8058daff84",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "published": "2026-10-21T22:45:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "Facebook",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse"
+      ],
+      "id": "82f29ce2fd1aee5bb1cd9607dfebee1c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+      "published": "2026-10-22T21:17:29+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "c4f2e7d5237a4ccbafdb698ecf4c0ce5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+      "published": "2026-10-22T18:48:04+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "870bab36282f461e87a0c42f5cd9c00f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical&#8230;",
+      "published": "2026-10-22T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "18fd054694f0df0af990261aec4378b5",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "summary": "",
+      "published": "2026-10-22T22:24:34+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "2ff716135a10f11153bb9ed3e275576b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "summary": "",
+      "published": "2026-10-22T16:11:31+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "ea32a3cab37f95476b9c3c0a680a1dc4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
     {
       "title": "Making the case for context-aware AI",
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
