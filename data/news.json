@@ -1,7 +1,95 @@
 {
-  "last_updated": "2026-10-23T18:36:56.290259+08:00",
-  "total": 3359,
+  "last_updated": "2026-10-24T10:29:51.598664+08:00",
+  "total": 3365,
   "news": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "published": "2026-10-23T23:05:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "7384891d7abd016f1f03acd892d40c3a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "published": "2026-10-23T21:59:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Gadgets",
+        "TC",
+        "nvidia",
+        "pollen robotics",
+        "toys"
+      ],
+      "id": "67b40086dc1e89d5fcfc6e54abe2fbda",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "published": "2026-10-23T19:06:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Fundraising",
+        "TechCrunch Founder Summit"
+      ],
+      "id": "97fa418027d685dafac3d0502758c207",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
+      "published": "2026-10-23T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "6b37d84f817a2e25758938eb334e9b9b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "summary": "",
+      "published": "2026-10-23T16:15:50+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c8f212640f722e479863ee42b2c18525",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "summary": "",
+      "published": "2026-10-23T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f138b0509d7b9924e6576e0c5b462dab",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-23"
+    },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
