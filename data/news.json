@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-10-25T10:17:21.628662+08:00",
-  "total": 3369,
+  "last_updated": "2026-10-26T10:17:12.217344+08:00",
+  "total": 3372,
   "news": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "published": "2026-10-25T21:31:16+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Elon Musk",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "9e4fbbe069370a1fd97c40fab98753b8",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "published": "2026-10-25T16:57:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apollo Global Management"
+      ],
+      "id": "71c43854f4ff116510cbaf1cf0b73734",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "published": "2026-10-25T14:10:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Hardware",
+        "AI",
+        "Gadgets",
+        "wearables",
+        "evergreens",
+        "AI wearables"
+      ],
+      "id": "aab16b771856fabf3a40cf1bfab9d320",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-25"
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
