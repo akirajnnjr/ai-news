@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-27T10:53:19.106913+08:00",
-  "total": 3381,
+  "last_updated": "2026-10-27T19:10:37.037506+08:00",
+  "total": 3382,
   "news": [
+    {
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
+      "published": "2026-10-27T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "e3684c2635c4105cce5d99dffcb904a9",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
