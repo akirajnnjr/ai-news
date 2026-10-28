@@ -1,7 +1,341 @@
 {
-  "last_updated": "2026-10-27T19:10:37.037506+08:00",
-  "total": 3382,
+  "last_updated": "2026-10-28T11:01:02.501007+08:00",
+  "total": 3402,
   "news": [
+    {
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+      "published": "2026-10-27T20:25:55+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "bootkits",
+        "buffer overflow",
+        "disclosure",
+        "uefi"
+      ],
+      "id": "0a2e50643e4fe51d347623f225d69d3b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "published": "2026-10-28T01:15:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Amazon",
+        "Google",
+        "IPO",
+        "Anthropic"
+      ],
+      "id": "c372745ec78a06e5fdda6ce7934d75c2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "published": "2026-10-27T23:34:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI",
+        "OpenAI Files"
+      ],
+      "id": "092cb86201fbae8855684b309656e83c",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "published": "2026-10-27T22:55:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "data centers",
+        "TechCrunch Disrupt",
+        "Veir"
+      ],
+      "id": "5ac9e6d4ee78e6eb5b5fa26640f53c78",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "published": "2026-10-27T21:44:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "Security",
+        "agentic payments",
+        "Bank of America",
+        "Banking",
+        "cybersecurity"
+      ],
+      "id": "e36bd78a13d63ead3fa4873e50c5c7a7",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "published": "2026-10-27T21:38:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "id": "0ec9dae75184d61048cbbb8e4acbf566",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "published": "2026-10-27T18:55:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "disruptive",
+        "In Brief"
+      ],
+      "id": "fc5f9bdbfc14bb07aaa48b90d7572eb8",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "published": "2026-10-27T17:08:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Exclusive",
+        "MIT",
+        "OpenAI"
+      ],
+      "id": "636498a83af93057a8507371e24c9b81",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "published": "2026-10-27T16:30:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Genie",
+        "Google",
+        "google deepmind",
+        "world models"
+      ],
+      "id": "3ddb9b3e3bda7311007d8bb25ad7d497",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "published": "2026-10-27T14:59:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Enterprise AI",
+        "Exclusive",
+        "Meta",
+        "meta superintelligence labs"
+      ],
+      "id": "afdc5264df2f96c5e73a3493a982d0e5",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "published": "2026-10-27T13:32:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "CrowdStrike",
+        "cybersecurity",
+        "GMO Internet",
+        "Japan",
+        "security",
+        "south korea"
+      ],
+      "id": "96e811b7a717108de34ab307312a78cc",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "published": "2026-10-27T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Opera"
+      ],
+      "id": "2b97ba8c9771053de852c61e18ead024",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "published": "2026-10-27T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "abstract ventures",
+        "blackbird ventures",
+        "General COmpute",
+        "neocloud"
+      ],
+      "id": "d0d46f2666065419bce8154c9a25765d",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+      "published": "2026-10-27T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Accel",
+        "Exclusive",
+        "nvidia"
+      ],
+      "id": "867c05e1e13c4aa5882f656765d9e2a9",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
+      "published": "2026-10-27T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "109acab682492cec21eeb77c662d06a6",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+      "published": "2026-10-27T11:19:18+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "e3353615c610f4d0e12508fcb55888d3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "summary": "",
+      "published": "2026-10-27T17:16:52+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8a86ff04276ddc0f13ca0b5159bcb9b8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "summary": "",
+      "published": "2026-10-27T16:12:42+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "91bb99f4b7e5862dd31dbef78eaeaa9a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Kimina-Prover-RL",
+      "url": "https://huggingface.co/blog/project-numina/kimina-prover-rl",
+      "summary": "",
+      "published": "2025-08-14T12:13:01+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "245967f5e6e5b56f0d58f66dc5e63d66",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2025-08-14"
+    },
+    {
+      "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
+      "url": "https://huggingface.co/blog/project-numina/kimina-prover",
+      "summary": "",
+      "published": "2025-07-10T12:54:19+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8ba35885237fde68143ad8280c948ec8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2025-07-10"
+    },
     {
       "title": "How solid-state transformers could help power the AI boom",
       "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
