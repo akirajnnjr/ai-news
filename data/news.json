@@ -1,7 +1,295 @@
 {
-  "last_updated": "2026-10-28T11:01:02.501007+08:00",
-  "total": 3402,
+  "last_updated": "2026-10-29T11:28:03.156979+08:00",
+  "total": 3419,
   "news": [
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "published": "2026-10-28T21:58:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Azure",
+        "Microsoft"
+      ],
+      "id": "7d5ffdad902f6d2a1a84b617ff31c182",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "published": "2026-10-28T21:48:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "gemini",
+        "Google",
+        "Google Search"
+      ],
+      "id": "34b53368a5c19b91602d45edd7bceafb",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "published": "2026-10-28T21:34:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "id": "65911ac3f4f50838b86edb6d63438f9c",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "published": "2026-10-28T21:25:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
+      ],
+      "id": "1a03c7011eafc46533d303f5d9500563",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "published": "2026-10-28T19:19:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "id": "b2173123b9bf5b7b31e0f2490e63a69e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+      "published": "2026-10-28T19:05:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Startups",
+        "CTO",
+        "cybersecurity",
+        "Equity Video",
+        "php",
+        "wiz"
+      ],
+      "id": "4c18a8b504fc73a69660c43b320ab329",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+      "published": "2026-10-28T18:50:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Startups",
+        "cybersecurity",
+        "Equity podcast",
+        "php",
+        "wiz"
+      ],
+      "id": "e0fde9d76dfcab43c463a74ee091f2c4",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "published": "2026-10-28T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Chrome",
+        "Google",
+        "In Brief"
+      ],
+      "id": "7a28b9ee4e283bb27d46862f6871243e",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "published": "2026-10-28T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google",
+        "Google Search"
+      ],
+      "id": "7fbbcf0aac9e91420152d438ff28f0bc",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "published": "2026-10-28T15:53:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Social",
+        "Marissa Mayer"
+      ],
+      "id": "b01917f8b2b42f5c6fbffcb2c4ffbeed",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "published": "2026-10-28T15:41:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "CrowdStrike",
+        "cybersecurity"
+      ],
+      "id": "a25dd0954befb28c4ebae1ed2b75105a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "published": "2026-10-28T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "In Brief",
+        "nvidia"
+      ],
+      "id": "4de33f2bccf585e4efdf418c7ba6e1d2",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+      "published": "2026-10-28T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "313f7a5d4fe7acbf4632bb5637b998e2",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+      "published": "2026-10-28T20:32:02+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "52fa9eb7caabe7399ebba1c7f33ea528",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;",
+      "published": "2026-10-28T12:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "625cd70e87491200b888d98f5186989a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "summary": "",
+      "published": "2026-10-28T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "2b0a5d044d7f5155df8bc743590ed518",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "summary": "",
+      "published": "2026-10-28T14:58:17+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "1a2fcc5f3d88c376d38561042d54a373",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-10-28"
+    },
     {
       "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
