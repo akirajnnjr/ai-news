@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-10-29T11:28:03.156979+08:00",
-  "total": 3419,
+  "last_updated": "2026-10-29T19:53:09.542529+08:00",
+  "total": 3421,
   "news": [
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
+      "published": "2026-10-29T10:11:12+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Opinion"
+      ],
+      "id": "468ea3c00c34a75a46b6f5108a9a074b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Our climate models have a big, dangerous blind spot",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of&#8230;",
+      "published": "2026-10-29T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "f6dc7f78867295b0a8c8c17ea6d3d161",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-29"
+    },
     {
       "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
       "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
