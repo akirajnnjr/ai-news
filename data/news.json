@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-10-30T11:30:31.951063+08:00",
-  "total": 3439,
+  "last_updated": "2026-10-30T19:46:06.784237+08:00",
+  "total": 3440,
   "news": [
+    {
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
+      "published": "2026-10-30T09:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "id": "55b8332d80ab802f3ae415e64f7b0d12",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-10-30"
+    },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
