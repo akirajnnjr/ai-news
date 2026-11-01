@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-10-31T11:15:04.344321+08:00",
-  "total": 3456,
+  "last_updated": "2026-11-01T11:13:37.982102+08:00",
+  "total": 3460,
   "news": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "published": "2026-10-31T21:41:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apple",
+        "John Ternus"
+      ],
+      "id": "8462b9fc7109b30ba03f782bf029b44d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "published": "2026-10-31T21:36:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Venture",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "ec476f3f219d882d4404942e6f413941",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "published": "2026-10-31T21:17:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "SpaceX",
+        "xAI"
+      ],
+      "id": "9a46afb49d1d4059b85b2bb064c9dc05",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "published": "2026-10-31T16:12:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "OpenAI"
+      ],
+      "id": "149be8f7454bcbdeb76d032bf369e407",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-01"
+    },
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
