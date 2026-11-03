@@ -1,7 +1,242 @@
 {
-  "last_updated": "2026-11-02T21:59:28.360349+08:00",
-  "total": 3466,
+  "last_updated": "2026-11-03T12:33:39.569980+08:00",
+  "total": 3479,
   "news": [
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "published": "2026-11-03T03:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Android",
+        "Google",
+        "iOS",
+        "Dreambeans"
+      ],
+      "id": "36719bfa3896332cb6c0703462b19743",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "published": "2026-11-03T01:49:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "AI",
+        "Apple",
+        "earnings"
+      ],
+      "id": "dc645454d4f3c1091e7b71326ae0a7d0",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "published": "2026-11-03T00:35:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "garry tan",
+        "Y Combinator"
+      ],
+      "id": "30470ccd04740effe5eaa997a3b07696",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "published": "2026-11-02T23:13:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "fine-tuning",
+        "Sequoia"
+      ],
+      "id": "c368c304bd55e435c140688a32e1ff5f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "published": "2026-11-02T22:14:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "RSI"
+      ],
+      "id": "b86b88ec9ca0ed8c65c70dff76f852cb",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "published": "2026-11-02T19:25:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Layoffs",
+        "Squarespace",
+        "vibe coding"
+      ],
+      "id": "fb0e372c442dbfd89da1a96dc62e86b9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "published": "2026-11-02T19:19:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Brave",
+        "In Brief",
+        "new york times"
+      ],
+      "id": "a72f414af34a3b878b0a4b19cf5e714c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "published": "2026-11-02T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "behavioral analysis",
+        "Exclusive",
+        "predictive analytics",
+        "world models"
+      ],
+      "id": "b6e2d45456503ed8aad761a80376e836",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "published": "2026-11-02T16:23:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "Grok",
+        "In Brief"
+      ],
+      "id": "b7a0e68320c363eab538ae7fb460d45b",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "published": "2026-11-02T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "data centers",
+        "Exclusive",
+        "infrastructure",
+        "Mergers and Acquisitions",
+        "omen ai"
+      ],
+      "id": "d2641740e5f255ec3c91f39166b47e59",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "published": "2026-11-02T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Robotics",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "d801d01114370714d840dbbdf1a5212d",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "published": "2026-11-01T02:22:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Media & Entertainment",
+        "data centers",
+        "elections"
+      ],
+      "id": "4876e27ef4f777e1fe26795b7fd7d33a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+      "published": "2026-11-02T17:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "adc599e6d52afcafa9369dac26299342",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
     {
       "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
       "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
