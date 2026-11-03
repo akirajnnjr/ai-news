@@ -1,7 +1,74 @@
 {
-  "last_updated": "2026-11-03T12:33:39.569980+08:00",
-  "total": 3479,
+  "last_updated": "2026-11-03T21:07:53.553535+08:00",
+  "total": 3483,
   "news": [
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "published": "2026-11-03T07:20:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "Apple Watch",
+        "audio",
+        "iOS"
+      ],
+      "id": "8f6f2c9dfcc5798645ff613676ec13c7",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;",
+      "published": "2026-11-03T10:43:41+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "5a465e187c017a307a6991dc4da60296",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
+      "published": "2026-11-03T04:18:47+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "72788a4d358feca281fddd03fc08048d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "summary": "",
+      "published": "2026-11-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "bfd21100addf45ff9cb0b58b37915a6a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
     {
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
       "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
