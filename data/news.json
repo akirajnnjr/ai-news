@@ -1,7 +1,274 @@
 {
-  "last_updated": "2026-11-03T21:07:53.553535+08:00",
-  "total": 3483,
+  "last_updated": "2026-11-04T11:53:45.794466+08:00",
+  "total": 3499,
   "news": [
+    {
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "published": "2026-11-03T16:03:13+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "microsoft",
+        "secure boot",
+        "uefi",
+        "Windows"
+      ],
+      "id": "158871a550ee7fda7a70866e44468506",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "published": "2026-11-03T22:41:03+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "cryptography",
+        "inference"
+      ],
+      "id": "bf81805a5ae860b994873a9158cd9f23",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "published": "2026-11-03T22:19:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "data centers"
+      ],
+      "id": "4970a06a586ccae03c7884f4e86c0351",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "published": "2026-11-03T21:43:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Venture",
+        "Ballistic Ventures",
+        "Exclusive"
+      ],
+      "id": "0835e4c1adb39f7fac54d5bdd1930d2a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "published": "2026-11-03T21:05:55+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Palantir"
+      ],
+      "id": "656673d20b5c101d28d01f6bdb8ec06b",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "published": "2026-11-03T19:34:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Bessemer Venture Partners",
+        "In Brief",
+        "inference",
+        "infrastructure"
+      ],
+      "id": "0018ea6e4618a3fe55b0e320d889c170",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "published": "2026-11-03T18:42:16+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Netflix"
+      ],
+      "id": "b0c96602861bfc20ffcbd28d6c386251",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "published": "2026-11-03T17:07:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "id": "741c3465b3a0806b09101bb02255213a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "published": "2026-11-03T16:30:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Education",
+        "Google",
+        "Google Search"
+      ],
+      "id": "a7a0eeaf87bf41d8c7dae60571dcdf30",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "published": "2026-11-03T15:38:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai companion",
+        "app store",
+        "Apple",
+        "online dating"
+      ],
+      "id": "74ef1aa5540cfddda2fbd4e87fcc735a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "published": "2026-11-03T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Venture",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "6e35125c5685c9ad0769df86001651cd",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "published": "2026-11-03T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Fundraising"
+      ],
+      "id": "1c0da3afe6ce5b02d5848c5fd45bf8ba",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;",
+      "published": "2026-11-03T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "245ee58e8a6038878ae7fb95c6dd5f89",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "summary": "",
+      "published": "2026-11-03T17:15:21+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "a328083f20b9ec3f67d4c2a67d66c278",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "summary": "",
+      "published": "2026-11-03T16:35:36+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c501698baa947693a9801dc3c1033a10",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "summary": "",
+      "published": "2026-11-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "d4fbf7da3a03cd8b8372b18d39554189",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-03"
+    },
     {
       "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
       "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
