@@ -1,7 +1,30 @@
 {
-  "last_updated": "2026-11-04T11:53:45.794466+08:00",
-  "total": 3499,
+  "last_updated": "2026-11-04T21:23:46.010804+08:00",
+  "total": 3500,
   "news": [
+    {
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "published": "2026-11-04T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "id": "b0dafb43d08cb3f4d674515f288f79a3",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-04"
+    },
     {
       "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
       "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
