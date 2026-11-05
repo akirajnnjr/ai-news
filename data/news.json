@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-05T12:13:01.828894+08:00",
-  "total": 3521,
+  "last_updated": "2026-11-05T21:37:58.833045+08:00",
+  "total": 3526,
   "news": [
+    {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "published": "2026-11-05T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Exclusive"
+      ],
+      "id": "ddef7f7b40b18c0e1a5bbd67df066659",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "published": "2026-11-05T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics"
+      ],
+      "id": "ab92969d84578d5f22311f3b7dff9980",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+      "published": "2026-11-05T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "9c89422fe59e039a8c919d613715a5f1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally&#8230;",
+      "published": "2026-11-05T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "46f205467f75c2a5b3090a54b45ee14f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "summary": "",
+      "published": "2026-11-05T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "7a0374977c7745884b46bf9f0b4b1a5f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-05"
+    },
     {
       "title": "Hackers exploited iOS and Android flaws to infect phones",
       "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
