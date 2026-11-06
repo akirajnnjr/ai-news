@@ -1,7 +1,103 @@
 {
-  "last_updated": "2026-11-06T12:10:32.598083+08:00",
-  "total": 3538,
+  "last_updated": "2026-11-06T21:21:08.542832+08:00",
+  "total": 3544,
   "news": [
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "published": "2026-11-06T13:02:16+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "local AI",
+        "underdog"
+      ],
+      "id": "9ae4899642152a010e07e5242ca7d07d",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "published": "2026-11-06T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "world models",
+        "physical ai"
+      ],
+      "id": "6d72973eed55f30e014a1d554dc13550",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "published": "2026-11-06T06:28:32+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "Lightspeed Venture Capital",
+        "M&A",
+        "palo alto networks",
+        "signalfire"
+      ],
+      "id": "aa3547203e76d8ef896ab6eb8d8a996e",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+      "published": "2026-11-06T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "51dda1debcfd95a8e8c76c0f165753a1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+      "published": "2026-11-06T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "9552db008db1e41513ea3f187dd0a821",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "summary": "",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "0626389f477c076fb87e8a672b11a2ff",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-06"
+    },
     {
       "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
       "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
