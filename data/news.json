@@ -1,7 +1,186 @@
 {
-  "last_updated": "2026-11-06T21:21:08.542832+08:00",
-  "total": 3544,
+  "last_updated": "2026-11-07T11:43:28.672545+08:00",
+  "total": 3554,
   "news": [
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "published": "2026-11-06T20:56:41+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "blockchain",
+        "breaches",
+        "chainalysis",
+        "hacking"
+      ],
+      "id": "9678fc2a3d3771add41543715d61716f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "published": "2026-11-07T01:40:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Google",
+        "datacenter",
+        "ai infrastructure",
+        "crusoe"
+      ],
+      "id": "bfdaf195a235ade150c92aa42215e96b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "published": "2026-11-06T22:53:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "fundraising",
+        "In Brief",
+        "OpenAI"
+      ],
+      "id": "41cd6da548e02af9f26497eba445b82c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "published": "2026-11-06T18:44:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "cyberattack",
+        "artex"
+      ],
+      "id": "37d75a0fa3790bf4ac75d250aeccd452",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "published": "2026-11-06T18:44:20+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "agents",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse"
+      ],
+      "id": "dcfedcc7440be1b63e34f9fdd075f41e",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+      "published": "2026-11-06T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "marvell",
+        "CrowdStrike",
+        "OpenAI",
+        "Equity podcast",
+        "midterms"
+      ],
+      "id": "39eb6389cd506408a2347f3f4c8f49cf",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+      "published": "2026-11-06T17:23:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "CrowdStrike",
+        "data center",
+        "midterms",
+        "OpenAI"
+      ],
+      "id": "8f51c7b390aa45bf24423206c62a9ec4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "published": "2026-11-06T15:54:47+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Anthropic",
+        "Enterprise AI spend",
+        "OpenAI",
+        "Ramp"
+      ],
+      "id": "7b5a2965d87a1f12515a052dcaed7672",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "published": "2026-11-06T14:10:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "Amazon",
+        "eCommerce"
+      ],
+      "id": "bacb3f0e9b0a9c2b9e55d00ef9aa33d8",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "summary": "",
+      "published": "2026-11-06T14:00:48+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "27984b16f9bcc04a3d6e5e0545da4ba2",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-06"
+    },
     {
       "title": "Underdog shows off a 32MB speech model in new demo",
       "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
