@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-11-08T11:20:54.147614+08:00",
-  "total": 3556,
+  "last_updated": "2026-11-09T11:39:48.554814+08:00",
+  "total": 3557,
   "news": [
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "published": "2026-11-08T21:00:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "nvidia",
+        "Jensen Huang"
+      ],
+      "id": "d417e4f21505a48adb494e78f5a2317b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-09"
+    },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
