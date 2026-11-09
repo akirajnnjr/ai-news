@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-11-09T11:39:48.554814+08:00",
-  "total": 3557,
+  "last_updated": "2026-11-09T22:32:38.599203+08:00",
+  "total": 3563,
   "news": [
+    {
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "published": "2026-11-09T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "TC",
+        "AI",
+        "Apps",
+        "WordPress",
+        "Lovable"
+      ],
+      "id": "0fe933f7440bef573344571cf9c7ce03",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "published": "2026-11-09T05:26:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Jensen Huang"
+      ],
+      "id": "13f4eae92136ca7b50048e6cb469f992",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,&#8230;",
+      "published": "2026-11-09T13:15:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c145211558dd5d604fd1b7c647b917ef",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+      "published": "2026-11-09T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "08088be30a8e00a4cc37523bb66cccdd",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&#8230;",
+      "published": "2026-11-09T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "Opinion"
+      ],
+      "id": "8be9fd4aca1a569c0c3b005473c8d415",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "summary": "",
+      "published": "2026-11-09T12:34:29+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "885842594d3710d77c1394ce1fe390d2",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-09"
+    },
     {
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
