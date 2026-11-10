@@ -1,7 +1,70 @@
 {
-  "last_updated": "2026-11-10T13:12:13.348119+08:00",
-  "total": 3578,
+  "last_updated": "2026-11-10T21:52:39.891628+08:00",
+  "total": 3582,
   "news": [
+    {
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "published": "2026-11-10T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Security",
+        "AI",
+        "open source",
+        "cyberattacks",
+        "Hugging Face",
+        "Equity podcast"
+      ],
+      "id": "dfc52740f1c685c92d1b914a91fafde8",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "published": "2026-11-10T07:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "otter ai"
+      ],
+      "id": "fc66a21ca327a046de776124a4eba7f3",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
+      "published": "2026-11-10T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "c31928bbebfd03bc1453f399d6a62b87",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;",
+      "published": "2026-11-10T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Engineering",
+        "sponsored"
+      ],
+      "id": "2d5bc13d49d0727ce1641b5694880a8a",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
     {
       "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
       "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
