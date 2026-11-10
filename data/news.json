@@ -1,7 +1,262 @@
 {
-  "last_updated": "2026-11-09T22:32:38.599203+08:00",
-  "total": 3563,
+  "last_updated": "2026-11-10T13:12:13.348119+08:00",
+  "total": 3578,
   "news": [
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "published": "2026-11-09T19:41:34+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "Linux",
+        "openssh",
+        "SSH"
+      ],
+      "id": "192335266dc05c834a3736535847574b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "published": "2026-11-10T01:27:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "IPO",
+        "valuation",
+        "Anthropic",
+        "In Brief"
+      ],
+      "id": "55ff5cbc62ee713f9a18f34f09be14e3",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "published": "2026-11-09T23:28:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "China",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "a418baa2661a36e74303df97c1ccf11f",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "published": "2026-11-09T22:46:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "nvidia",
+        "Jensen Huang"
+      ],
+      "id": "67a80703c5c37cb3ebe63d6b7a45827c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "published": "2026-11-09T22:23:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Jensen Huang",
+        "Litigation",
+        "nvidia"
+      ],
+      "id": "e7ff3531a33d6a4dbbf1643650125a23",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "published": "2026-11-09T20:09:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ElevenLabs",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "cd02f18399f3edfcb58a5ded431dfec1",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "published": "2026-11-09T19:24:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "id": "9d2e28e73a2d3504185b28d2f95a8ee9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "published": "2026-11-09T18:09:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Government & Policy"
+      ],
+      "id": "c81f482fdf110b88cc3533ceaca2672b",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "published": "2026-11-09T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Meta",
+        "meta superintelligence lab",
+        "muse"
+      ],
+      "id": "9b99d3e8fbba152424b37d695287863e",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "published": "2026-11-09T16:56:54+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Anthropic",
+        "data centers",
+        "natural gas"
+      ],
+      "id": "f3c522ff77f3b76aae89ed0894951112",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "published": "2026-11-09T16:12:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "Medium",
+        "Publishing"
+      ],
+      "id": "9ed094811c690553f61707f8b2d8a8ec",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "published": "2026-11-07T04:16:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "big tech"
+      ],
+      "id": "9f1e12639c713ed97fb6c74150812bb1",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
+      "published": "2026-11-09T19:35:33+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "id": "1127808f36fe946cdeac75d1e17843fc",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
+      "published": "2026-11-09T17:05:43+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "id": "9541439da1a607fd8ff4011adc253439",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "summary": "",
+      "published": "2026-11-09T15:05:57+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c91b630715741680c48f1804db684a49",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-09"
+    },
     {
       "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
       "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
