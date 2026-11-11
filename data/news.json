@@ -1,7 +1,317 @@
 {
-  "last_updated": "2026-11-10T21:52:39.891628+08:00",
-  "total": 3582,
+  "last_updated": "2026-11-11T11:44:41.158563+08:00",
+  "total": 3600,
   "news": [
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "published": "2026-11-10T21:12:59+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "grok build",
+        "privacy",
+        "vibe coding"
+      ],
+      "id": "4514984ec2ddf20a2103ec8b087a5fd9",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "published": "2026-11-10T21:08:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "travel"
+      ],
+      "id": "24b56e0e82fbea849eeb064f729be715",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "published": "2026-11-10T20:52:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "ai safety",
+        "Anthropic",
+        "kathy hochul",
+        "OpenAI",
+        "raise act"
+      ],
+      "id": "eb94be6281ea48201ee445eb0d2ef732",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "published": "2026-11-10T19:57:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Anthropic"
+      ],
+      "id": "6fc8f319c68f754397b6d8ba5dc138b7",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "published": "2026-11-10T19:23:34+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Mergers and Acquisitions",
+        "oura"
+      ],
+      "id": "d29090d0b774daa561e83d520622c006",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "published": "2026-11-10T19:03:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "science"
+      ],
+      "id": "a032a0b0222a87eb27ab5b5289ff2371",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "published": "2026-11-10T18:49:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "ChatGPT",
+        "e-commerce",
+        "OpenAI"
+      ],
+      "id": "4b68cc7db805bd1974dd868f48f47e8a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "published": "2026-11-10T17:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Anthropic",
+        "Anthropic Claude"
+      ],
+      "id": "994129552b18505b4e6a06cee8220fef",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "2026-11-10T17:04:19+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "China",
+        "nvidia",
+        "Donald Trump",
+        "Jensen Huang"
+      ],
+      "id": "5d35c297f500a28943b7fbd6835b5fef",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "published": "2026-11-10T15:54:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "AI chips",
+        "Google",
+        "nvidia",
+        "tensor processing unit",
+        "TPUs"
+      ],
+      "id": "af325a13228f8f12e162a0fd29438606",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "published": "2026-11-10T15:29:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "AI agents",
+        "Meta",
+        "muse"
+      ],
+      "id": "5ab46a1f966a1dd15ff1a6827baa8a4d",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "published": "2026-11-10T14:05:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Adobe",
+        "photoshop",
+        "Adobe Firefly",
+        "AI agents"
+      ],
+      "id": "2691bfd505194ce6febf2aaf1bf86f21",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "published": "2026-11-10T14:01:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "anthropic ipo",
+        "Claude",
+        "IPO"
+      ],
+      "id": "1a6a4c972e5ba44338cbd9229134d036",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "published": "2026-11-10T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI agents",
+        "Cyanogen",
+        "Kora"
+      ],
+      "id": "9430d602e3040966bea42968a02eeef7",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "published": "2026-11-10T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "ai dj",
+        "Spotify",
+        "Spotify's AI DJ",
+        "streaming music"
+      ],
+      "id": "f778863a4b6873574a02979df0980287",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "published": "2026-11-10T13:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Robotics",
+        "Amazon",
+        "drones",
+        "Ring"
+      ],
+      "id": "ca5bae48d29b131bcaf9b96eda109a08",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "summary": "",
+      "published": "2026-11-10T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "992e8c4109473216a8eb363b1a566afd",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "summary": "",
+      "published": "2026-11-10T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "de10773c014618cc1181150149f6c000",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-10"
+    },
     {
       "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
       "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
