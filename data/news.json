@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-11-11T11:44:41.158563+08:00",
-  "total": 3600,
+  "last_updated": "2026-11-11T21:04:29.627903+08:00",
+  "total": 3602,
   "news": [
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "published": "2026-11-11T07:30:51+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC"
+      ],
+      "id": "844ff10dd21c63a217651485a2206854",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "summary": "",
+      "published": "2026-11-11T05:01:16+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "4c5ef8a2d9eadfaa3f3288747e20fac2",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-11-11"
+    },
     {
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
