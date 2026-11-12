@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-11-12T12:53:10.118667+08:00",
-  "total": 3619,
+  "last_updated": "2026-11-12T22:07:05.645689+08:00",
+  "total": 3621,
   "news": [
+    {
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "published": "2026-11-12T13:26:25+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "south korea",
+        "TechCrunch Disrupt",
+        "South Korea startup",
+        "Startup Battlefield 200"
+      ],
+      "id": "31f20ed94fca0fb3318ea7791556eb26",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
+      "published": "2026-11-12T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "cfcba6f2e65c8be4397ef1e3b1483c7b",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-12"
+    },
     {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
