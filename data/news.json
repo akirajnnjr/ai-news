@@ -1,7 +1,190 @@
 {
-  "last_updated": "2026-11-13T21:31:32.510313+08:00",
-  "total": 3646,
+  "last_updated": "2026-11-14T12:01:24.601527+08:00",
+  "total": 3657,
   "news": [
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "published": "2026-11-13T16:26:32+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "exploits",
+        "microsoft",
+        "vulnerabilities",
+        "Windows",
+        "zerodays"
+      ],
+      "id": "cc5bf82c102acb68e2fff504824fdbae",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "published": "2026-11-13T22:43:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Jensen Huang",
+        "neocloud",
+        "nvidia",
+        "open source"
+      ],
+      "id": "8d23e88a0f9bcd333c45ee5c9d8e313b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "published": "2026-11-13T19:37:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "agent",
+        "In Brief",
+        "langchain"
+      ],
+      "id": "26d265ce671c85ecacf438c524bb2969",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "published": "2026-11-13T18:40:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "banned ai",
+        "nvidia"
+      ],
+      "id": "3bcb8ca81cbad6cd6d0d656f7520970c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "published": "2026-11-13T16:00:12+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "ChatGPT",
+        "dots",
+        "eCommerce",
+        "OpenAI",
+        "shopping"
+      ],
+      "id": "a89e405114485a54eebb7af48bbc58a9",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "2026-11-13T15:58:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "China",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "9c558a7ae32683ab3cf9a7817f60729c",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "published": "2026-11-13T14:44:48+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "ElevenLabs",
+        "granola",
+        "Meeting notetakers"
+      ],
+      "id": "c6494705d362bbaf4899b43b4892e671",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+      "published": "2026-11-13T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "2f156a26578b5bc10135f6f8e988593f",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "summary": "",
+      "published": "2026-11-13T18:00:39+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "9c47793813e07906377654923fbb430e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "summary": "",
+      "published": "2026-11-13T17:02:35+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "e9d93e607b69854cc81f1ae89963f123",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "summary": "",
+      "published": "2026-11-13T14:05:22+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "1f76189be1eacadc04ed519961f68f73",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-11-13"
+    },
     {
       "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
       "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
