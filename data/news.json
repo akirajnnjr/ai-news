@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-11-14T12:01:24.601527+08:00",
-  "total": 3657,
+  "last_updated": "2026-11-15T11:47:45.468613+08:00",
+  "total": 3661,
   "news": [
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "published": "2026-11-15T00:08:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "nvidia"
+      ],
+      "id": "0cbac1debe315f54963baeba52c7c878",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "published": "2026-11-14T21:41:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Amjad Masad",
+        "Elon Musk",
+        "Jensen Huang",
+        "nvidia",
+        "tim sweeney"
+      ],
+      "id": "7502b262d99d4b3c1b2447af54965c47",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "2026-11-14T17:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Microsoft",
+        "OpenAI",
+        "evergreens",
+        "siri ai"
+      ],
+      "id": "17dd6d164624ae18cd2f30bad64f1813",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "published": "2026-11-14T16:34:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "TC",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "4392222fa3b074034e9ed7af3a872589",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-15"
+    },
     {
       "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
       "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
