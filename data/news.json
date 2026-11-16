@@ -1,7 +1,42 @@
 {
-  "last_updated": "2026-11-16T11:48:14.014640+08:00",
-  "total": 3665,
+  "last_updated": "2026-11-16T22:08:12.159126+08:00",
+  "total": 3667,
   "news": [
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "published": "2026-11-16T12:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Enterprise",
+        "Startups",
+        "AI",
+        "Accel",
+        "CRM",
+        "Exclusive",
+        "freshworks",
+        "Together Fund"
+      ],
+      "id": "67c0dbdc21f25ebca8fe8cd5ccbc027c",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are&#8230;",
+      "published": "2026-11-16T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "b63d95711a1030fb69ea91be9c9b4a82",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-16"
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
