@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-11-15T11:47:45.468613+08:00",
-  "total": 3661,
+  "last_updated": "2026-11-16T11:48:14.014640+08:00",
+  "total": 3665,
   "news": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "published": "2026-11-16T01:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "Health",
+        "openevidence"
+      ],
+      "id": "74c2539a197400ce2810876123a432b8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "published": "2026-11-15T23:30:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Startups",
+        "AI",
+        "Info edge",
+        "physical ai"
+      ],
+      "id": "22756b5773130bd071ae30f2a8a7c1eb",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "published": "2026-11-15T21:56:35+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Equity podcast",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "b95b24505d9f9fa9c0d989f70263a48a",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "published": "2026-11-15T20:20:57+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "Jensen Huang",
+        "nvidia",
+        "Saturday night live",
+        "SNL"
+      ],
+      "id": "a63866f99390729adf8d3a049d33708b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-16"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
