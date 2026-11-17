@@ -1,7 +1,111 @@
 {
-  "last_updated": "2026-11-17T13:42:03.013460+08:00",
-  "total": 3684,
+  "last_updated": "2026-11-17T23:01:07.542910+08:00",
+  "total": 3690,
   "news": [
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "published": "2026-11-17T14:00:29+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "check-ins",
+        "grok bot",
+        "prompts"
+      ],
+      "id": "7d6b1aee59d2353e7197421066e8c920",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "published": "2026-11-17T14:50:58+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Fundraising",
+        "AI drug discovery",
+        "DeepMind",
+        "drug research",
+        "isomorphic labs"
+      ],
+      "id": "d9a30601c5dbd1d64baad467ec807cd5",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+      "published": "2026-11-17T14:26:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Biotech & Health",
+        "Brain",
+        "science",
+        "Startups"
+      ],
+      "id": "ade583b060f12f0fef78ed0bcfd6f80e",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "published": "2026-11-17T14:05:30+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "1ce6a3efe660616ac4e9b885a9bbd4bc",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "published": "2026-11-17T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Spotify"
+      ],
+      "id": "34711bc4c1a8b9b9ac458286f06ad059",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
+      "published": "2026-11-17T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "7e0475dea8c7f7b86d1e626e950f4940",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-17"
+    },
     {
       "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
