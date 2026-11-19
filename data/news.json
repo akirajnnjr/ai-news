@@ -1,7 +1,336 @@
 {
-  "last_updated": "2026-11-18T22:41:49.945641+08:00",
-  "total": 3718,
+  "last_updated": "2026-11-19T13:00:32.178539+08:00",
+  "total": 3738,
   "news": [
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "published": "2026-11-19T00:42:56+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "buyouts",
+        "Microsoft"
+      ],
+      "id": "0f46293e3612b41e9d0a8c50ea08768a",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "published": "2026-11-18T23:45:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "cyberattacks",
+        "Microsoft",
+        "Outlook"
+      ],
+      "id": "5d67ac67da7b88b9c60682e5da3d7c39",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "published": "2026-11-18T23:25:17+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "576b29b1a21302ca9a1f10dc95177683",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "published": "2026-11-18T23:17:28+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Jensen Huang",
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "id": "5ac4e453ed83f4d7048d1dac5be6d224",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "published": "2026-11-18T22:58:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "In Brief",
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "id": "fac74cc95111f0ba81426e873b1214f1",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "published": "2026-11-18T22:11:15+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "anthropic ipo",
+        "IPO"
+      ],
+      "id": "dcfcb32bd475feea052cd5d9acf1451e",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "published": "2026-11-18T21:57:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "nvidia",
+        "SEC"
+      ],
+      "id": "76d6931534fa9df2e59c29e529cd4573",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "published": "2026-11-18T21:34:13+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "cyberattacks",
+        "Palmer Luckey",
+        "security"
+      ],
+      "id": "33520312c7befee187099c766ff1d1e9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "published": "2026-11-18T21:31:21+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "anduril",
+        "Jensen Huang",
+        "nvidia",
+        "Palmer Luckey"
+      ],
+      "id": "f91436576411bb8cc112581d8e829f50",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "published": "2026-11-18T20:07:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Media & Entertainment",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "2e49dd9ca02f8207c34967dd8bdc10e6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "published": "2026-11-18T19:56:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Snapchat"
+      ],
+      "id": "90ca97b0101bea4eb0d41805ad72f6aa",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "published": "2026-11-18T18:04:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Privacy",
+        "ai mode",
+        "Google",
+        "Search"
+      ],
+      "id": "aa624a0de54a3305c7a6e4361b9fa64b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "published": "2026-11-18T17:32:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "AI agents",
+        "Banking",
+        "cybersecurity"
+      ],
+      "id": "a402e5afc7430d5de87570b315ab6ebe",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "published": "2026-11-18T16:59:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "greg brockman",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "b26bbd76c789e330e871c8e28e4f07ab",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "published": "2026-11-18T16:14:09+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "greg brockman",
+        "Jensen Huang",
+        "nvidia",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "74375866510a893c9677819e5fd7e7c9",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+      "published": "2026-11-18T14:42:44+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "AI",
+        "AI Hype Index",
+        "App"
+      ],
+      "id": "1294e01be55f9c595556a72c5ff0b388",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "summary": "",
+      "published": "2026-11-18T19:54:56+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "2d3bb8f13d73ac138025a699426ec724",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "summary": "",
+      "published": "2026-11-18T18:53:43+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "5095af2e2b71cd6b2b4715e2e6cbfa28",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "summary": "",
+      "published": "2026-11-18T15:00:23+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "f99b49e5fcc59476bba6d2a0fe4972a0",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "summary": "",
+      "published": "2026-11-18T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "2a8e5c49de3f8f2be06d31acc9974b0a",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-18"
+    },
     {
       "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
       "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
