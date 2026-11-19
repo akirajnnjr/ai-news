@@ -1,7 +1,88 @@
 {
-  "last_updated": "2026-11-19T13:00:32.178539+08:00",
-  "total": 3738,
+  "last_updated": "2026-11-19T22:48:31.845326+08:00",
+  "total": 3743,
   "news": [
+    {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "published": "2026-11-19T11:13:01+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "hacking",
+        "outages"
+      ],
+      "id": "04c51645127581f8f157bd881cf68a84",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "published": "2026-11-19T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "productivity",
+        "superhuman"
+      ],
+      "id": "02881da1b9dcfa485d2c1fe45f0d16e3",
+      "mapped_category": "AI Service",
+      "time_slot": "afternoon",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they’ve kept a human liver alive on life support outside the&#8230;",
+      "published": "2026-11-19T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "511c0dc52d7f73c3c2e72ead97605081",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
+      "published": "2026-11-19T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "d16b37db16c0aac249ac48782cc799f4",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+      "published": "2026-11-19T11:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "id": "f4380befbe679cf98546b6834d6e2f61",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-19"
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
