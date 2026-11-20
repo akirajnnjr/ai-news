@@ -1,7 +1,241 @@
 {
-  "last_updated": "2026-11-19T22:48:31.845326+08:00",
-  "total": 3743,
+  "last_updated": "2026-11-20T12:51:39.933054+08:00",
+  "total": 3756,
   "news": [
+    {
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "published": "2026-11-19T20:29:46+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "Biz & IT",
+        "Security",
+        "espionage",
+        "russia",
+        "Silicon Valley"
+      ],
+      "id": "3c5e491e54728c3437afe9b35a931073",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "published": "2026-11-20T00:56:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI agents",
+        "Apple",
+        "Meta",
+        "muse"
+      ],
+      "id": "15417601d21a9662c5461051f25d207f",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "published": "2026-11-20T00:43:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "anthropic ipo",
+        "IPO"
+      ],
+      "id": "cc5563ff1b1111da1cdd2bef0fed6ad6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "published": "2026-11-19T21:58:06+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "AI wearables",
+        "hardware",
+        "In Brief",
+        "Meta",
+        "muse"
+      ],
+      "id": "6b24f4e22080386ef990ce58070666d3",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "published": "2026-11-19T21:42:31+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "outages"
+      ],
+      "id": "74e8068d1097b579db3c612788df76f8",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "2026-11-19T20:18:49+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "China",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "1761ecaf8c5d36a8aeee0f66ca1ca05c",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "published": "2026-11-19T19:10:45+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "anthropic ipo",
+        "IPO",
+        "philanthropy"
+      ],
+      "id": "38cbde179199e5d614e6f2b5abfb0911",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "published": "2026-11-19T18:09:11+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "ai agent",
+        "gemini",
+        "Google"
+      ],
+      "id": "ffcfd7e32e09e749ee5eb8918018aee2",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "published": "2026-11-19T17:38:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "In Brief",
+        "Meta",
+        "muse"
+      ],
+      "id": "4e6c3fbd0dea1b2bd91eaaee9d184bc4",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "published": "2026-11-19T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "alibaba",
+        "Asia",
+        "China",
+        "retailers",
+        "San Francisco",
+        "Singapore",
+        "supply chain"
+      ],
+      "id": "bd72c3200d90bc308bdfcefa6d02e9b6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "published": "2026-11-19T16:59:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "IPO"
+      ],
+      "id": "e73ee03b16d6d0e284fa4ab009db8481",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "published": "2026-11-19T16:19:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "dario amodei",
+        "IPO"
+      ],
+      "id": "3beff62fefd827a294c5d91bcac8f3fb",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "published": "2026-11-19T14:54:39+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "anthropic ipo",
+        "IPO"
+      ],
+      "id": "6dbad1140452d6c75064b058b62821bc",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-19"
+    },
     {
       "title": "How to tell a cyberattack from a plain old outage",
       "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
