@@ -1,7 +1,122 @@
 {
-  "last_updated": "2026-11-20T22:29:54.062772+08:00",
-  "total": 3759,
+  "last_updated": "2026-11-21T12:46:40.006916+08:00",
+  "total": 3766,
   "news": [
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "published": "2026-11-20T20:59:08+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "inference",
+        "LLMs",
+        "privacy"
+      ],
+      "id": "718dc2db66a106fb86a93a474a3db287",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "published": "2026-11-20T19:53:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "Startups",
+        "Exclusive",
+        "fusion power"
+      ],
+      "id": "cc0a4dad659b5596f9be4bdfa50c4d83",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "published": "2026-11-20T19:32:08+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "id": "f509e696672e071432ea86627c3eb49c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "published": "2026-11-20T17:40:01+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "id": "cc04f916f5cb80a61224a9c0c634808e",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]",
+      "published": "2026-11-20T14:55:44+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "anthropic ipo",
+        "Equity podcast",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "3293ff1a5cf2333f32d58a45166d8c40",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+      "published": "2026-11-20T18:15:15+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "id": "b8658038964280d241add54dd4912a85",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "summary": "",
+      "published": "2026-11-20T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "c1386e2c04140801db59d6dea763b927",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-20"
+    },
     {
       "title": "Six AI-powered gadgets that could make your home office smarter",
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
