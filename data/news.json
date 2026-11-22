@@ -1,7 +1,78 @@
 {
-  "last_updated": "2026-11-21T12:46:40.006916+08:00",
-  "total": 3766,
+  "last_updated": "2026-11-22T12:01:03.046345+08:00",
+  "total": 3770,
   "news": [
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "published": "2026-11-21T21:37:10+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Security",
+        "Social",
+        "Meredith Whittaker",
+        "signal"
+      ],
+      "id": "f8ce89f0a31be533e3b307c1bcb16ddd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "published": "2026-11-21T21:07:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Hardware",
+        "Equity podcast",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "6572e082b9017ee1ce9ee231ef6cb633",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "2026-11-21T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "instinct",
+        "AI agents"
+      ],
+      "id": "f9419135fce595f04c4ea0cf0651ddee",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "published": "2026-11-21T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "Media & Entertainment",
+        "AI",
+        "Hollywood",
+        "entertainment",
+        "microdramas"
+      ],
+      "id": "6b65b8b30d4054e0c0b908bd2f937ee5",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-22"
+    },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
