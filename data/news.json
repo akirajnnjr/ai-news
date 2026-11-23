@@ -1,7 +1,61 @@
 {
-  "last_updated": "2026-11-22T12:01:03.046345+08:00",
-  "total": 3770,
+  "last_updated": "2026-11-23T12:44:00.330666+08:00",
+  "total": 3773,
   "news": [
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "published": "2026-11-23T01:25:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Venture",
+        "Anthropic",
+        "anthropic ipo",
+        "Baillie Gifford",
+        "ggv capital",
+        "GIC",
+        "Notable Capital"
+      ],
+      "id": "ca5d392ce76c8966b263d58c05e81b1b",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "published": "2026-11-22T21:14:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "OpenAI",
+        "sam altman"
+      ],
+      "id": "772a602107cad2ee0d2e7ec2299ca0b5",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "published": "2026-11-22T18:08:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Media & Entertainment",
+        "data centers"
+      ],
+      "id": "9d8fa306d2196715c96b8c32009942ff",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-23"
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
