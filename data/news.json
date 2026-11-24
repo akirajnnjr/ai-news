@@ -1,7 +1,138 @@
 {
-  "last_updated": "2026-11-24T15:35:01.355170+08:00",
-  "total": 3791,
+  "last_updated": "2026-11-25T00:37:17.205951+08:00",
+  "total": 3799,
   "news": [
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "published": "2026-11-24T12:30:05+00:00",
+      "source": "Ars Technica",
+      "original_categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "agents",
+        "hacking",
+        "zerodays"
+      ],
+      "id": "dad9742e3b9b29ab12cd327370b75257",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "published": "2026-11-24T16:10:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Climate",
+        "data centers",
+        "energy storage",
+        "Solar Power",
+        "G2VP"
+      ],
+      "id": "a5613aba9d10bf4710aa41654ab6884a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "published": "2026-11-24T16:02:37+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "ai generated content",
+        "Pinterest"
+      ],
+      "id": "b6d56875ce7b44481130e0245cfdbd23",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "published": "2026-11-24T15:51:07+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Amazon",
+        "decart",
+        "Mergers and Acquisitions",
+        "trainium"
+      ],
+      "id": "de3bc194ca87cfd26233513efd80f43a",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
+      "published": "2026-11-24T15:15:16+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "id": "ba625c17c59cc4b2f254e665579859df",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;",
+      "published": "2026-11-24T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "22b4aa0dca98326b13c4ff4ce8846188",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
+      "published": "2026-11-24T11:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "id": "65943b3b058f06da1670ed86583e2afd",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "summary": "",
+      "published": "2026-11-24T16:34:13+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "8b4408d754157f3f44718ad96f358591",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
