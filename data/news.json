@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-24T00:41:30.825079+08:00",
-  "total": 3780,
+  "last_updated": "2026-11-24T15:35:01.355170+08:00",
+  "total": 3791,
   "news": [
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "published": "2026-11-23T22:05:50+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "code",
+        "coding"
+      ],
+      "id": "fc410e023e94d19d9ba85adb313c29f3",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "published": "2026-11-23T22:02:05+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Fintech",
+        "Fundraising",
+        "Startups",
+        "AI agents",
+        "investing"
+      ],
+      "id": "a42ef673b6ac8123df0240630ab9dd7f",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "published": "2026-11-23T21:47:41+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "b23fe2325ee92658e49518de21a32846",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "published": "2026-11-23T21:25:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Donald Trump",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "b22bb97b417e299efb7eaef60416e9fd",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "published": "2026-11-23T20:38:53+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "1f8997ce74a9df683210c685056a6bb2",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "published": "2026-11-23T19:14:46+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Google"
+      ],
+      "id": "389c89635cfdfbd73445a3e8c9649940",
+      "mapped_category": "LLM",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "published": "2026-11-23T18:12:22+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Government & Policy",
+        "Congress",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "4eec8977b6a96a50e0b875b574f57529",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "published": "2026-11-23T17:14:23+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Enterprise",
+        "Amazon",
+        "AWS",
+        "decart",
+        "In Brief",
+        "Mergers and Acquisitions",
+        "trainium"
+      ],
+      "id": "e483a880095260a7c8c2321a148bf505",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "published": "2026-11-23T16:57:40+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "TC",
+        "nvidia",
+        "Jensen Huang"
+      ],
+      "id": "236394fc670236c22905adc0297ea27a",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
+      "published": "2026-11-23T17:36:08+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary",
+        "The Algorithm"
+      ],
+      "id": "e3357160a21f62e3680c15f4aaf8b48d",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "summary": "",
+      "published": "2026-11-23T17:20:37+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "20bf59765e930e62b25e7e7262f0c5d6",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-24"
+    },
     {
       "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
       "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
