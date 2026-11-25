@@ -1,7 +1,99 @@
 {
-  "last_updated": "2026-11-25T14:03:17.341402+08:00",
-  "total": 3809,
+  "last_updated": "2026-11-26T00:19:50.408522+08:00",
+  "total": 3815,
   "news": [
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch deck.&#160; ⁠Anita Verma-Lallian⁠ has been selling exactly that. [&#8230;]",
+      "published": "2026-11-25T15:41:43+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "AI data center",
+        "Chamath Palihapitiya",
+        "nvidia"
+      ],
+      "id": "45abf29e29695a7072c66397361d6a3b",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "published": "2026-11-25T14:10:18+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "Amazon",
+        "e-commerce",
+        "Meta",
+        "muse"
+      ],
+      "id": "0cb60670470dc60d8652bbb8147585c9",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "published": "2026-11-25T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI"
+      ],
+      "id": "4621f767e4cf4e2625086690a9e1b4c9",
+      "mapped_category": "AI Company",
+      "time_slot": "afternoon",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&#8230;",
+      "published": "2026-11-25T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "4efa556b512f34a2c354fede031e40ec",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
+      "published": "2026-11-25T10:00:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "id": "20ed3c7d1f7fda5ed91c2f8f30f32daf",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "summary": "",
+      "published": "2026-11-25T10:22:09+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "7b1bdc5dda43a42c22c71cad8e72123f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-25"
+    },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
