@@ -1,7 +1,194 @@
 {
-  "last_updated": "2026-11-25T00:37:17.205951+08:00",
-  "total": 3799,
+  "last_updated": "2026-11-25T14:03:17.341402+08:00",
+  "total": 3809,
   "news": [
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "published": "2026-11-25T00:12:02+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "d7c3fae085f15ae8492cd30eba4aa9c6",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "published": "2026-11-24T22:27:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "493e269f01dc8c7f670310b2cea0bb5b",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "published": "2026-11-24T21:48:27+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "id": "dcfea5a712b9dda222a348a2d5084310",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "published": "2026-11-24T21:33:29+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "Anthropic",
+        "Hugging Face",
+        "Meta",
+        "muse",
+        "OpenAI",
+        "openclaw",
+        "personal assistant"
+      ],
+      "id": "84cfd1b9e3c30cf62e780a6d520ecbee",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "published": "2026-11-24T21:32:38+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "black friday",
+        "Meta",
+        "Walmart"
+      ],
+      "id": "bc914d95aadba40f40c2c322a3361908",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "published": "2026-11-24T21:19:52+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Privacy",
+        "Security",
+        "Startups",
+        "AI agents",
+        "ai apps",
+        "Exclusive"
+      ],
+      "id": "f2826368332a3f31345a2bca8ffe9a04",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "published": "2026-11-24T18:30:42+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Anthropic",
+        "In Brief",
+        "IPO"
+      ],
+      "id": "d52b76df83c94b72f5fb01dbb4f44c41",
+      "mapped_category": "AI Company",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "published": "2026-11-24T18:02:59+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Security",
+        "cyberattacks",
+        "cybersecurity",
+        "data breaches",
+        "UK government"
+      ],
+      "id": "281e7b0eb8a2f22fabe430c5f6a63fa7",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "published": "2026-11-24T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Instagram",
+        "muse"
+      ],
+      "id": "6e7150d9caf7ae53e9958f7109dc6eec",
+      "mapped_category": "AI Service",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "published": "2026-11-24T16:46:00+00:00",
+      "source": "TechCrunch AI",
+      "original_categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "ai music",
+        "ai slop",
+        "music streaming",
+        "tidal"
+      ],
+      "id": "70e4e668b44490113c411fc1f9f9be0c",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-25"
+    },
     {
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
