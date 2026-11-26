@@ -1,7 +1,61 @@
 {
-  "last_updated": "2026-11-26T13:56:27.926687+08:00",
-  "total": 3826,
+  "last_updated": "2026-11-26T23:55:02.649138+08:00",
+  "total": 3830,
   "news": [
+    {
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a few prosthetics. But his latest&#8230;",
+      "published": "2026-11-26T13:10:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "The Download"
+      ],
+      "id": "d6d5e4635fe4840f62c6603d3f6deb0f",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects&#8230;",
+      "published": "2026-11-26T09:59:00+00:00",
+      "source": "MIT Technology Review",
+      "original_categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "id": "9e1edee222418c3725ec575d639af761",
+      "mapped_category": "AI Application",
+      "time_slot": "afternoon",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "summary": "",
+      "published": "2026-11-26T11:37:17+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "bacf1389cf533ea12ce5bafe67e044a6",
+      "mapped_category": "LLM",
+      "time_slot": "afternoon",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "summary": "",
+      "published": "2026-11-26T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "original_categories": [],
+      "id": "b2b31d3adae10c7d4d6f0a2509202eb9",
+      "mapped_category": "AI Application",
+      "time_slot": "morning",
+      "date": "2026-11-26"
+    },
     {
       "title": "Backblaze explains why it's sharing customer information with advertisers",
       "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
